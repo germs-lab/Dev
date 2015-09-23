@@ -1,0 +1,2138 @@
+289462	Choi, Jinlyung	649831.8	Actinoplanes sp. N902-109	1	9228054	2015-09-23 10:32:16	
+[ view details ]	not started
+289461	Choi, Jinlyung	1294143.7	Pseudomonas denitrificans ATCC 13867	1	5696307	2015-09-23 10:32:00	
+[ view details ]	complete
+289460	Choi, Jinlyung	406818.10	Xenorhabdus bovienii SS-2004	1	4225498	2015-09-23 10:31:45	
+[ view details ]	complete
+289459	Choi, Jinlyung	536232.13	Clostridium botulinum A2 str. Kyoto	1	4155278	2015-09-23 10:31:32	
+[ view details ]	complete
+289458	Choi, Jinlyung	632772.13	Rhodococcus opacus B4	1	7913450	2015-09-23 10:31:28	
+[ view details ]	complete
+289457	Choi, Jinlyung	322710.17	Azotobacter vinelandii DJ	1	5365318	2015-09-23 10:31:26	
+[ view details ]	complete
+289456	Choi, Jinlyung	546414.8	Deinococcus deserti VCD115	1	2819842	2015-09-23 10:31:16	
+[ view details ]	complete
+289455	Choi, Jinlyung	358681.13	Brevibacillus brevis NBRC 100599	1	6296436	2015-09-23 10:31:03	
+[ view details ]	complete
+289454	Choi, Jinlyung	240015.21	Acidobacterium capsulatum ATCC 51196	1	4127356	2015-09-23 10:30:50	
+[ view details ]	complete
+289453	Choi, Jinlyung	379066.11	Gemmatimonas aurantiaca T-27	1	4636964	2015-09-23 10:30:50	
+[ view details ]	complete
+289452	Choi, Jinlyung	568819.8	Listeria monocytogenes serotype 4b str. CLIP 80459	1	2912690	2015-09-23 10:30:42	
+[ view details ]	complete
+289451	Choi, Jinlyung	572264.17	Bacillus cereus 03BB102	1	5269628	2015-09-23 10:30:26	
+[ view details ]	complete
+289450	Choi, Jinlyung	204536.8	Sulfurihydrogenibium azorense Az-Fu1	1	1640877	2015-09-23 10:30:16	
+[ view details ]	complete
+289449	Choi, Jinlyung	561275.16	Mycobacterium bovis BCG str. Tokyo 172	1	4371711	2015-09-23 10:30:16	
+[ view details ]	complete
+289448	Choi, Jinlyung	634499.14	Erwinia pyrifoliae Ep1/96	1	4026322	2015-09-23 10:30:16	
+[ view details ]	complete
+289446	Choi, Jinlyung	218495.66	Streptococcus uberis 0140J	1	1852352	2015-09-23 10:29:54	
+[ view details ]	complete
+289445	Choi, Jinlyung	306263.12	Campylobacter lari RM2100	1	1525460	2015-09-23 10:29:52	
+[ view details ]	complete
+289444	Choi, Jinlyung	535289.14	Acidovorax ebreus TPSY	1	3796573	2015-09-23 10:29:43	
+[ view details ]	complete
+289443	Choi, Jinlyung	311402.23	Agrobacterium vitis S4	1	3726375	2015-09-23 10:29:43	
+[ view details ]	complete
+289442	Choi, Jinlyung	311402.22	Agrobacterium vitis S4	1	1283187	2015-09-23 10:29:33	
+[ view details ]	complete
+289441	Choi, Jinlyung	311403.21	Agrobacterium radiobacter K84	1	4005130	2015-09-23 10:29:32	
+[ view details ]	complete
+289440	Choi, Jinlyung	361100.15	Bacillus cereus Q1	1	5214195	2015-09-23 10:29:15	
+[ view details ]	complete
+289439	Choi, Jinlyung	316067.7	Geobacter daltonii FRC-32	1	4304501	2015-09-23 10:29:14	
+[ view details ]	complete
+289438	Choi, Jinlyung	311403.20	Agrobacterium radiobacter K84	1	2650913	2015-09-23 10:29:12	
+[ view details ]	complete
+289437	Choi, Jinlyung	557760.15	Rhodobacter sphaeroides KD131	1	3152792	2015-09-23 10:29:03	
+[ view details ]	complete
+289436	Choi, Jinlyung	460265.31	Methylobacterium nodulans ORS 2060	1	7772460	2015-09-23 10:28:49	
+[ view details ]	complete
+289435	Choi, Jinlyung	565050.14	Caulobacter crescentus NA1000	1	4042929	2015-09-23 10:28:42	
+[ view details ]	complete
+289434	Choi, Jinlyung	394503.14	[Clostridium] cellulolyticum H10	1	4068724	2015-09-23 10:28:40	
+[ view details ]	complete
+289433	Choi, Jinlyung	557760.14	Rhodobacter sphaeroides KD131	1	1297647	2015-09-23 10:28:38	
+[ view details ]	complete
+289432	Choi, Jinlyung	455488.10	Anaeromyxobacter dehalogenans 2CP-1	1	5029329	2015-09-23 10:28:15	
+[ view details ]	complete
+289431	Choi, Jinlyung	395961.17	Cyanothece sp. PCC 7425	1	5374574	2015-09-23 10:28:13	
+[ view details ]	complete
+289430	Choi, Jinlyung	452863.29	Arthrobacter chlorophenolicus A6	1	4395537	2015-09-23 10:28:09	
+[ view details ]	complete
+289428	Choi, Jinlyung	448385.26	Sorangium cellulosum So ce56	1	13033779	2015-09-23 10:28:05	
+[ view details ]	in progress
+289427	Choi, Jinlyung	234267.24	Candidatus Solibacter usitatus Ellin6076	1	9965640	2015-09-23 10:27:41	
+[ view details ]	complete
+289426	Choi, Jinlyung	521011.13	Methanosphaerula palustris E1-9c	1	2922917	2015-09-23 10:27:37	
+[ view details ]	complete
+289425	Choi, Jinlyung	491916.27	Rhizobium etli CIAT 652	1	4513324	2015-09-23 10:27:37	
+[ view details ]	complete
+289424	Choi, Jinlyung	164756.23	Mycobacterium sp. MCS	1	5705448	2015-09-23 10:27:08	
+[ view details ]	complete
+289423	Choi, Jinlyung	482957.18	Burkholderia lata	1	3694126	2015-09-23 10:27:01	
+[ view details ]	complete
+289422	Choi, Jinlyung	482957.17	Burkholderia lata	1	3587082	2015-09-23 10:27:00	
+[ view details ]	complete
+289421	Choi, Jinlyung	482957.16	Burkholderia lata	1	1395069	2015-09-23 10:26:49	
+[ view details ]	complete
+289185	Choi, Jinlyung	1340851.8	Pseudomonas aeruginosa RP73	1	6342034	2015-09-22 14:56:48	
+[ view details ]	complete
+287527	Choi, Jinlyung	93220.23	Pandoraea pnomenusa	1	5378872	2015-09-15 12:05:18	
+[ view details ]	complete
+287526	Choi, Jinlyung	1408273.5	Pseudomonas aeruginosa LESB65	1	6527005	2015-09-15 12:05:15	
+[ view details ]	complete
+287525	Choi, Jinlyung	1352355.5	Pseudomonas aeruginosa c7447m	1	6262305	2015-09-15 12:05:04	
+[ view details ]	complete
+287524	Choi, Jinlyung	682633.4	Mesorhizobium ciceri ca181	1	7041479	2015-09-15 12:04:45	
+[ view details ]	complete
+287523	Choi, Jinlyung	1289591.5	Rhodococcus erythropolis R138	1	6444743	2015-09-15 12:04:42	
+[ view details ]	complete
+287522	Choi, Jinlyung	1052004.5	Granulibacter bethesdensis CGDNIH3	1	2711143	2015-09-15 12:04:32	
+[ view details ]	complete
+287521	Choi, Jinlyung	1394180.6	Ralstonia solanacearum Rs-09-161	1	3688450	2015-09-15 12:04:16	
+[ view details ]	complete
+287520	Choi, Jinlyung	931223.8	Rhodococcus sp. BCP1	1	6008321	2015-09-15 12:04:07	
+[ view details ]	complete
+287519	Choi, Jinlyung	1219375.5	Xanthomonas cassavae CFBP 4642	1	5197712	2015-09-15 12:04:04	
+[ view details ]	complete
+287518	Choi, Jinlyung	1457195.5	Ralstonia solanacearum Rs-10-244	1	3663593	2015-09-15 12:04:00	
+[ view details ]	complete
+287517	Choi, Jinlyung	1300225.8	Agrobacterium tumefaciens WRT31	1	2176692	2015-09-15 12:03:44	
+[ view details ]	complete
+287515	Choi, Jinlyung	1300225.7	Agrobacterium tumefaciens WRT31	1	2938080	2015-09-15 12:03:30	
+[ view details ]	complete
+287512	Choi, Jinlyung	313624.9	Nodularia spumigena CCY9414	1	5465269	2015-09-15 12:03:30	
+[ view details ]	complete
+287511	Choi, Jinlyung	355249.13	Streptomyces sp. Tu6071	1	7359380	2015-09-15 12:03:29	
+[ view details ]	complete
+287510	Choi, Jinlyung	1260626.8	Pseudomonas syringae pv. syringae B64	1	5930035	2015-09-15 12:03:23	
+[ view details ]	complete
+287509	Choi, Jinlyung	527021.9	Bacillus thuringiensis Bt407	1	6026843	2015-09-15 12:03:02	
+[ view details ]	complete
+287508	Choi, Jinlyung	1427342.7	Pseudomonas aeruginosa SCV20265	1	6725183	2015-09-15 12:02:53	
+[ view details ]	complete
+287507	Choi, Jinlyung	1435058.6	Pseudomonas monteilii SB3101	1	5945120	2015-09-15 12:02:43	
+[ view details ]	complete
+287506	Choi, Jinlyung	1435044.5	Pseudomonas monteilii SB3078	1	6000087	2015-09-15 12:02:43	
+[ view details ]	complete
+287504	Choi, Jinlyung	1415630.7	Pseudomonas sp. TKP	1	7012672	2015-09-15 12:02:21	
+[ view details ]	complete
+287502	Choi, Jinlyung	1415165.7	Bacillus amyloliquefaciens LFB112	1	3942754	2015-09-15 12:02:15	
+[ view details ]	complete
+287499	Choi, Jinlyung	1216976.6	Achromobacter xylosoxidans NBRC 15126 = ATCC 27061	1	6683584	2015-09-15 12:02:08	
+[ view details ]	complete
+287498	Choi, Jinlyung	1429244.6	Paenibacillus polymyxa CR1	1	6024666	2015-09-15 12:02:07	
+[ view details ]	complete
+287497	Choi, Jinlyung	700508.9	Mycobacterium neoaurum VKM Ac-1815D	1	5421267	2015-09-15 12:01:45	
+[ view details ]	complete
+287496	Choi, Jinlyung	1415629.7	Pseudomonas aeruginosa MTB-1	1	6580038	2015-09-15 12:01:39	
+[ view details ]	complete
+287495	Choi, Jinlyung	1029756.7	Hyphomicrobium nitrativorans NL23	1	3653837	2015-09-15 12:01:32	
+[ view details ]	complete
+287494	Choi, Jinlyung	1343740.12	Streptomyces rapamycinicus NRRL 5491	1	12700734	2015-09-15 12:01:31	
+[ view details ]	complete
+287493	Choi, Jinlyung	1416914.6	Pandoraea pnomenusa 3kgm	1	5435131	2015-09-15 12:01:12	
+[ view details ]	complete
+287491	Choi, Jinlyung	1388758.5	Dehalococcoides mccartyi GY50	1	1407418	2015-09-15 12:01:02	
+[ view details ]	complete
+287488	Choi, Jinlyung	529122.7	Bacillus thuringiensis YBT-1518	1	6002284	2015-09-15 12:01:02	
+[ view details ]	complete
+287485	Choi, Jinlyung	1399115.6	Exiguobacterium sp. MH3	1	3164195	2015-09-15 12:00:44	
+[ view details ]	complete
+287484	Choi, Jinlyung	1123384.4	Pseudothermotoga hypogea DSM 11164 = NBRC 106472	1	2165165	2015-09-15 12:00:40	
+[ view details ]	complete
+287483	Choi, Jinlyung	1415784.7	Bacillus toyonensis BCT-7112	1	4940474	2015-09-15 12:00:26	
+[ view details ]	complete
+287482	Choi, Jinlyung	69328.7	Pseudomonas sp. VLB120	1	5644569	2015-09-15 12:00:17	
+[ view details ]	complete
+287481	Choi, Jinlyung	557599.47	Mycobacterium kansasii ATCC 12478	1	6432277	2015-09-15 12:00:17	
+[ view details ]	complete
+287480	Choi, Jinlyung	1246995.7	Actinoplanes friuliensis DSM 7358	1	9376071	2015-09-15 12:00:05	
+[ view details ]	complete
+287479	Choi, Jinlyung	1358410.7	Campylobacter coli 15-537360	1	1658751	2015-09-15 11:59:51	
+[ view details ]	complete
+287478	Choi, Jinlyung	1412898.8	Bacillus amyloliquefaciens CC178	1	3916828	2015-09-15 11:59:38	
+[ view details ]	complete
+287477	Choi, Jinlyung	1345695.6	Clostridium saccharobutylicum DSM 13864	1	5107814	2015-09-15 11:59:34	
+[ view details ]	complete
+287476	Choi, Jinlyung	1244085.13	Klebsiella pneumoniae CG43	1	5166857	2015-09-15 11:59:32	
+[ view details ]	complete
+287471	Choi, Jinlyung	1366050.10	Ralstonia pickettii DTP0602	1	2889590	2015-09-15 11:59:15	
+[ view details ]	complete
+287470	Choi, Jinlyung	1366050.9	Ralstonia pickettii DTP0602	1	737115	2015-09-15 11:59:11	
+[ view details ]	complete
+287469	Choi, Jinlyung	1366050.8	Ralstonia pickettii DTP0602	1	4499145	2015-09-15 11:59:03	
+[ view details ]	complete
+287468	Choi, Jinlyung	1221524.8	Amycolatopsis mediterranei RB	1	10246864	2015-09-15 11:58:59	
+[ view details ]	complete
+287467	Choi, Jinlyung	1246301.8	Variovorax paradoxus B4	1	5795261	2015-09-15 11:58:55	
+[ view details ]	complete
+287466	Choi, Jinlyung	1194085.5	Staphylococcus aureus subsp. aureus SA40	1	2728308	2015-09-15 11:58:52	
+[ view details ]	complete
+287465	Choi, Jinlyung	1136179.10	Rhodococcus erythropolis CCM2595	1	6281198	2015-09-15 11:58:36	
+[ view details ]	complete
+287463	Choi, Jinlyung	1246301.7	Variovorax paradoxus B4	1	1353255	2015-09-15 11:58:26	
+[ view details ]	complete
+287459	Choi, Jinlyung	1150476.8	Bacillus methylotrophicus UCMB5113	1	3889532	2015-09-15 11:58:19	
+[ view details ]	complete
+287458	Choi, Jinlyung	1345697.5	Geobacillus sp. JF8	1	3446630	2015-09-15 11:58:07	
+[ view details ]	complete
+287456	Choi, Jinlyung	1214242.9	Streptomyces collinus Tu 365	1	8272925	2015-09-15 11:57:58	
+[ view details ]	complete
+287455	Choi, Jinlyung	1266738.5	Proteus mirabilis BB2000	1	3846754	2015-09-15 11:57:52	
+[ view details ]	complete
+287454	Choi, Jinlyung	877468.6	Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1	1	4915960	2015-09-15 11:57:43	
+[ view details ]	complete
+287453	Choi, Jinlyung	1328306.8	Rhizobium etli bv. mimosae str. Mim1	1	4284494	2015-09-15 11:57:41	
+[ view details ]	complete
+287448	Choi, Jinlyung	930782.5	Listeria monocytogenes J1-220	1	3032271	2015-09-15 11:57:24	
+[ view details ]	complete
+287447	Choi, Jinlyung	754503.7	Mycoplasma hyopneumoniae 7422	1	898495	2015-09-15 11:57:15	
+[ view details ]	complete
+287446	Choi, Jinlyung	930781.5	Listeria monocytogenes J1816	1	2947460	2015-09-15 11:57:09	
+[ view details ]	complete
+287445	Choi, Jinlyung	1346614.10	Serratia liquefaciens ATCC 27592	1	5238612	2015-09-15 11:57:09	
+[ view details ]	complete
+287444	Choi, Jinlyung	1096996.6	Acinetobacter baumannii BJAB0715	1	4001621	2015-09-15 11:57:01	
+[ view details ]	complete
+287443	Choi, Jinlyung	1096997.7	Acinetobacter baumannii BJAB0868	1	3906795	2015-09-15 11:57:00	
+[ view details ]	complete
+287442	Choi, Jinlyung	1254432.8	Sorangium cellulosum So0157-2	1	14782125	2015-09-15 11:56:46	
+[ view details ]	complete
+287441	Choi, Jinlyung	1096995.7	Acinetobacter baumannii BJAB07104	1	3951920	2015-09-15 11:56:36	
+[ view details ]	complete
+287440	Choi, Jinlyung	1348660.8	Serratia plymuthica S13	1	5467306	2015-09-15 11:56:34	
+[ view details ]	complete
+287439	Choi, Jinlyung	1200352.6	Corynebacterium terpenotabidum Y-11	1	2751233	2015-09-15 11:56:33	
+[ view details ]	complete
+287438	Choi, Jinlyung	682634.8	Serratia plymuthica 4Rx13	1	5328010	2015-09-15 11:56:08	
+[ view details ]	complete
+287437	Choi, Jinlyung	333146.14	Ferroplasma acidarmanus fer1	1	1935211	2015-09-15 11:56:07	
+[ view details ]	complete
+287434	Choi, Jinlyung	1331671.6	Pseudomonas putida H8234	1	6870827	2015-09-15 11:55:47	
+[ view details ]	complete
+287433	Choi, Jinlyung	1166130.11	Enterobacter sp. R4-368	1	5039027	2015-09-15 11:55:46	
+[ view details ]	complete
+287432	Choi, Jinlyung	1303518.7	Chthonomonas calidirosea T49	1	3437861	2015-09-15 11:55:33	
+[ view details ]	complete
+287431	Choi, Jinlyung	1124983.21	Pseudomonas protegens CHA0	1	6867980	2015-09-15 11:55:18	
+[ view details ]	complete
+287430	Choi, Jinlyung	766760.9	Bacillus licheniformis 9945A	1	4376305	2015-09-15 11:55:12	
+[ view details ]	complete
+287427	Choi, Jinlyung	1199187.8	Mycobacterium avium subsp. paratuberculosis MAP4	1	4829424	2015-09-15 11:54:56	
+[ view details ]	complete
+287426	Choi, Jinlyung	86416.6	Clostridium pasteurianum BC1	1	4990707	2015-09-15 11:54:40	
+[ view details ]	complete
+287425	Choi, Jinlyung	767817.6	Desulfotomaculum gibsoniae DSM 7213	1	4855529	2015-09-15 11:54:39	
+[ view details ]	complete
+287423	Choi, Jinlyung	1303692.11	Streptomyces fulvissimus DSM 40593	1	7905758	2015-09-15 11:54:27	
+[ view details ]	complete
+287422	Choi, Jinlyung	527001.6	Salmonella enterica subsp. enterica serovar Typhi str. Ty21a	1	4791958	2015-09-15 11:54:15	
+[ view details ]	complete
+287421	Choi, Jinlyung	1249661.7	Burkholderia thailandensis MSMB121	1	2763585	2015-09-15 11:54:07	
+[ view details ]	complete
+287420	Choi, Jinlyung	1249661.6	Burkholderia thailandensis MSMB121	1	3967794	2015-09-15 11:54:08	
+[ view details ]	complete
+287419	Choi, Jinlyung	1283331.5	Azotobacter vinelandii CA6	1	5323210	2015-09-15 11:53:45	
+[ view details ]	complete
+287418	Choi, Jinlyung	670307.6	Hyphomicrobium denitrificans 1NES1	1	3808687	2015-09-15 11:53:43	
+[ view details ]	complete
+287417	Choi, Jinlyung	1283330.8	Azotobacter vinelandii CA	1	5366370	2015-09-15 11:53:45	
+[ view details ]	complete
+287416	Choi, Jinlyung	666686.5	Bacillus sp. 1NLA3E	1	4815602	2015-09-15 11:53:37	
+[ view details ]	complete
+287415	Choi, Jinlyung	1286170.8	Raoultella ornithinolytica B6	1	5398151	2015-09-15 11:53:15	
+[ view details ]	complete
+287414	Choi, Jinlyung	1241935.7	Sulfolobus islandicus LAL14/1	1	2465177	2015-09-15 11:53:06	
+[ view details ]	complete
+287413	Choi, Jinlyung	657309.17	Bacteroides xylanisolvens XB1A	1	5976145	2015-09-15 11:53:05	
+[ view details ]	complete
+287412	Choi, Jinlyung	1265601.9	Streptomyces sp. PAMC26508	1	7526197	2015-09-15 11:53:05	
+[ view details ]	complete
+287411	Choi, Jinlyung	718255.13	Roseburia intestinalis XB6B4	1	4286292	2015-09-15 11:52:46	
+[ view details ]	complete
+287410	Choi, Jinlyung	657313.13	Ruminococcus torques L2-14	1	3341681	2015-09-15 11:52:46	
+[ view details ]	complete
+287409	Choi, Jinlyung	457425.25	Streptomyces albus J1074	1	6841649	2015-09-15 11:52:24	
+[ view details ]	complete
+287408	Choi, Jinlyung	1203460.9	Streptomyces hygroscopicus subsp. jinggangensis TL01	1	9840102	2015-09-15 11:52:25	
+[ view details ]	complete
+287407	Choi, Jinlyung	1280938.7	Pseudomonas aeruginosa B136-33	1	6421010	2015-09-15 11:52:17	
+[ view details ]	complete
+287406	Choi, Jinlyung	717962.12	Coprococcus catus GD/7	1	3522704	2015-09-15 11:52:12	
+[ view details ]	complete
+287405	Choi, Jinlyung	1302650.5	Bacillus subtilis subsp. subtilis str. BAB-1	1	4021944	2015-09-15 11:51:42	
+[ view details ]	complete
+287403	Choi, Jinlyung	1121335.10	[Clostridium] stercorarium subsp. stercorarium DSM 8532	1	2970010	2015-09-15 11:51:39	
+[ view details ]	complete
+287402	Choi, Jinlyung	1184267.9	Bdellovibrio exovorus JSS	1	2657893	2015-09-15 11:51:31	
+[ view details ]	complete
+287401	Choi, Jinlyung	1262456.5	Ralstonia solanacearum FQY_4	1	3715422	2015-09-15 11:51:18	
+[ view details ]	complete
+287400	Choi, Jinlyung	349215.11	Micavibrio aeruginosavorus EPB	1	2458610	2015-09-15 11:51:17	
+[ view details ]	complete
+287399	Choi, Jinlyung	745310.13	Sphingomonas sp. MM-1	1	4054833	2015-09-15 11:51:10	
+[ view details ]	complete
+287398	Choi, Jinlyung	666685.8	Rhodanobacter denitrificans	1	4225490	2015-09-15 11:51:10	
+[ view details ]	complete
+287397	Choi, Jinlyung	1286640.9	Sinorhizobium meliloti 2011	1	3657276	2015-09-15 11:50:55	
+[ view details ]	complete
+287396	Choi, Jinlyung	1313172.6	Ilumatobacter coccineus YM16-304	1	4830181	2015-09-15 11:50:53	
+[ view details ]	complete
+287395	Choi, Jinlyung	1204414.4	Corynebacterium glutamicum K051	1	3309400	2015-09-15 11:50:43	
+[ view details ]	complete
+287394	Choi, Jinlyung	748247.16	Azoarcus sp. KH32C	1	5081166	2015-09-15 11:50:43	
+[ view details ]	complete
+287393	Choi, Jinlyung	1214101.9	Streptomyces davawensis JCM 4913	1	9466619	2015-09-15 11:50:30	
+[ view details ]	complete
+287392	Choi, Jinlyung	1147161.9	Bacillus subtilis subsp. subtilis 6051-HGW	1	4215610	2015-09-15 11:50:25	
+[ view details ]	complete
+287391	Choi, Jinlyung	1245469.9	Bradyrhizobium oligotrophicum S58	1	8264165	2015-09-15 11:50:17	
+[ view details ]	complete
+287390	Choi, Jinlyung	1121353.6	Corynebacterium callunae DSM 20147	1	2839551	2015-09-15 11:50:11	
+[ view details ]	complete
+287389	Choi, Jinlyung	1124991.7	Morganella morganii subsp. morganii KT	1	3799539	2015-09-15 11:49:55	
+[ view details ]	complete
+287388	Choi, Jinlyung	543913.5	beta proteobacterium CB	1	2045720	2015-09-15 11:49:46	
+[ view details ]	complete
+287387	Choi, Jinlyung	1286404.6	Bacillus thuringiensis serovar thuringiensis str. IS5056	1	5491935	2015-09-15 11:49:40	
+[ view details ]	complete
+287386	Choi, Jinlyung	1193806.6	Dehalococcoides mccartyi BTF08	1	1452335	2015-09-15 11:49:33	
+[ view details ]	complete
+287385	Choi, Jinlyung	1193807.7	Dehalococcoides mccartyi DCMB5	1	1431902	2015-09-15 11:49:26	
+[ view details ]	complete
+287384	Choi, Jinlyung	931276.14	Clostridium saccharoperbutylacetonicum N1-4(HMT)	1	6530257	2015-09-15 11:49:26	
+[ view details ]	complete
+287383	Choi, Jinlyung	1121362.5	Corynebacterium halotolerans YIM 70093 = DSM 44683	1	3135752	2015-09-15 11:49:16	
+[ view details ]	complete
+287382	Choi, Jinlyung	1091041.11	Bacillus amyloliquefaciens IT-45	1	3928857	2015-09-15 11:49:10	
+[ view details ]	complete
+287381	Choi, Jinlyung	1233100.6	Bacillus subtilis XF-1	1	4061186	2015-09-15 11:49:10	
+[ view details ]	complete
+287380	Choi, Jinlyung	1279365.7	Bacillus thuringiensis serovar kurstaki str. HD73	1	5646799	2015-09-15 11:48:53	
+[ view details ]	complete
+287379	Choi, Jinlyung	435998.10	Serratia marcescens WW4	1	5241455	2015-09-15 11:48:52	
+[ view details ]	complete
+287378	Choi, Jinlyung	1282356.9	Pseudomonas poae RE*1-1-14	1	5512241	2015-09-15 11:48:43	
+[ view details ]	complete
+287377	Choi, Jinlyung	1233873.6	Geobacillus sp. GHH01	1	3583134	2015-09-15 11:48:42	
+[ view details ]	complete
+287376	Choi, Jinlyung	1104325.10	Enterococcus faecium NRRL B-2354	1	2635572	2015-09-15 11:48:19	
+[ view details ]	complete
+287375	Choi, Jinlyung	1278073.6	Myxococcus stipitatus DSM 14675	1	10350586	2015-09-15 11:48:21	
+[ view details ]	complete
+287374	Choi, Jinlyung	1194526.7	Staphylococcus warneri SG1	1	2486042	2015-09-15 11:48:17	
+[ view details ]	complete
+287373	Choi, Jinlyung	1121335.9	[Clostridium] stercorarium subsp. stercorarium DSM 8532	1	2974379	2015-09-15 11:48:11	
+[ view details ]	complete
+287372	Choi, Jinlyung	754035.8	Mesorhizobium australicum WSM2073	1	6200534	2015-09-15 11:47:58	
+[ view details ]	complete
+287371	Choi, Jinlyung	1138877.6	Mycobacterium tuberculosis 7199-99	1	4421197	2015-09-15 11:47:56	
+[ view details ]	complete
+287370	Choi, Jinlyung	698761.9	Rhizobium tropici CIAT 899	1	3837060	2015-09-15 11:47:46	
+[ view details ]	complete
+287369	Choi, Jinlyung	644801.8	Pseudomonas stutzeri RCH2	1	4575057	2015-09-15 11:47:31	
+[ view details ]	complete
+287368	Choi, Jinlyung	886293.11	Singulisphaera acidiphila DSM 18658	1	9629675	2015-09-15 11:47:25	
+[ view details ]	complete
+287367	Choi, Jinlyung	717605.5	Thermobacillus composti KWC4	1	4206343	2015-09-15 11:47:20	
+[ view details ]	complete
+287366	Choi, Jinlyung	871963.9	Desulfitobacterium dichloroeliminans LMG P-21439	1	3624449	2015-09-15 11:47:19	
+[ view details ]	complete
+287365	Choi, Jinlyung	1235461.6	Sinorhizobium meliloti GR4	1	3618794	2015-09-15 11:47:01	
+[ view details ]	complete
+287364	Choi, Jinlyung	1225788.8	Bacillus methylotrophicus AS43.3	1	3961368	2015-09-15 11:46:49	
+[ view details ]	complete
+287363	Choi, Jinlyung	937777.5	Deinococcus peraridilitoris DSM 19664	1	3881839	2015-09-15 11:46:49	
+[ view details ]	complete
+287362	Choi, Jinlyung	13035.6	Dactylococcopsis salina PCC 8305	1	3781008	2015-09-15 11:46:35	
+[ view details ]	complete
+287361	Choi, Jinlyung	56107.8	Cylindrospermum stagnale PCC 7417	1	7003560	2015-09-15 11:46:30	
+[ view details ]	complete
+287360	Choi, Jinlyung	755178.8	Cyanobacterium aponinum PCC 10605	1	4114099	2015-09-15 11:46:21	
+[ view details ]	complete
+287359	Choi, Jinlyung	292563.7	Cyanobacterium stanieri PCC 7202	1	3163381	2015-09-15 11:46:20	
+[ view details ]	complete
+287358	Choi, Jinlyung	111780.6	Stanieria cyanosphaera PCC 7437	1	5041209	2015-09-15 11:46:08	
+[ view details ]	complete
+287357	Choi, Jinlyung	1173027.7	Microcoleus sp. PCC 7113	1	7470429	2015-09-15 11:45:54	
+[ view details ]	complete
+287356	Choi, Jinlyung	1173026.6	Gloeocapsa sp. PCC 7428	1	5431448	2015-09-15 11:45:52	
+[ view details ]	complete
+287355	Choi, Jinlyung	179408.6	Oscillatoria nigro-viridis PCC 7112	1	7479014	2015-09-15 11:45:47	
+[ view details ]	complete
+287354	Choi, Jinlyung	1173025.6	Geitlerinema sp. PCC 7407	1	4681111	2015-09-15 11:45:36	
+[ view details ]	complete
+287353	Choi, Jinlyung	1173263.6	Synechococcus sp. PCC 7502	1	3510253	2015-09-15 11:45:15	
+[ view details ]	complete
+287352	Choi, Jinlyung	82654.6	Pseudanabaena sp. PCC 7367	1	4557046	2015-09-15 11:45:12	
+[ view details ]	complete
+287351	Choi, Jinlyung	56110.6	Oscillatoria acuminata PCC 6304	1	7689443	2015-09-15 11:45:05	
+[ view details ]	complete
+287350	Choi, Jinlyung	251229.8	Chroococcidiopsis thermalis PCC 7203	1	6315792	2015-09-15 11:45:02	
+[ view details ]	complete
+287349	Choi, Jinlyung	118163.7	Pleurocapsa sp. PCC 7327	1	4986817	2015-09-15 11:44:48	
+[ view details ]	complete
+287348	Choi, Jinlyung	111781.10	Leptolyngbya sp. PCC 7376	1	5125950	2015-09-15 11:44:39	
+[ view details ]	complete
+287347	Choi, Jinlyung	373994.8	Rivularia sp. PCC 7116	1	8698463	2015-09-15 11:44:24	
+[ view details ]	complete
+287346	Choi, Jinlyung	1179773.7	Saccharothrix espanaensis DSM 44229	1	9360653	2015-09-15 11:44:24	
+[ view details ]	complete
+287345	Choi, Jinlyung	195253.6	Synechococcus sp. PCC 6312	1	3697276	2015-09-15 11:44:17	
+[ view details ]	complete
+287344	Choi, Jinlyung	317936.13	Nostoc sp. PCC 7107	1	6329823	2015-09-15 11:44:09	
+[ view details ]	complete
+287343	Choi, Jinlyung	1207075.6	Pseudomonas sp. UW4	1	6183388	2015-09-15 11:43:49	
+[ view details ]	complete
+287342	Choi, Jinlyung	1069642.7	Bdellovibrio bacteriovorus str. Tiberius	1	3988594	2015-09-15 11:43:37	
+[ view details ]	complete
+287341	Choi, Jinlyung	568707.8	Bordetella bronchiseptica 253	1	5264383	2015-09-15 11:43:32	
+[ view details ]	complete
+287340	Choi, Jinlyung	527021.8	Bacillus thuringiensis Bt407	1	5500501	2015-09-15 11:43:32	
+[ view details ]	complete
+287339	Choi, Jinlyung	1094980.7	Methanolobus psychrophilus R15	1	3072769	2015-09-15 11:43:11	
+[ view details ]	complete
+287338	Choi, Jinlyung	953739.28	Streptomyces venezuelae ATCC 10712	1	8226158	2015-09-15 11:43:13	
+[ view details ]	complete
+287337	Choi, Jinlyung	1131462.11	Dehalobacter sp. CF	1	3092048	2015-09-15 11:43:02	
+[ view details ]	complete
+287336	Choi, Jinlyung	1147129.11	Dehalobacter sp. DCA	1	3069953	2015-09-15 11:42:57	
+[ view details ]	complete
+287335	Choi, Jinlyung	358220.9	Acidovorax sp. KKS102	1	5196935	2015-09-15 11:42:46	
+[ view details ]	complete
+287334	Choi, Jinlyung	698758.7	Amphibacillus xylanus NBRC 15112	1	2569486	2015-09-15 11:42:38	
+[ view details ]	complete
+287333	Choi, Jinlyung	1201032.9	Campylobacter jejuni subsp. jejuni PT14	1	1635252	2015-09-15 11:42:34	
+[ view details ]	complete
+287332	Choi, Jinlyung	1195464.10	Bacillus thuringiensis MC28	1	5414494	2015-09-15 11:42:20	
+[ view details ]	complete
+287331	Choi, Jinlyung	1229205.10	Burkholderia phenoliruptrix BR3459a	1	4152217	2015-09-15 11:42:15	
+[ view details ]	complete
+287330	Choi, Jinlyung	1230587.16	Sinorhizobium meliloti Rm41	1	3679105	2015-09-15 11:42:15	
+[ view details ]	complete
+287329	Choi, Jinlyung	1133849.8	Nocardia brasiliensis ATCC 700358	1	9436348	2015-09-15 11:42:15	
+[ view details ]	complete
+287328	Choi, Jinlyung	1128398.5	[Clostridium] acidurici 9a	1	3105335	2015-09-15 11:41:43	
+[ view details ]	complete
+287327	Choi, Jinlyung	1229205.9	Burkholderia phenoliruptrix BR3459a	1	2713495	2015-09-15 11:41:42	
+[ view details ]	complete
+287326	Choi, Jinlyung	1048260.8	Leptospirillum ferriphilum ML-04	1	2406157	2015-09-15 11:41:41	
+[ view details ]	complete
+287325	Choi, Jinlyung	882094.7	Listeria monocytogenes L312	1	2912346	2015-09-15 11:41:23	
+[ view details ]	complete
+287324	Choi, Jinlyung	1228997.5	Riemerella anatipestifer RA-CH-1	1	2309519	2015-09-15 11:41:17	
+[ view details ]	complete
+287323	Choi, Jinlyung	879090.9	Listeria monocytogenes SLCC7179	1	2882234	2015-09-15 11:41:17	
+[ view details ]	complete
+287322	Choi, Jinlyung	1218358.5	Chlamydia psittaci WC	1	1172265	2015-09-15 11:41:15	
+[ view details ]	complete
+287321	Choi, Jinlyung	863767.7	Listeria monocytogenes serotype 7 str. SLCC2482	1	2936689	2015-09-15 11:40:57	
+[ view details ]	complete
+287320	Choi, Jinlyung	882020.8	Listeria monocytogenes SLCC2479	1	2972172	2015-09-15 11:40:57	
+[ view details ]	complete
+287319	Choi, Jinlyung	932920.8	Listeria monocytogenes SLCC2372	1	2972810	2015-09-15 11:40:56	
+[ view details ]	complete
+287318	Choi, Jinlyung	932919.6	Listeria monocytogenes SLCC2755	1	2966146	2015-09-15 11:40:53	
+[ view details ]	complete
+287317	Choi, Jinlyung	879089.9	Listeria monocytogenes SLCC2540	1	2976958	2015-09-15 11:40:34	
+[ view details ]	complete
+287316	Choi, Jinlyung	882095.7	Listeria monocytogenes ATCC 19117	1	2951805	2015-09-15 11:40:32	
+[ view details ]	complete
+287315	Choi, Jinlyung	879088.8	Listeria monocytogenes SLCC2378	1	2941360	2015-09-15 11:40:29	
+[ view details ]	complete
+287314	Choi, Jinlyung	337191.7	Gordonia sp. KTR9	1	5441391	2015-09-15 11:40:30	
+[ view details ]	complete
+287313	Choi, Jinlyung	1218933.7	Pectobacterium carotovorum subsp. carotovorum PCC21	1	4842771	2015-09-15 11:40:08	
+[ view details ]	complete
+287312	Choi, Jinlyung	1229785.7	Burkholderia pseudomallei BPC006	1	4001777	2015-09-15 11:40:02	
+[ view details ]	complete
+287311	Choi, Jinlyung	1229785.6	Burkholderia pseudomallei BPC006	1	3153284	2015-09-15 11:40:02	
+[ view details ]	complete
+287310	Choi, Jinlyung	768704.6	Desulfosporosinus meridiei DSM 13257	1	4873567	2015-09-15 11:39:55	
+[ view details ]	complete
+287309	Choi, Jinlyung	1217737.10	Bacillus thuringiensis HD-789	1	5495278	2015-09-15 11:39:39	
+[ view details ]	complete
+287308	Choi, Jinlyung	1009846.13	Burkholderia cepacia GG4	1	3003666	2015-09-15 11:39:35	
+[ view details ]	complete
+287307	Choi, Jinlyung	1009846.12	Burkholderia cepacia GG4	1	3463655	2015-09-15 11:39:35	
+[ view details ]	complete
+287306	Choi, Jinlyung	1218175.8	Bacillus thuringiensis HD-771	1	5886036	2015-09-15 11:39:24	
+[ view details ]	complete
+287305	Choi, Jinlyung	1217984.5	Bacillus cereus FRI-35	1	5083176	2015-09-15 11:39:05	
+[ view details ]	complete
+287304	Choi, Jinlyung	713604.11	Amycolatopsis mediterranei S699	1	10246920	2015-09-15 11:39:06	
+[ view details ]	complete
+287303	Choi, Jinlyung	246196.51	Mycobacterium smegmatis str. MC2 155	1	6988208	2015-09-15 11:39:05	
+[ view details ]	complete
+287302	Choi, Jinlyung	187303.19	Methylocystis sp. SC2	1	3773444	2015-09-15 11:38:49	
+[ view details ]	complete
+287301	Choi, Jinlyung	1196325.7	Pseudomonas putida DOT-T1E	1	6260702	2015-09-15 11:38:24	
+[ view details ]	complete
+287300	Choi, Jinlyung	1123519.10	Pseudomonas stutzeri DSM 10701	1	4174118	2015-09-15 11:38:18	
+[ view details ]	complete
+287299	Choi, Jinlyung	1198627.9	Mycobacterium abscessus subsp. bolletii str. GO 06	1	4687873	2015-09-15 11:38:18	
+[ view details ]	complete
+287298	Choi, Jinlyung	83332.247	Mycobacterium tuberculosis H37Rv	1	4411709	2015-09-15 11:38:05	
+[ view details ]	complete
+287297	Choi, Jinlyung	91891.22	Legionella pneumophila subsp. pneumophila	1	3492535	2015-09-15 11:37:50	
+[ view details ]	complete
+287296	Choi, Jinlyung	91891.21	Legionella pneumophila subsp. pneumophila	1	3467254	2015-09-15 11:37:48	
+[ view details ]	complete
+287295	Choi, Jinlyung	1093787.19	Pseudomonas aeruginosa DK2	1	6402658	2015-09-15 11:37:43	
+[ view details ]	complete
+287294	Choi, Jinlyung	1104326.8	Enterobacter cloacae subsp. dissolvens SDM	1	4968248	2015-09-15 11:37:32	
+[ view details ]	complete
+287293	Choi, Jinlyung	646529.9	Desulfosporosinus acidiphilus SJ4	1	4926837	2015-09-15 11:37:21	
+[ view details ]	complete
+287292	Choi, Jinlyung	1002809.7	Solibacillus silvestris StLB046	1	3969327	2015-09-15 11:37:18	
+[ view details ]	complete
+287291	Choi, Jinlyung	710421.9	Mycobacterium chubuense NBB4	1	5583723	2015-09-15 11:37:05	
+[ view details ]	complete
+287290	Choi, Jinlyung	1196835.9	Pseudomonas stutzeri CCUG 29243	1	4709064	2015-09-15 11:36:58	
+[ view details ]	complete
+287289	Choi, Jinlyung	756499.9	Desulfitobacterium dehalogenans ATCC 51507	1	4321753	2015-09-15 11:36:48	
+[ view details ]	complete
+287288	Choi, Jinlyung	926566.6	Terriglobus roseus DSM 18391	1	5227858	2015-09-15 11:36:49	
+[ view details ]	complete
+287287	Choi, Jinlyung	760154.7	Sulfurospirillum barnesii SES-3	1	2510109	2015-09-15 11:36:24	
+[ view details ]	complete
+287286	Choi, Jinlyung	1185652.27	Sinorhizobium fredii USDA 257	1	6476459	2015-09-15 11:36:24	
+[ view details ]	complete
+287285	Choi, Jinlyung	231023.7	Pseudomonas putida ND6	1	6085449	2015-09-15 11:36:17	
+[ view details ]	complete
+287284	Choi, Jinlyung	1036672.16	Advenella kashmirensis WT001	1	4365995	2015-09-15 11:36:13	
+[ view details ]	complete
+287283	Choi, Jinlyung	477641.8	Modestobacter marinus	1	5575517	2015-09-15 11:36:02	
+[ view details ]	complete
+287282	Choi, Jinlyung	416344.13	Burkholderia sp. KJ006	1	2356985	2015-09-15 11:35:42	
+[ view details ]	complete
+287281	Choi, Jinlyung	416344.12	Burkholderia sp. KJ006	1	1082410	2015-09-15 11:35:39	
+[ view details ]	complete
+287280	Choi, Jinlyung	416344.11	Burkholderia sp. KJ006	1	3145156	2015-09-15 11:35:39	
+[ view details ]	complete
+287279	Choi, Jinlyung	1037911.15	Pseudomonas fluorescens A506	1	5962570	2015-09-15 11:35:22	
+[ view details ]	complete
+287278	Choi, Jinlyung	1126211.7	Bacillus amyloliquefaciens Y2	1	4238624	2015-09-15 11:35:20	
+[ view details ]	complete
+287277	Choi, Jinlyung	1166016.6	Pectobacterium sp. SCC3193	1	5164411	2015-09-15 11:35:20	
+[ view details ]	complete
+287276	Choi, Jinlyung	134676.11	Actinoplanes sp. SE50/110	1	9239851	2015-09-15 11:35:11	
+[ view details ]	complete
+287275	Choi, Jinlyung	929556.5	Solitalea canadensis DSM 3403	1	5202069	2015-09-15 11:34:43	
+[ view details ]	complete
+287274	Choi, Jinlyung	745776.6	Deinococcus gobiensis I-0	1	3137147	2015-09-15 11:34:41	
+[ view details ]	complete
+287273	Choi, Jinlyung	1133850.11	Streptomyces hygroscopicus subsp. jinggangensis 5008	1	10145833	2015-09-15 11:34:42	
+[ view details ]	complete
+287272	Choi, Jinlyung	768494.9	Bacillus anthracis str. H9401	1	5218947	2015-09-15 11:34:18	
+[ view details ]	complete
+287271	Choi, Jinlyung	1127744.9	Bacillus sp. JS	1	4120406	2015-09-15 11:34:14	
+[ view details ]	complete
+287270	Choi, Jinlyung	997761.5	Paenibacillus mucilaginosus K02	1	8819200	2015-09-15 11:34:07	
+[ view details ]	complete
+287269	Choi, Jinlyung	1163399.13	Stenotrophomonas maltophilia D457	1	4769156	2015-09-15 11:33:45	
+[ view details ]	complete
+287268	Choi, Jinlyung	866895.6	Halobacillus halophilus DSM 2266	1	4150632	2015-09-15 11:33:45	
+[ view details ]	complete
+287267	Choi, Jinlyung	566546.26	Escherichia coli W	1	4897452	2015-09-15 11:33:45	
+[ view details ]	complete
+287266	Choi, Jinlyung	885276.6	Escherichia coli str. clone	1	5038386	2015-09-15 11:33:21	
+[ view details ]	complete
+287265	Choi, Jinlyung	1003195.24	Streptomyces cattleya NRRL 8057 = DSM 46488	1	6282967	2015-09-15 11:33:14	
+[ view details ]	complete
+287264	Choi, Jinlyung	1033813.10	Escherichia coli NA114	1	4971461	2015-09-15 11:33:11	
+[ view details ]	complete
+287263	Choi, Jinlyung	566546.25	Escherichia coli W	1	4900968	2015-09-15 11:33:07	
+[ view details ]	complete
+287262	Choi, Jinlyung	1031711.5	Ralstonia solanacearum Po82	1	3481091	2015-09-15 11:32:44	
+[ view details ]	complete
+287260	Choi, Jinlyung	768493.10	Serratia sp. AS13	1	5442549	2015-09-15 11:32:34	
+[ view details ]	complete
+287259	Choi, Jinlyung	399804.10	Shewanella putrefaciens 200	1	4840251	2015-09-15 11:32:32	
+[ view details ]	complete
+287258	Choi, Jinlyung	859655.5	Ralstonia solanacearum CMR15	1	3596030	2015-09-15 11:32:30	
+[ view details ]	complete
+287257	Choi, Jinlyung	1095774.6	Pantoea ananatis PA13	1	4586378	2015-09-15 11:32:19	
+[ view details ]	complete
+287256	Choi, Jinlyung	1089456.13	Pseudomonas aeruginosa NCGM2.S1	1	6764661	2015-09-15 11:31:56	
+[ view details ]	complete
+287255	Choi, Jinlyung	941193.11	Pseudomonas aeruginosa M18	1	6327754	2015-09-15 11:31:56	
+[ view details ]	complete
+287254	Choi, Jinlyung	573825.12	Leptospira interrogans serovar Lai str. IPAV	1	359372	2015-09-15 11:31:47	
+[ view details ]	complete
+287253	Choi, Jinlyung	573825.11	Leptospira interrogans serovar Lai str. IPAV	1	4349158	2015-09-15 11:31:53	
+[ view details ]	complete
+287251	Choi, Jinlyung	393127.11	Listeria monocytogenes Finland 1998	1	2874431	2015-09-15 11:31:32	
+[ view details ]	complete
+287250	Choi, Jinlyung	393126.10	Listeria monocytogenes FSL R2-561	1	2973801	2015-09-15 11:31:18	
+[ view details ]	complete
+287249	Choi, Jinlyung	393130.14	Listeria monocytogenes J0161	1	3000464	2015-09-15 11:31:07	
+[ view details ]	complete
+287248	Choi, Jinlyung	1052684.10	Paenibacillus polymyxa M1	1	5864546	2015-09-15 11:31:07	
+[ view details ]	complete
+287247	Choi, Jinlyung	393133.18	Listeria monocytogenes 10403S	1	2903106	2015-09-15 11:31:06	
+[ view details ]	complete
+287246	Choi, Jinlyung	1030009.7	Listeria monocytogenes M7	1	2976163	2015-09-15 11:30:52	
+[ view details ]	complete
+287245	Choi, Jinlyung	996285.9	Pseudomonas stutzeri DSM 4166	1	4689946	2015-09-15 11:30:43	
+[ view details ]	complete
+287244	Choi, Jinlyung	932677.7	Pantoea ananatis AJ13355	1	4555536	2015-09-15 11:30:41	
+[ view details ]	complete
+287243	Choi, Jinlyung	931281.9	Pseudomonas putida BIRD-1	1	5731541	2015-09-15 11:30:33	
+[ view details ]	complete
+287242	Choi, Jinlyung	563174.10	Listeria monocytogenes L99	1	2979198	2015-09-15 11:30:24	
+[ view details ]	complete
+287241	Choi, Jinlyung	663917.7	Geobacter sulfurreducens KN400	1	3714272	2015-09-15 11:30:07	
+[ view details ]	complete
+287240	Choi, Jinlyung	215689.9	Erwinia sp. Ejp617	1	3909168	2015-09-15 11:29:59	
+[ view details ]	complete
+287239	Choi, Jinlyung	984129.5	Francisella cf. novicida Fx1	1	1913619	2015-09-15 11:29:55	
+[ view details ]	complete
+287238	Choi, Jinlyung	676032.6	Francisella cf. tularensis subsp. novicida 3523	1	1945310	2015-09-15 11:29:55	
+[ view details ]	complete
+287237	Choi, Jinlyung	644651.7	Erwinia pyrifoliae DSM 12163	1	4026286	2015-09-15 11:29:38	
+[ view details ]	complete
+287236	Choi, Jinlyung	698936.13	Sinorhizobium meliloti BL225C	1	3671982	2015-09-15 11:29:30	
+[ view details ]	complete
+287235	Choi, Jinlyung	707241.12	Sinorhizobium meliloti SM11	1	3908022	2015-09-15 11:29:29	
+[ view details ]	complete
+287234	Choi, Jinlyung	759362.8	Ketogulonicigenium vulgare WSH-001	1	2766400	2015-09-15 11:29:28	
+[ view details ]	complete
+287233	Choi, Jinlyung	945711.7	Corynebacterium ulcerans 809	1	2502095	2015-09-15 11:29:06	
+[ view details ]	complete
+287232	Choi, Jinlyung	573059.13	Desulfovibrio vulgaris RCH1	1	3532052	2015-09-15 11:29:03	
+[ view details ]	complete
+287231	Choi, Jinlyung	679896.8	Corynebacterium pseudotuberculosis 1002	1	2335113	2015-09-15 11:28:55	
+[ view details ]	complete
+287230	Choi, Jinlyung	941968.7	Clostridium botulinum H04402 065	1	3919740	2015-09-15 11:28:56	
+[ view details ]	complete
+287229	Choi, Jinlyung	1037409.16	Bradyrhizobium japonicum USDA 6	1	9207384	2015-09-15 11:28:42	
+[ view details ]	complete
+287228	Choi, Jinlyung	863638.10	Clostridium acetobutylicum EA 2018	1	3940230	2015-09-15 11:28:37	
+[ view details ]	complete
+287227	Choi, Jinlyung	930945.7	Sulfolobus islandicus REY15A	1	2522992	2015-09-15 11:28:31	
+[ view details ]	complete
+287226	Choi, Jinlyung	930943.6	Sulfolobus islandicus HVE10/4	1	2655201	2015-09-15 11:28:25	
+[ view details ]	complete
+287225	Choi, Jinlyung	703352.8	Brucella melitensis M5-90	1	2126451	2015-09-15 11:28:07	
+[ view details ]	complete
+287224	Choi, Jinlyung	703352.7	Brucella melitensis M5-90	1	1185778	2015-09-15 11:28:01	
+[ view details ]	complete
+287223	Choi, Jinlyung	541229.9	Bacillus thuringiensis serovar chinensis CT-43	1	5486830	2015-09-15 11:28:03	
+[ view details ]	complete
+287222	Choi, Jinlyung	930170.6	Bacillus thuringiensis serovar finitimus YBT-020	1	5355490	2015-09-15 11:27:53	
+[ view details ]	complete
+287221	Choi, Jinlyung	1052588.7	Bacillus subtilis subsp. subtilis str. RO-NN-1	1	4011949	2015-09-15 11:27:42	
+[ view details ]	complete
+287220	Choi, Jinlyung	645657.10	Bacillus subtilis subsp. natto BEST195	1	4105380	2015-09-15 11:27:42	
+[ view details ]	complete
+287219	Choi, Jinlyung	713604.10	Amycolatopsis mediterranei S699	1	10236779	2015-09-15 11:27:25	
+[ view details ]	complete
+287218	Choi, Jinlyung	1034836.7	Bacillus amyloliquefaciens XH7	1	3939203	2015-09-15 11:27:11	
+[ view details ]	complete
+287217	Choi, Jinlyung	1001582.5	Bacillus amyloliquefaciens LL3	1	3995227	2015-09-15 11:27:01	
+[ view details ]	complete
+287216	Choi, Jinlyung	999891.5	Bacillus amyloliquefaciens TA208	1	3937511	2015-09-15 11:27:01	
+[ view details ]	complete
+287215	Choi, Jinlyung	1035377.8	Yersinia pestis A1122	1	4553770	2015-09-15 11:26:42	
+[ view details ]	complete
+287214	Choi, Jinlyung	634458.6	Acetobacter pasteurianus IFO 3283-01-42C	1	2815241	2015-09-15 11:26:26	
+[ view details ]	complete
+287213	Choi, Jinlyung	634456.5	Acetobacter pasteurianus IFO 3283-26	1	2907309	2015-09-15 11:26:26	
+[ view details ]	complete
+287212	Choi, Jinlyung	608538.10	Hydrogenobacter thermophilus TK-6	1	1742932	2015-09-15 11:26:25	
+[ view details ]	complete
+287211	Choi, Jinlyung	1006007.6	Bacillus megaterium WSH-002	1	4983975	2015-09-15 11:26:13	
+[ view details ]	complete
+287210	Choi, Jinlyung	634455.6	Acetobacter pasteurianus IFO 3283-22	1	2907267	2015-09-15 11:26:02	
+[ view details ]	complete
+287209	Choi, Jinlyung	634457.5	Acetobacter pasteurianus IFO 3283-32	1	2904642	2015-09-15 11:26:00	
+[ view details ]	complete
+287208	Choi, Jinlyung	634454.6	Acetobacter pasteurianus IFO 3283-07	1	2906044	2015-09-15 11:25:59	
+[ view details ]	complete
+287207	Choi, Jinlyung	634459.5	Acetobacter pasteurianus IFO 3283-12	1	2904624	2015-09-15 11:25:37	
+[ view details ]	complete
+287206	Choi, Jinlyung	634453.6	Acetobacter pasteurianus IFO 3283-03	1	2907287	2015-09-15 11:25:36	
+[ view details ]	complete
+287205	Choi, Jinlyung	771875.7	Fervidobacterium pennivorans DSM 9078	1	2166381	2015-09-15 11:25:30	
+[ view details ]	complete
+287204	Choi, Jinlyung	512565.8	Actinoplanes missouriensis 431	1	8773466	2015-09-15 11:25:32	
+[ view details ]	complete
+287203	Choi, Jinlyung	335659.10	Bradyrhizobium sp. S23321	1	7231841	2015-09-15 11:25:09	
+[ view details ]	complete
+287202	Choi, Jinlyung	1162668.9	Leptospirillum ferrooxidans C2-3	1	2559538	2015-09-15 11:25:06	
+[ view details ]	complete
+287201	Choi, Jinlyung	1155777.7	Bacillus methylotrophicus YAU B9601-Y2	1	4242774	2015-09-15 11:25:02	
+[ view details ]	complete
+287200	Choi, Jinlyung	1150469.5	Rhodospirillum photometricum DSM 122	1	3876289	2015-09-15 11:24:37	
+[ view details ]	complete
+287199	Choi, Jinlyung	1151116.6	Rahnella aquatilis HX2	1	4962173	2015-09-15 11:24:35	
+[ view details ]	complete
+287198	Choi, Jinlyung	1008297.10	Salmonella enterica subsp. enterica serovar Typhimurium str. 798	1	4876219	2015-09-15 11:24:27	
+[ view details ]	complete
+287197	Choi, Jinlyung	1144275.7	Corallococcus coralloides DSM 2259	1	10080619	2015-09-15 11:24:24	
+[ view details ]	complete
+287196	Choi, Jinlyung	1041930.8	Methanocella conradii HZ254	1	2378438	2015-09-15 11:24:09	
+[ view details ]	complete
+287195	Choi, Jinlyung	1138383.7	Mycobacterium intracellulare MOTT-64	1	5501090	2015-09-15 11:24:02	
+[ view details ]	complete
+287194	Choi, Jinlyung	1117942.5	Corynebacterium pseudotuberculosis P54B96	1	2337657	2015-09-15 11:23:54	
+[ view details ]	complete
+287193	Choi, Jinlyung	1138382.7	Mycobacterium intracellulare MOTT-02	1	5409696	2015-09-15 11:23:44	
+[ view details ]	complete
+287192	Choi, Jinlyung	487521.8	Mycobacterium intracellulare ATCC 13950	1	5402402	2015-09-15 11:23:32	
+[ view details ]	complete
+287191	Choi, Jinlyung	1146883.9	Blastococcus saxobsidens DD2	1	4875340	2015-09-15 11:23:30	
+[ view details ]	complete
+287190	Choi, Jinlyung	1116391.5	Paenibacillus mucilaginosus 3016	1	8739048	2015-09-15 11:23:17	
+[ view details ]	complete
+287189	Choi, Jinlyung	1112204.6	Gordonia polyisoprenivorans VH2	1	5669805	2015-09-15 11:23:08	
+[ view details ]	complete
+287188	Choi, Jinlyung	931626.12	Acetobacterium woodii DSM 1030	1	4044777	2015-09-15 11:22:50	
+[ view details ]	complete
+287187	Choi, Jinlyung	1127134.5	Nocardia cyriacigeorgica GUH-2	1	6194645	2015-09-15 11:22:51	
+[ view details ]	complete
+287186	Choi, Jinlyung	679936.12	Sulfobacillus acidophilus DSM 10332	1	84933	2015-09-15 11:22:25	
+[ view details ]	complete
+287185	Choi, Jinlyung	990282.12	Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1	1	4817868	2015-09-15 11:22:28	
+[ view details ]	complete
+287184	Choi, Jinlyung	679936.11	Sulfobacillus acidophilus DSM 10332	1	3472898	2015-09-15 11:22:18	
+[ view details ]	complete
+287183	Choi, Jinlyung	718274.14	Salmonella enterica subsp. enterica serovar Typhimurium str. T000240	1	4954814	2015-09-15 11:22:09	
+[ view details ]	complete
+287182	Choi, Jinlyung	909946.11	Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74	1	4878013	2015-09-15 11:22:08	
+[ view details ]	complete
+287181	Choi, Jinlyung	568708.19	Salmonella enterica subsp. enterica serovar Typhimurium str. D23580	1	4879400	2015-09-15 11:21:45	
+[ view details ]	complete
+287180	Choi, Jinlyung	588858.35	Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S	1	4870265	2015-09-15 11:21:45	
+[ view details ]	complete
+287179	Choi, Jinlyung	1125630.30	Klebsiella pneumoniae subsp. pneumoniae HS11286	1	5333942	2015-09-15 11:21:22	
+[ view details ]	complete
+287178	Choi, Jinlyung	1132507.8	Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12	1	4768352	2015-09-15 11:21:17	
+[ view details ]	complete
+287177	Choi, Jinlyung	1114970.20	Pseudomonas fluorescens F113	1	6845832	2015-09-15 11:20:55	
+[ view details ]	complete
+287176	Choi, Jinlyung	1081093.6	Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078	1	4637962	2015-09-15 11:20:50	
+[ view details ]	complete
+287175	Choi, Jinlyung	1069533.14	Streptococcus infantarius subsp. infantarius CJ18	1	1988420	2015-09-15 11:20:33	
+[ view details ]	complete
+287174	Choi, Jinlyung	1123863.17	Pantoea ananatis LMG 5342	1	4605545	2015-09-15 11:20:33	
+[ view details ]	complete
+287173	Choi, Jinlyung	1117943.25	Sinorhizobium fredii HH103	1	4305723	2015-09-15 11:20:13	
+[ view details ]	complete
+287172	Choi, Jinlyung	933093.6	Legionella pneumophila subsp. pneumophila ATCC 43290	1	3359001	2015-09-15 11:20:07	
+[ view details ]	complete
+287171	Choi, Jinlyung	698963.9	Corynebacterium diphtheriae C7 (beta)	1	2499189	2015-09-15 11:20:03	
+[ view details ]	complete
+287170	Choi, Jinlyung	698973.6	Corynebacterium diphtheriae BH8	1	2485519	2015-09-15 11:19:56	
+[ view details ]	complete
+287169	Choi, Jinlyung	1114958.8	Bacillus methylotrophicus CAU B946	1	4019861	2015-09-15 11:19:36	
+[ view details ]	complete
+287168	Choi, Jinlyung	698971.6	Corynebacterium diphtheriae VA01	1	2395441	2015-09-15 11:19:36	
+[ view details ]	complete
+287167	Choi, Jinlyung	347495.8	Bacillus cereus F837/76	1	5222906	2015-09-15 11:19:32	
+[ view details ]	complete
+287166	Choi, Jinlyung	334406.9	Bacillus cereus NC7401	1	5221581	2015-09-15 11:19:31	
+[ view details ]	complete
+287165	Choi, Jinlyung	985665.7	Paenibacillus terrae HPL-003	1	6083395	2015-09-15 11:19:05	
+[ view details ]	complete
+287164	Choi, Jinlyung	682795.7	Granulicella mallensis MP5ACTX8	1	6237577	2015-09-15 11:19:00	
+[ view details ]	complete
+287163	Choi, Jinlyung	690850.7	Desulfovibrio africanus str. Walvis Bay	1	4200534	2015-09-15 11:18:52	
+[ view details ]	complete
+287162	Choi, Jinlyung	720554.6	[Clostridium] clariflavum DSM 19732	1	4897678	2015-09-15 11:18:46	
+[ view details ]	complete
+287161	Choi, Jinlyung	1097668.21	Burkholderia sp. YI23	1	1773019	2015-09-15 11:18:27	
+[ view details ]	complete
+287160	Choi, Jinlyung	862719.9	Azospirillum lipoferum 4B	1	2988332	2015-09-15 11:18:17	
+[ view details ]	complete
+287159	Choi, Jinlyung	862908.6	Halobacteriovorax marinus SJ	1	3435933	2015-09-15 11:18:17	
+[ view details ]	complete
+287158	Choi, Jinlyung	1064539.11	Azospirillum brasilense Sp245	1	3023440	2015-09-15 11:18:12	
+[ view details ]	complete
+287157	Choi, Jinlyung	1006551.16	Klebsiella oxytoca KCTC 1686	1	5974109	2015-09-15 11:18:03	
+[ view details ]	complete
+287156	Choi, Jinlyung	640081.5	Dechlorosoma suillum PS	1	3806980	2015-09-15 11:17:51	
+[ view details ]	complete
+287155	Choi, Jinlyung	700598.9	Niastella koreensis GR20-10	1	9033684	2015-09-15 11:17:52	
+[ view details ]	complete
+287154	Choi, Jinlyung	710685.7	Mycobacterium rhodesiae NBB3	1	6415739	2015-09-15 11:17:41	
+[ view details ]	complete
+287153	Choi, Jinlyung	871585.11	Acinetobacter calcoaceticus PHEA-2	1	3862530	2015-09-15 11:17:15	
+[ view details ]	complete
+287152	Choi, Jinlyung	749414.12	Streptomyces bingchenggensis BCW-1	1	11936683	2015-09-15 11:17:17	
+[ view details ]	complete
+287151	Choi, Jinlyung	1097668.20	Burkholderia sp. YI23	1	1569570	2015-09-15 11:16:57	
+[ view details ]	complete
+287150	Choi, Jinlyung	768706.8	Desulfosporosinus orientis DSM 765	1	5863081	2015-09-15 11:16:59	
+[ view details ]	complete
+287149	Choi, Jinlyung	1097668.19	Burkholderia sp. YI23	1	3131280	2015-09-15 11:16:42	
+[ view details ]	complete
+287148	Choi, Jinlyung	1045856.10	Enterobacter cloacae EcWSU1	1	4734438	2015-09-15 11:16:27	
+[ view details ]	complete
+287147	Choi, Jinlyung	1041826.24	Flavobacterium columnare ATCC 49512	1	3162432	2015-09-15 11:16:13	
+[ view details ]	complete
+287146	Choi, Jinlyung	573729.9	Myceliophthora thermophila ATCC 42464	1	4116359	2015-09-15 11:16:13	
+[ view details ]	complete
+287145	Choi, Jinlyung	573729.8	Myceliophthora thermophila ATCC 42464	1	4127677	2015-09-15 11:16:07	
+[ view details ]	complete
+287144	Choi, Jinlyung	573729.7	Myceliophthora thermophila ATCC 42464	1	4342007	2015-09-15 11:15:54	
+[ view details ]	complete
+287143	Choi, Jinlyung	573729.6	Myceliophthora thermophila ATCC 42464	1	4710208	2015-09-15 11:15:47	
+[ view details ]	complete
+287142	Choi, Jinlyung	573729.5	Myceliophthora thermophila ATCC 42464	1	5062665	2015-09-15 11:15:45	
+[ view details ]	complete
+287141	Choi, Jinlyung	573729.4	Myceliophthora thermophila ATCC 42464	1	10931058	2015-09-15 11:15:31	
+[ view details ]	complete
+287140	Choi, Jinlyung	573729.3	Myceliophthora thermophila ATCC 42464	1	5454242	2015-09-15 11:15:27	
+[ view details ]	complete
+287139	Choi, Jinlyung	580340.13	Thermovirga lienii DSM 17291	1	1967774	2015-09-15 11:15:12	
+[ view details ]	complete
+287138	Choi, Jinlyung	591167.14	Streptomyces pratensis ATCC 33331	1	7337497	2015-09-15 11:15:02	
+[ view details ]	complete
+287137	Choi, Jinlyung	1045855.6	Pseudoxanthomonas spadix BD-a59	1	3452554	2015-09-15 11:14:51	
+[ view details ]	complete
+287136	Choi, Jinlyung	1003195.23	Streptomyces cattleya NRRL 8057 = DSM 46488	1	6283062	2015-09-15 11:14:40	
+[ view details ]	complete
+287135	Choi, Jinlyung	452652.8	Kitasatospora setae KM-6054	1	8783278	2015-09-15 11:14:40	
+[ view details ]	complete
+287134	Choi, Jinlyung	768679.13	Thermoproteus tenax Kra 1	1	1841542	2015-09-15 11:14:17	
+[ view details ]	complete
+287133	Choi, Jinlyung	1052585.10	Bacillus subtilis subsp. spizizenii TU-B-10	1	4207222	2015-09-15 11:14:04	
+[ view details ]	complete
+287132	Choi, Jinlyung	856793.8	Micavibrio aeruginosavorus ARL-13	1	2481983	2015-09-15 11:13:47	
+[ view details ]	complete
+287131	Choi, Jinlyung	981222.15	Chloracidobacterium thermophilum B	1	2683362	2015-09-15 11:13:37	
+[ view details ]	complete
+287130	Choi, Jinlyung	981222.14	Chloracidobacterium thermophilum B	1	1012010	2015-09-15 11:13:36	
+[ view details ]	complete
+287129	Choi, Jinlyung	345219.25	Bacillus coagulans 36D1	1	3552226	2015-09-15 11:13:18	
+[ view details ]	complete
+287128	Choi, Jinlyung	748280.6	Pseudogulbenkiania sp. NH8B	1	4332995	2015-09-15 11:13:13	
+[ view details ]	complete
+287126	Choi, Jinlyung	1034807.11	Flavobacterium branchiophilum FL-15	1	3559884	2015-09-15 11:13:03	
+[ view details ]	complete
+287125	Choi, Jinlyung	653045.12	Streptomyces violaceusniger Tu 4113	1	10657107	2015-09-15 11:12:56	
+[ view details ]	complete
+287124	Choi, Jinlyung	627192.12	Sphingobium sp. SYK-6	1	4199332	2015-09-15 11:12:43	
+[ view details ]	complete
+287123	Choi, Jinlyung	640513.11	Enterobacter asburiae LF7a	1	4812833	2015-09-15 11:12:33	
+[ view details ]	complete
+287122	Choi, Jinlyung	858619.7	Corynebacterium variabile DSM 44702	1	3433007	2015-09-15 11:12:25	
+[ view details ]	complete
+287121	Choi, Jinlyung	862751.8	Streptomyces sp. SirexAA-E	1	7414440	2015-09-15 11:12:07	
+[ view details ]	complete
+287120	Choi, Jinlyung	743299.16	Acidithiobacillus ferrivorans SS3	1	3207552	2015-09-15 11:11:59	
+[ view details ]	complete
+287119	Choi, Jinlyung	868597.11	Stenotrophomonas maltophilia JV3	1	4544477	2015-09-15 11:11:58	
+[ view details ]	complete
+287118	Choi, Jinlyung	520461.11	Brucella pinnipedialis B2/94	1	1260926	2015-09-15 11:11:07	
+[ view details ]	complete
+287117	Choi, Jinlyung	1005048.15	Collimonas fungivorans Ter331	1	5186898	2015-09-15 11:11:09	
+[ view details ]	complete
+287116	Choi, Jinlyung	520461.10	Brucella pinnipedialis B2/94	1	2138342	2015-09-15 11:11:03	
+[ view details ]	complete
+287115	Choi, Jinlyung	1053692.9	Methanococcus maripaludis X1	1	1746697	2015-09-15 11:10:49	
+[ view details ]	complete
+287114	Choi, Jinlyung	860228.7	Capnocytophaga canimorsus Cc5	1	2571406	2015-09-15 11:10:44	
+[ view details ]	complete
+287113	Choi, Jinlyung	572418.9	Mycobacterium africanum GM041182	1	4389314	2015-09-15 11:10:33	
+[ view details ]	complete
+287112	Choi, Jinlyung	96563.13	Pseudomonas stutzeri ATCC 17588 = LMG 11199	1	4547930	2015-09-15 11:10:32	
+[ view details ]	complete
+287111	Choi, Jinlyung	1051632.10	Sulfobacillus acidophilus TPY	1	3551206	2015-09-15 11:10:18	
+[ view details ]	complete
+287110	Choi, Jinlyung	979982.5	Leuconostoc sp. C2	1	1877273	2015-09-15 11:10:12	
+[ view details ]	complete
+287109	Choi, Jinlyung	1042876.13	Pseudomonas putida S16	1	5984790	2015-09-15 11:09:48	
+[ view details ]	complete
+287108	Choi, Jinlyung	717785.6	Hyphomicrobium sp. MC1	1	4757528	2015-09-15 11:09:34	
+[ view details ]	complete
+287107	Choi, Jinlyung	1042878.20	Cupriavidus necator N-1	1	3872936	2015-09-15 11:09:29	
+[ view details ]	complete
+287106	Choi, Jinlyung	1042878.19	Cupriavidus necator N-1	1	2684606	2015-09-15 11:09:21	
+[ view details ]	complete
+287105	Choi, Jinlyung	688269.7	Pseudothermotoga thermarum DSM 5069	1	2039943	2015-09-15 11:09:06	
+[ view details ]	complete
+287104	Choi, Jinlyung	573569.6	Francisella sp. TX077308	1	2035931	2015-09-15 11:08:55	
+[ view details ]	complete
+287103	Choi, Jinlyung	1036673.8	Paenibacillus mucilaginosus KNP414	1	8663821	2015-09-15 11:08:47	
+[ view details ]	complete
+287102	Choi, Jinlyung	504832.13	Oligotropha carboxidovorans OM5	1	3595748	2015-09-15 11:08:39	
+[ view details ]	complete
+287101	Choi, Jinlyung	991791.7	Clostridium acetobutylicum DSM 1731	1	3942462	2015-09-15 11:08:29	
+[ view details ]	complete
+287100	Choi, Jinlyung	536019.8	Mesorhizobium opportunistum WSM2075	1	6884444	2015-09-15 11:08:01	
+[ view details ]	complete
+287099	Choi, Jinlyung	945712.9	Corynebacterium ulcerans BR-AD22	1	2606374	2015-09-15 11:07:56	
+[ view details ]	complete
+287098	Choi, Jinlyung	679901.10	Methanosalsum zhilinae DSM 4017	1	2138444	2015-09-15 11:07:44	
+[ view details ]	complete
+287097	Choi, Jinlyung	656024.8	Frankia symbiont of Datisca glomerata	1	5323186	2015-09-15 11:07:28	
+[ view details ]	complete
+287096	Choi, Jinlyung	1032480.7	Microlunatus phosphovorus NM-1	1	5683123	2015-09-15 11:07:28	
+[ view details ]	complete
+287095	Choi, Jinlyung	941639.13	Bacillus coagulans 2-6	1	3073079	2015-09-15 11:07:17	
+[ view details ]	complete
+287094	Choi, Jinlyung	693982.20	Sinorhizobium meliloti AK83	1	1680879	2015-09-15 11:07:17	
+[ view details ]	complete
+287093	Choi, Jinlyung	650150.6	Erysipelothrix rhusiopathiae str. Fujisawa	1	1787941	2015-09-15 11:06:54	
+[ view details ]	complete
+287092	Choi, Jinlyung	690566.8	Sphingobium chlorophenolicum L-1	1	3080818	2015-09-15 11:06:48	
+[ view details ]	complete
+287091	Choi, Jinlyung	690566.7	Sphingobium chlorophenolicum L-1	1	1368670	2015-09-15 11:06:46	
+[ view details ]	complete
+287090	Choi, Jinlyung	693982.19	Sinorhizobium meliloti AK83	1	3820344	2015-09-15 11:06:27	
+[ view details ]	complete
+287089	Choi, Jinlyung	693982.18	Sinorhizobium meliloti AK83	1	1312480	2015-09-15 11:06:23	
+[ view details ]	complete
+287087	Choi, Jinlyung	702113.11	Novosphingobium sp. PP1Y	1	3911486	2015-09-15 11:06:15	
+[ view details ]	complete
+287086	Choi, Jinlyung	696281.8	Desulfotomaculum ruminis DSM 2154	1	3969014	2015-09-15 11:06:15	
+[ view details ]	complete
+287085	Choi, Jinlyung	545694.10	Treponema primitia ZAS-2	1	4059867	2015-09-15 11:05:58	
+[ view details ]	complete
+287084	Choi, Jinlyung	545695.8	Treponema azotonutricium ZAS-9	1	3855671	2015-09-15 11:05:48	
+[ view details ]	complete
+287083	Choi, Jinlyung	768492.13	Serratia plymuthica AS9	1	5442880	2015-09-15 11:05:35	
+[ view details ]	complete
+287082	Choi, Jinlyung	760568.6	Desulfotomaculum kuznetsovii DSM 6115	1	3601386	2015-09-15 11:05:27	
+[ view details ]	complete
+287081	Choi, Jinlyung	768490.15	Serratia sp. AS12	1	5443009	2015-09-15 11:05:07	
+[ view details ]	complete
+287080	Choi, Jinlyung	742013.6	Delftia sp. Cs1-4	1	6685842	2015-09-15 11:04:55	
+[ view details ]	complete
+287079	Choi, Jinlyung	868595.7	Desulfotomaculum carboxydivorans CO-1-SRB	1	2892255	2015-09-15 11:04:53	
+[ view details ]	complete
+287078	Choi, Jinlyung	443218.9	Amycolicicoccus subflavus DQS3-9A1	1	4738809	2015-09-15 11:04:51	
+[ view details ]	complete
+287077	Choi, Jinlyung	743720.10	Pseudomonas fulva 12-X	1	4920769	2015-09-15 11:04:33	
+[ view details ]	complete
+287076	Choi, Jinlyung	697281.6	Mahella australiensis 50-1 BON	1	3135972	2015-09-15 11:04:26	
+[ view details ]	complete
+287075	Choi, Jinlyung	590998.9	Cellulomonas fimi ATCC 484	1	4266344	2015-09-15 11:04:10	
+[ view details ]	complete
+287074	Choi, Jinlyung	1005058.6	Gallibacterium anatis UMN179	1	2687335	2015-09-15 11:04:08	
+[ view details ]	complete
+287073	Choi, Jinlyung	861208.8	Agrobacterium sp. H13-3	1	2148289	2015-09-15 11:03:59	
+[ view details ]	complete
+287072	Choi, Jinlyung	342949.10	Pyrococcus sp. NA2	1	1861320	2015-09-15 11:03:59	
+[ view details ]	complete
+287071	Choi, Jinlyung	1007064.7	Streptococcus suis ST3	1	2028815	2015-09-15 11:03:26	
+[ view details ]	complete
+287070	Choi, Jinlyung	596154.7	Alicycliphilus denitrificans K601	1	4995263	2015-09-15 11:03:27	
+[ view details ]	complete
+287069	Choi, Jinlyung	929506.12	Clostridium botulinum BKT015925	1	2773157	2015-09-15 11:03:25	
+[ view details ]	complete
+287068	Choi, Jinlyung	1001585.9	Pseudomonas mendocina NK-01	1	5434353	2015-09-15 11:03:25	
+[ view details ]	complete
+287067	Choi, Jinlyung	999541.16	Burkholderia gladioli BSR3	1	4413616	2015-09-15 11:02:58	
+[ view details ]	complete
+287066	Choi, Jinlyung	994484.9	Pseudomonas brassicacearum subsp. brassicacearum NFM421	1	6843248	2015-09-15 11:02:50	
+[ view details ]	complete
+287065	Choi, Jinlyung	999541.15	Burkholderia gladioli BSR3	1	3700833	2015-09-15 11:02:37	
+[ view details ]	complete
+287064	Choi, Jinlyung	675635.21	Pseudonocardia dioxanivorans CB1190	1	7096571	2015-09-15 11:02:40	
+[ view details ]	complete
+287063	Choi, Jinlyung	999630.9	Thermoproteus uzoniensis 768-20	1	1936063	2015-09-15 11:02:25	
+[ view details ]	complete
+287062	Choi, Jinlyung	743722.11	Sphingobacterium sp. 21	1	6226409	2015-09-15 11:02:02	
+[ view details ]	complete
+287061	Choi, Jinlyung	991905.7	Polymorphum gilvum SL003B-26A1	1	4649365	2015-09-15 11:02:01	
+[ view details ]	complete
+287060	Choi, Jinlyung	153948.8	Nitrosomonas sp. AL212	1	3180526	2015-09-15 11:01:57	
+[ view details ]	complete
+287059	Choi, Jinlyung	877455.8	Methanobacterium lacus	1	2583753	2015-09-15 11:01:50	
+[ view details ]	complete
+287058	Choi, Jinlyung	762903.7	Pseudopedobacter saltans DSM 12145	1	4635236	2015-09-15 11:01:23	
+[ view details ]	complete
+287057	Choi, Jinlyung	926570.8	Acidiphilium multivorum AIU301	1	3749411	2015-09-15 11:01:22	
+[ view details ]	complete
+287056	Choi, Jinlyung	867900.7	Cellulophaga lytica DSM 7489	1	3765936	2015-09-15 11:01:21	
+[ view details ]	complete
+287055	Choi, Jinlyung	861208.7	Agrobacterium sp. H13-3	1	2823930	2015-09-15 11:01:18	
+[ view details ]	complete
+287054	Choi, Jinlyung	693977.8	Deinococcus proteolyticus MRP	1	2147060	2015-09-15 11:00:49	
+[ view details ]	complete
+287053	Choi, Jinlyung	930171.14	Arthrobacter phenanthrenivorans Sphe3	1	4250414	2015-09-15 11:00:47	
+[ view details ]	complete
+287052	Choi, Jinlyung	985053.15	Vulcanisaeta moutnovskia 768-28	1	2298983	2015-09-15 11:00:46	
+[ view details ]	complete
+287051	Choi, Jinlyung	643561.14	Acidovorax avenae subsp. avenae ATCC 19860	1	5482170	2015-09-15 11:00:40	
+[ view details ]	complete
+287050	Choi, Jinlyung	640510.15	Burkholderia sp. CCGE1001	1	4063449	2015-09-15 11:00:16	
+[ view details ]	complete
+287049	Choi, Jinlyung	640510.14	Burkholderia sp. CCGE1001	1	2770302	2015-09-15 11:00:16	
+[ view details ]	complete
+287048	Choi, Jinlyung	1198114.5	Granulicella tundricola MP5ACTX9	1	4309153	2015-09-15 11:00:05	
+[ view details ]	complete
+287047	Choi, Jinlyung	741091.8	Rahnella sp. Y9602	1	4864217	2015-09-15 10:59:57	
+[ view details ]	complete
+287046	Choi, Jinlyung	443143.6	Geobacter sp. M18	1	5277406	2015-09-15 10:59:44	
+[ view details ]	complete
+287045	Choi, Jinlyung	936156.15	Bacillus subtilis BSn5	1	4093599	2015-09-15 10:59:40	
+[ view details ]	complete
+287044	Choi, Jinlyung	401053.7	Terriglobus saanensis SP1PR4	1	5095226	2015-09-15 10:59:22	
+[ view details ]	complete
+287043	Choi, Jinlyung	577650.14	Desulfobulbus propionicus DSM 2032	1	3851869	2015-09-15 10:59:16	
+[ view details ]	complete
+287042	Choi, Jinlyung	765177.27	Desulfurococcus mucosus DSM 2162	1	1314639	2015-09-15 10:59:02	
+[ view details ]	complete
+287041	Choi, Jinlyung	709986.5	Deinococcus maricopensis DSM 21211	1	3498530	2015-09-15 10:58:58	
+[ view details ]	complete
+287040	Choi, Jinlyung	595537.12	Variovorax paradoxus EPS	1	6550056	2015-09-15 10:58:47	
+[ view details ]	complete
+287039	Choi, Jinlyung	765698.11	Mesorhizobium ciceri biovar biserrulae WSM1271	1	6264489	2015-09-15 10:58:38	
+[ view details ]	complete
+287038	Choi, Jinlyung	743721.7	Pseudoxanthomonas suwonensis 11-1	1	3419049	2015-09-15 10:58:35	
+[ view details ]	complete
+287037	Choi, Jinlyung	596153.7	Alicycliphilus denitrificans BC	1	4637013	2015-09-15 10:58:22	
+[ view details ]	complete
+287036	Choi, Jinlyung	652103.12	Rhodopseudomonas palustris DX-1	1	5404117	2015-09-15 10:57:54	
+[ view details ]	complete
+287035	Choi, Jinlyung	643562.12	Desulfovibrio aespoeensis Aspo-2	1	3629109	2015-09-15 10:57:52	
+[ view details ]	complete
+287034	Choi, Jinlyung	592316.15	Pantoea sp. At-9b	1	4368708	2015-09-15 10:57:48	
+[ view details ]	complete
+287033	Choi, Jinlyung	697329.27	Ruminococcus albus 7 = DSM 20455	1	3685408	2015-09-15 10:57:37	
+[ view details ]	complete
+287032	Choi, Jinlyung	644966.6	Thermaerobacter marianensis DSM 12885	1	2844696	2015-09-15 10:57:09	
+[ view details ]	complete
+287031	Choi, Jinlyung	649639.9	Bacillus cellulosilyticus DSM 2522	1	4681672	2015-09-15 10:57:03	
+[ view details ]	complete
+287030	Choi, Jinlyung	648999.11	Micromonospora sp. L5	1	6962533	2015-09-15 10:56:52	
+[ view details ]	complete
+287029	Choi, Jinlyung	278137.11	Mycobacterium gilvum Spyr1	1	5547747	2015-09-15 10:56:52	
+[ view details ]	complete
+287028	Choi, Jinlyung	573065.12	Asticcacaulis excentricus CB 48	1	2588221	2015-09-15 10:56:33	
+[ view details ]	complete
+287027	Choi, Jinlyung	573065.11	Asticcacaulis excentricus CB 48	1	1315949	2015-09-15 10:56:27	
+[ view details ]	complete
+287026	Choi, Jinlyung	298654.8	Frankia sp. EuI1c	1	8815781	2015-09-15 10:56:01	
+[ view details ]	complete
+287025	Choi, Jinlyung	694427.9	Paludibacter propionicigenes WB4	1	3685504	2015-09-15 10:55:58	
+[ view details ]	complete
+287024	Choi, Jinlyung	887061.10	Methylovorus sp. MP688	1	2862391	2015-09-15 10:55:57	
+[ view details ]	complete
+287023	Choi, Jinlyung	882378.14	Burkholderia rhizoxinica HKI 454	1	2755309	2015-09-15 10:55:53	
+[ view details ]	complete
+287022	Choi, Jinlyung	685727.34	Rhodococcus equi 103S	1	5043170	2015-09-15 10:55:09	
+[ view details ]	complete
+287021	Choi, Jinlyung	649349.7	Leadbetterella byssophila DSM 17132	1	4059653	2015-09-15 10:55:01	
+[ view details ]	complete
+287020	Choi, Jinlyung	523846.11	Methanothermus fervidus DSM 2088	1	1243342	2015-09-15 10:55:00	
+[ view details ]	complete
+287019	Choi, Jinlyung	762376.26	Achromobacter xylosoxidans A8	1	7013095	2015-09-15 10:55:02	
+[ view details ]	complete
+287018	Choi, Jinlyung	656519.5	Halanaerobium hydrogeniformans	1	2613117	2015-09-15 10:54:36	
+[ view details ]	complete
+287017	Choi, Jinlyung	720555.8	Bacillus atrophaeus 1942	1	4168266	2015-09-15 10:54:33	
+[ view details ]	complete
+287016	Choi, Jinlyung	572544.7	Ilyobacter polytropus DSM 2926	1	2046464	2015-09-15 10:54:25	
+[ view details ]	complete
+287015	Choi, Jinlyung	880591.7	Ketogulonicigenium vulgare Y25	1	2776084	2015-09-15 10:54:07	
+[ view details ]	complete
+287014	Choi, Jinlyung	886882.11	Paenibacillus polymyxa SC2	1	5731816	2015-09-15 10:53:58	
+[ view details ]	complete
+287013	Choi, Jinlyung	378806.12	Stigmatella aurantiaca DW4/3-1	1	10260756	2015-09-15 10:53:59	
+[ view details ]	complete
+287012	Choi, Jinlyung	701347.19	Enterobacter lignolyticus SCF1	1	4814049	2015-09-15 10:53:47	
+[ view details ]	complete
+287011	Choi, Jinlyung	1511.5	[Clostridium] sticklandii	1	2715461	2015-09-15 10:53:33	
+[ view details ]	complete
+287010	Choi, Jinlyung	712898.12	Pantoea vagans C9-1	1	4024986	2015-09-15 10:52:59	
+[ view details ]	complete
+287009	Choi, Jinlyung	640512.13	Burkholderia sp. CCGE1003	1	4077097	2015-09-15 10:52:57	
+[ view details ]	complete
+287008	Choi, Jinlyung	692420.15	Bacillus amyloliquefaciens DSM 7	1	3980199	2015-09-15 10:52:57	
+[ view details ]	complete
+287007	Choi, Jinlyung	640512.12	Burkholderia sp. CCGE1003	1	2966498	2015-09-15 10:52:51	
+[ view details ]	complete
+287006	Choi, Jinlyung	573062.8	Thermoanaerobacter sp. X513	1	2456520	2015-09-15 10:52:20	
+[ view details ]	complete
+287005	Choi, Jinlyung	768066.15	Halomonas elongata DSM 2581	1	4061296	2015-09-15 10:52:20	
+[ view details ]	complete
+287004	Choi, Jinlyung	679926.8	Methanolacinia petrolearia DSM 11571	1	2843290	2015-09-15 10:52:18	
+[ view details ]	complete
+287002	Choi, Jinlyung	497965.10	Cyanothece sp. PCC 7822	1	6091620	2015-09-15 10:52:12	
+[ view details ]	complete
+287001	Choi, Jinlyung	655816.13	Bacillus subtilis subsp. spizizenii str. W23	1	4027676	2015-09-15 10:51:52	
+[ view details ]	complete
+287000	Choi, Jinlyung	349520.19	Paenibacillus polymyxa E681	1	5394884	2015-09-15 10:51:40	
+[ view details ]	complete
+286999	Choi, Jinlyung	198628.26	Dickeya dadantii 3937	1	4922802	2015-09-15 10:51:40	
+[ view details ]	complete
+286998	Choi, Jinlyung	395494.9	Gallionella capsiferriformans ES-2	1	3162471	2015-09-15 10:51:14	
+[ view details ]	complete
+286997	Choi, Jinlyung	573413.12	Spirochaeta smaragdinae DSM 11293	1	4653970	2015-09-15 10:50:57	
+[ view details ]	complete
+286996	Choi, Jinlyung	573061.9	Clostridium cellulovorans 743B	1	5262222	2015-09-15 10:50:56	
+[ view details ]	complete
+286995	Choi, Jinlyung	644283.12	Micromonospora aurantiaca ATCC 27029	1	7025559	2015-09-15 10:50:43	
+[ view details ]	complete
+286994	Choi, Jinlyung	644282.9	Desulfarculus baarsii DSM 2075	1	3655731	2015-09-15 10:50:36	
+[ view details ]	complete
+286993	Choi, Jinlyung	759914.10	Brachyspira pilosicoli 95/1000	1	2586443	2015-09-15 10:49:53	
+[ view details ]	complete
+286992	Choi, Jinlyung	748727.17	Clostridium ljungdahlii DSM 13528	1	4630065	2015-09-15 10:49:51	
+[ view details ]	complete
+286991	Choi, Jinlyung	749927.14	Amycolatopsis mediterranei U32	1	10236715	2015-09-15 10:49:53	
+[ view details ]	complete
+286990	Choi, Jinlyung	757424.21	Herbaspirillum seropedicae SmR1	1	5513887	2015-09-15 10:49:43	
+[ view details ]	complete
+286989	Choi, Jinlyung	762550.7	Leuconostoc gelidum subsp. gasicomitatum LMG 18811	1	1954080	2015-09-15 10:49:26	
+[ view details ]	complete
+286988	Choi, Jinlyung	552811.20	Dehalogenimonas lykanthroporepellens BL-DC-9	1	1686510	2015-09-15 10:49:17	
+[ view details ]	complete
+286986	Choi, Jinlyung	634500.9	Erwinia billingiae Eb661	1	5100167	2015-09-15 10:49:00	
+[ view details ]	complete
+286985	Choi, Jinlyung	582899.11	Hyphomicrobium denitrificans ATCC 51888	1	3638969	2015-09-15 10:48:59	
+[ view details ]	complete
+286984	Choi, Jinlyung	859656.11	Ralstonia solanacearum CFBP2957	1	3417386	2015-09-15 10:48:56	
+[ view details ]	complete
+286983	Choi, Jinlyung	859657.8	Ralstonia solanacearum PSI07	1	3520618	2015-09-15 10:48:56	
+[ view details ]	complete
+286982	Choi, Jinlyung	436717.9	Acinetobacter oleivorans DR1	1	4152543	2015-09-15 10:48:25	
+[ view details ]	complete
+286981	Choi, Jinlyung	406817.10	Xenorhabdus nematophila ATCC 19061	1	4432590	2015-09-15 10:48:20	
+[ view details ]	complete
+286980	Choi, Jinlyung	639283.7	Starkeya novella DSM 506	1	4765023	2015-09-15 10:48:20	
+[ view details ]	complete
+286979	Choi, Jinlyung	551115.12	Nostoc	1	5354700	2015-09-15 10:48:20	
+[ view details ]	complete
+286978	Choi, Jinlyung	754252.29	Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1	1	2616384	2015-09-15 10:47:50	
+[ view details ]	complete
+286977	Choi, Jinlyung	446468.19	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	1	775354	2015-09-15 10:47:38	
+[ view details ]	complete
+286976	Choi, Jinlyung	714359.17	Bacillus thuringiensis BMB171	1	5330088	2015-09-15 10:47:40	
+[ view details ]	complete
+286975	Choi, Jinlyung	446468.18	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	1	5767958	2015-09-15 10:47:38	
+[ view details ]	complete
+286972	Choi, Jinlyung	572480.11	Arcobacter nitrofigilis DSM 7299	1	3192235	2015-09-15 10:47:16	
+[ view details ]	complete
+286971	Choi, Jinlyung	521096.12	Tsukamurella paurometabola DSM 20162	1	4379918	2015-09-15 10:47:09	
+[ view details ]	complete
+286970	Choi, Jinlyung	426114.4	Thiomonas arsenitoxydans	1	3738778	2015-09-15 10:46:51	
+[ view details ]	complete
+286969	Choi, Jinlyung	446466.11	Cellulomonas flavigena DSM 20109	1	4123179	2015-09-15 10:46:50	
+[ view details ]	complete
+286968	Choi, Jinlyung	75379.6	Thiomonas intermedia K12	1	3396378	2015-09-15 10:46:41	
+[ view details ]	complete
+286967	Choi, Jinlyung	423212.6	Legionella pneumophila 2300/99 Alcoy	1	3516334	2015-09-15 10:46:38	
+[ view details ]	complete
+286966	Choi, Jinlyung	716541.19	Enterobacter cloacae subsp. cloacae ATCC 13047	1	5314581	2015-09-15 10:46:04	
+[ view details ]	complete
+286965	Choi, Jinlyung	640511.24	Burkholderia sp. CCGE1002	1	1282816	2015-09-15 10:45:55	
+[ view details ]	complete
+286964	Choi, Jinlyung	640511.23	Burkholderia sp. CCGE1002	1	3518940	2015-09-15 10:45:47	
+[ view details ]	complete
+286963	Choi, Jinlyung	640511.22	Burkholderia sp. CCGE1002	1	2593966	2015-09-15 10:45:25	
+[ view details ]	complete
+286962	Choi, Jinlyung	509190.9	Caulobacter segnis ATCC 21756	1	4655622	2015-09-15 10:45:24	
+[ view details ]	complete
+286961	Choi, Jinlyung	272942.20	Rhodobacter capsulatus SB 1003	1	3738958	2015-09-15 10:44:46	
+[ view details ]	complete
+286960	Choi, Jinlyung	545693.17	Bacillus megaterium QM B1551	1	5097129	2015-09-15 10:44:46	
+[ view details ]	complete
+286959	Choi, Jinlyung	452662.25	Sphingobium japonicum UT26S	1	3514822	2015-09-15 10:44:14	
+[ view details ]	complete
+286958	Choi, Jinlyung	452662.24	Sphingobium japonicum UT26S	1	681892	2015-09-15 10:44:11	
+[ view details ]	complete
+286957	Choi, Jinlyung	547558.20	Methanohalophilus mahii DSM 5219	1	2012424	2015-09-15 10:44:00	
+[ view details ]	complete
+286956	Choi, Jinlyung	29413.3	Anabaena variabilis ATCC 29413	1	37151	2015-09-15 10:43:55	
+[ view details ]	complete
+286955	Choi, Jinlyung	38018.40	unidentified phage	1	3805874	2015-09-15 10:43:53	
+[ view details ]	complete
+286954	Choi, Jinlyung	706191.22	Pantoea ananatis LMG 20103	1	4703373	2015-09-15 10:43:41	
+[ view details ]	complete
+286953	Choi, Jinlyung	665029.8	Erwinia amylovora CFBP1430	1	3805573	2015-09-15 10:43:36	
+[ view details ]	complete
+286952	Choi, Jinlyung	309800.31	Haloferax volcanii DS2	1	2847757	2015-09-15 10:43:35	
+[ view details ]	complete
+286951	Choi, Jinlyung	680198.23	Streptomyces scabiei 87.22	1	10148695	2015-09-15 10:43:16	
+[ view details ]	complete
+286950	Choi, Jinlyung	446470.10	Stackebrandtia nassauensis DSM 44728	1	6841557	2015-09-15 10:42:56	
+[ view details ]	complete
+286949	Choi, Jinlyung	522772.9	Denitrovibrio acetiphilus DSM 12809	1	3222077	2015-09-15 10:42:53	
+[ view details ]	complete
+286948	Choi, Jinlyung	701177.13	Escherichia coli O55:H7 str. CB9615	1	5386352	2015-09-15 10:42:54	
+[ view details ]	complete
+286947	Choi, Jinlyung	580331.9	Thermoanaerobacter italicus Ab9	1	2451061	2015-09-15 10:42:10	
+[ view details ]	complete
+286945	Choi, Jinlyung	683837.8	Listeria seeligeri serovar 1/2b str. SLCC3954	1	2797636	2015-09-15 10:41:56	
+[ view details ]	complete
+286944	Choi, Jinlyung	661367.22	Legionella longbeachae NSW150	1	4077332	2015-09-15 10:41:50	
+[ view details ]	complete
+286943	Choi, Jinlyung	633145.9	Dehalococcoides mccartyi GT	1	1360154	2015-09-15 10:41:42	
+[ view details ]	complete
+286942	Choi, Jinlyung	640131.13	Klebsiella variicola At-22	1	5458505	2015-09-15 10:41:12	
+[ view details ]	complete
+286941	Choi, Jinlyung	398511.10	Bacillus pseudofirmus OF4	1	3858997	2015-09-15 10:41:04	
+[ view details ]	complete
+286940	Choi, Jinlyung	137722.12	Azospirillum sp. B510	1	3311395	2015-09-15 10:41:01	
+[ view details ]	complete
+286939	Choi, Jinlyung	608538.9	Hydrogenobacter thermophilus TK-6	1	1743135	2015-09-15 10:40:55	
+[ view details ]	complete
+286938	Choi, Jinlyung	653938.12	Listeria monocytogenes 08-5578	1	3032624	2015-09-15 10:40:21	
+[ view details ]	complete
+286937	Choi, Jinlyung	637381.7	Listeria monocytogenes 08-5923	1	2999054	2015-09-15 10:40:19	
+[ view details ]	complete
+286936	Choi, Jinlyung	526225.12	Geodermatophilus obscurus DSM 43160	1	5322497	2015-09-15 10:40:18	
+[ view details ]	complete
+286935	Choi, Jinlyung	543526.15	Haloterrigena turkmenica DSM 5511	1	3889038	2015-09-15 10:39:56	
+[ view details ]	complete
+286934	Choi, Jinlyung	469383.10	Conexibacter woesei DSM 14684	1	6359369	2015-09-15 10:39:31	
+[ view details ]	complete
+286933	Choi, Jinlyung	504472.11	Spirosoma linguale DSM 74	1	8078757	2015-09-15 10:39:28	
+[ view details ]	complete
+286932	Choi, Jinlyung	479432.11	Streptosporangium roseum DSM 43021	1	10341314	2015-09-15 10:39:14	
+[ view details ]	complete
+286931	Choi, Jinlyung	479435.9	Kribbella flavida DSM 17836	1	7579488	2015-09-15 10:39:14	
+[ view details ]	complete
+286930	Choi, Jinlyung	380358.8	Xanthomonas albilineans GPE PC73	1	3768695	2015-09-15 10:38:37	
+[ view details ]	complete
+286929	Choi, Jinlyung	304371.11	Methanocella paludicola SANAE	1	2957635	2015-09-15 10:38:31	
+[ view details ]	complete
+286928	Choi, Jinlyung	590409.11	Dickeya dadantii Ech586	1	4818394	2015-09-15 10:38:03	
+[ view details ]	complete
+286927	Choi, Jinlyung	446471.11	Xylanimonas cellulosilytica DSM 15894	1	3742776	2015-09-15 10:37:46	
+[ view details ]	complete
+286926	Choi, Jinlyung	311424.11	Dehalococcoides mccartyi VS	1	1413462	2015-09-15 10:37:43	
+[ view details ]	complete
+286925	Choi, Jinlyung	525904.11	Thermobaculum terrenum ATCC BAA-798	1	1074634	2015-09-15 10:37:40	
+[ view details ]	complete
+286924	Choi, Jinlyung	525904.10	Thermobaculum terrenum ATCC BAA-798	1	2026947	2015-09-15 10:37:27	
+[ view details ]	complete
+286923	Choi, Jinlyung	525898.14	Sulfurospirillum deleyianum DSM 6946	1	2306351	2015-09-15 10:37:16	
+[ view details ]	complete
+286922	Choi, Jinlyung	471852.11	Thermomonospora curvata DSM 43183	1	5639016	2015-09-15 10:37:16	
+[ view details ]	complete
+286921	Choi, Jinlyung	688245.24	Comamonas testosteroni CNB-2	1	5373644	2015-09-15 10:37:14	
+[ view details ]	complete
+286920	Choi, Jinlyung	481743.13	Paenibacillus sp. Y412MC10	1	7121665	2015-09-15 10:36:59	
+[ view details ]	complete
+286919	Choi, Jinlyung	561231.13	Pectobacterium wasabiae WPP163	1	5063892	2015-09-15 10:36:50	
+[ view details ]	complete
+286918	Choi, Jinlyung	622759.10	Zymomonas mobilis subsp. mobilis NCIMB 11163	1	2124771	2015-09-15 10:36:40	
+[ view details ]	complete
+286917	Choi, Jinlyung	634452.12	Acetobacter pasteurianus IFO 3283-01	1	2907495	2015-09-15 10:36:39	
+[ view details ]	complete
+286916	Choi, Jinlyung	522306.25	Candidatus Accumulibacter phosphatis clade IIA str. UW-1	1	5058518	2015-09-15 10:36:18	
+[ view details ]	complete
+286915	Choi, Jinlyung	525897.9	Desulfomicrobium baculatum DSM 4028	1	3942657	2015-09-15 10:36:15	
+[ view details ]	complete
+286914	Choi, Jinlyung	446465.14	Brachybacterium faecium DSM 4810	1	3614992	2015-09-15 10:36:09	
+[ view details ]	complete
+286913	Choi, Jinlyung	485914.14	Halomicrobium mukohataei DSM 12286	1	3110487	2015-09-15 10:36:05	
+[ view details ]	complete
+286912	Choi, Jinlyung	471857.12	Saccharomonospora viridis DSM 43017	1	4308349	2015-09-15 10:35:33	
+[ view details ]	complete
+286911	Choi, Jinlyung	395962.12	Cyanothece sp. PCC 8802	1	4669813	2015-09-15 10:35:33	
+[ view details ]	complete
+286909	Choi, Jinlyung	479433.13	Catenulispora acidiphila DSM 44928	1	10467782	2015-09-15 10:35:25	
+[ view details ]	complete
+286908	Choi, Jinlyung	485918.12	Chitinophaga pinensis DSM 2588	1	9127347	2015-09-15 10:35:25	
+[ view details ]	complete
+286907	Choi, Jinlyung	568815.23	Brucella microti CCM 4915	1	2117050	2015-09-15 10:34:50	
+[ view details ]	complete
+286906	Choi, Jinlyung	568815.22	Brucella microti CCM 4915	1	1220319	2015-09-15 10:34:50	
+[ view details ]	complete
+286905	Choi, Jinlyung	559295.9	Lachancea thermotolerans CBS 6340	1	1423902	2015-09-15 10:34:33	
+[ view details ]	complete
+286904	Choi, Jinlyung	559295.8	Lachancea thermotolerans CBS 6340	1	1632914	2015-09-15 10:34:24	
+[ view details ]	complete
+286903	Choi, Jinlyung	559295.7	Lachancea thermotolerans CBS 6340	1	1720065	2015-09-15 10:34:21	
+[ view details ]	complete
+286902	Choi, Jinlyung	559295.6	Lachancea thermotolerans CBS 6340	1	1521774	2015-09-15 10:34:20	
+[ view details ]	complete
+286901	Choi, Jinlyung	559295.5	Lachancea thermotolerans CBS 6340	1	1513537	2015-09-15 10:34:10	
+[ view details ]	complete
+286899	Choi, Jinlyung	559295.4	Lachancea thermotolerans CBS 6340	1	999246	2015-09-15 10:33:52	
+[ view details ]	complete
+286897	Choi, Jinlyung	485917.11	Pedobacter heparinus DSM 2366	1	5167383	2015-09-15 10:33:52	
+[ view details ]	complete
+286896	Choi, Jinlyung	531844.11	Flavobacteriaceae bacterium 3519-10	1	2768102	2015-09-15 10:33:49	
+[ view details ]	complete
+286895	Choi, Jinlyung	559295.3	Lachancea thermotolerans CBS 6340	1	687718	2015-09-15 10:33:46	
+[ view details ]	complete
+286894	Choi, Jinlyung	469008.31	Escherichia coli BL21(DE3)	1	4558953	2015-09-15 10:33:22	
+[ view details ]	complete
+286893	Choi, Jinlyung	661410.9	Methylobacterium extorquens DM4	1	5943768	2015-09-15 10:33:22	
+[ view details ]	complete
+286892	Choi, Jinlyung	662598.13	Neisseria meningitidis alpha14	1	2145295	2015-09-15 10:33:17	
+[ view details ]	complete
+286891	Choi, Jinlyung	413997.13	Escherichia coli B str. REL606	1	4629812	2015-09-15 10:33:11	
+[ view details ]	complete
+286890	Choi, Jinlyung	443144.7	Geobacter sp. M21	1	4745806	2015-09-15 10:32:49	
+[ view details ]	complete
+286889	Choi, Jinlyung	568814.9	Streptococcus suis BM407	1	2146229	2015-09-15 10:32:39	
+[ view details ]	complete
+286888	Choi, Jinlyung	561230.17	Pectobacterium carotovorum subsp. carotovorum PC1	1	4862913	2015-09-15 10:32:39	
+[ view details ]	complete
+286887	Choi, Jinlyung	324057.19	Paenibacillus sp. JDR-2	1	7184930	2015-09-15 10:32:35	
+[ view details ]	complete
+286885	Choi, Jinlyung	561229.10	Dickeya zeae Ech1591	1	4813854	2015-09-15 10:32:09	
+[ view details ]	complete
+286884	Choi, Jinlyung	469008.30	Escherichia coli BL21(DE3)	1	4558947	2015-09-15 10:32:07	
+[ view details ]	complete
+286883	Choi, Jinlyung	526222.10	Desulfovibrio salexigens DSM 2638	1	4289847	2015-09-15 10:32:01	
+[ view details ]	complete
+286882	Choi, Jinlyung	428406.22	Ralstonia pickettii 12D	1	3647724	2015-09-15 10:31:40	
+[ view details ]	complete
+286881	Choi, Jinlyung	428406.21	Ralstonia pickettii 12D	1	1323321	2015-09-15 10:31:31	
+[ view details ]	complete
+286880	Choi, Jinlyung	395491.83	Rhizobium leguminosarum bv. trifolii WSM1325	1	4767043	2015-09-15 10:31:25	
+[ view details ]	complete
+286879	Choi, Jinlyung	573370.14	Desulfovibrio magneticus RS-1	1	5248049	2015-09-15 10:31:23	
+[ view details ]	complete
+286878	Choi, Jinlyung	465515.26	Micrococcus luteus NCTC 2665	1	2501097	2015-09-15 10:31:10	
+[ view details ]	complete
+286877	Choi, Jinlyung	543728.13	Variovorax paradoxus S110	1	5626353	2015-09-15 10:31:04	
+[ view details ]	complete
+286876	Choi, Jinlyung	543728.12	Variovorax paradoxus S110	1	1128644	2015-09-15 10:30:45	
+[ view details ]	complete
+286875	Choi, Jinlyung	484021.49	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044	1	5248520	2015-09-15 10:30:41	
+[ view details ]	complete
+286874	Choi, Jinlyung	515620.9	[Eubacterium] eligens ATCC 27750	1	2144190	2015-09-15 10:30:40	
+[ view details ]	complete
+286873	Choi, Jinlyung	426118.12	Sulfolobus islandicus M.16.4	1	2586647	2015-09-15 10:30:18	
+[ view details ]	complete
+286872	Choi, Jinlyung	626418.18	Burkholderia glumae BGR1	1	3906507	2015-09-15 10:30:18	
+[ view details ]	complete
+286871	Choi, Jinlyung	626418.17	Burkholderia glumae BGR1	1	2827333	2015-09-15 10:30:06	
+[ view details ]	complete
+286870	Choi, Jinlyung	360911.12	Exiguobacterium sp. AT1b	1	2999895	2015-09-15 10:30:00	
+[ view details ]	complete
+286869	Choi, Jinlyung	471853.15	Beutenbergia cavernae DSM 12333	1	4669183	2015-09-15 10:29:51	
+[ view details ]	complete
+286868	Choi, Jinlyung	216595.19	Pseudomonas fluorescens SBW25	1	6722539	2015-09-15 10:29:45	
+[ view details ]	complete
+286867	Choi, Jinlyung	592021.25	Bacillus anthracis str. A0248	1	5227419	2015-09-15 10:29:37	
+[ view details ]	complete
+286866	Choi, Jinlyung	515621.8	Clostridium botulinum Ba4 str. 657	1	3977794	2015-09-15 10:29:31	
+[ view details ]	complete
+286865	Choi, Jinlyung	427318.13	Sulfolobus islandicus M.16.27	1	2692402	2015-09-15 10:29:16	
+[ view details ]	complete
+286864	Choi, Jinlyung	394.22	Sinorhizobium fredii NGR234	1	3925702	2015-09-15 10:29:06	
+[ view details ]	complete
+286863	Choi, Jinlyung	568206.17	Bacillus anthracis str. CDC 684	1	5230115	2015-09-15 10:29:02	
+[ view details ]	complete
+286831	Choi, Jinlyung	557723.11	Haemophilus parasuis SH0165	1	2269156	2015-09-15 10:25:02	
+[ view details ]	complete
+286830	Choi, Jinlyung	583346.10	Clostridium kluyveri NBRC 12016	1	3896121	2015-09-15 10:24:46	
+[ view details ]	complete
+286828	Choi, Jinlyung	405535.14	Bacillus cereus AH820	1	5302683	2015-09-15 10:24:38	
+[ view details ]	complete
+286827	Choi, Jinlyung	272564.10	Desulfitobacterium hafniense DCB-2	1	5279134	2015-09-15 10:24:38	
+[ view details ]	complete
+286825	Choi, Jinlyung	405531.13	Bacillus cereus G9842	1	5387334	2015-09-15 10:24:15	
+[ view details ]	complete
+286824	Choi, Jinlyung	557722.12	Pseudomonas aeruginosa LESB58	1	6601757	2015-09-15 10:24:14	
+[ view details ]	complete
+286823	Choi, Jinlyung	883.9	Desulfovibrio vulgaris str. Miyazaki	1	4040304	2015-09-15 10:23:59	
+[ view details ]	complete
+286822	Choi, Jinlyung	243159.21	Acidithiobacillus ferrooxidans ATCC 23270	1	2982397	2015-09-15 10:23:55	
+[ view details ]	complete
+286821	Choi, Jinlyung	440085.11	Methylobacterium extorquens CM4	1	5777908	2015-09-15 10:23:40	
+[ view details ]	complete
+286820	Choi, Jinlyung	65393.20	Cyanothece sp. PCC 7424	1	5942652	2015-09-15 10:23:35	
+[ view details ]	complete
+286819	Choi, Jinlyung	41431.15	Cyanothece sp. PCC 8801	1	4679413	2015-09-15 10:23:28	
+[ view details ]	complete
+286818	Choi, Jinlyung	405532.11	Bacillus cereus B4264	1	5419036	2015-09-15 10:23:27	
+[ view details ]	complete
+286817	Choi, Jinlyung	395965.12	Methylocella silvestris BL2	1	4305430	2015-09-15 10:23:06	
+[ view details ]	complete
+286816	Choi, Jinlyung	85643.11	Thauera sp. MZ1T	1	4496212	2015-09-15 10:23:01	
+[ view details ]	complete
+286815	Choi, Jinlyung	552536.11	Listeria monocytogenes HCC23	1	2976212	2015-09-15 10:22:57	
+[ view details ]	complete
+286814	Choi, Jinlyung	405534.15	Bacillus cereus AH187	1	5269030	2015-09-15 10:22:52	
+[ view details ]	complete
+286813	Choi, Jinlyung	395492.26	Rhizobium leguminosarum bv. trifolii WSM2304	1	4537948	2015-09-15 10:22:30	
+[ view details ]	complete
+286812	Choi, Jinlyung	272568.27	Gluconacetobacter diazotrophicus PA1 5	1	3887492	2015-09-15 10:22:26	
+[ view details ]	complete
+286811	Choi, Jinlyung	504832.12	Oligotropha carboxidovorans OM5	1	3745629	2015-09-15 10:22:26	
+[ view details ]	complete
+286810	Choi, Jinlyung	439851.28	Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853	1	4842908	2015-09-15 10:22:16	
+[ view details ]	complete
+286809	Choi, Jinlyung	404380.7	Geobacter bemidjiensis Bem	1	4615150	2015-09-15 10:21:56	
+[ view details ]	complete
+286808	Choi, Jinlyung	454166.19	Salmonella enterica subsp. enterica serovar Agona str. SL483	1	4798660	2015-09-15 10:21:56	
+[ view details ]	complete
+286807	Choi, Jinlyung	447217.10	Anaeromyxobacter sp. K	1	5061632	2015-09-15 10:21:56	
+[ view details ]	complete
+286806	Choi, Jinlyung	439843.21	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633	1	4709075	2015-09-15 10:21:42	
+[ view details ]	complete
+286805	Choi, Jinlyung	454169.19	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476	1	4888768	2015-09-15 10:21:16	
+[ view details ]	complete
+286804	Choi, Jinlyung	423368.24	Salmonella enterica subsp. enterica serovar Newport str. SL254	1	4827641	2015-09-15 10:21:16	
+[ view details ]	complete
+286803	Choi, Jinlyung	391008.12	Stenotrophomonas maltophilia R551-3	1	4573969	2015-09-15 10:21:11	
+[ view details ]	complete
+286802	Choi, Jinlyung	395960.8	Rhodopseudomonas palustris TIE-1	1	5744041	2015-09-15 10:21:06	
+[ view details ]	complete
+286800	Choi, Jinlyung	498211.11	Cellvibrio japonicus Ueda107	1	4576573	2015-09-15 10:20:39	
+[ view details ]	complete
+286799	Choi, Jinlyung	522373.24	Stenotrophomonas maltophilia K279a	1	4851126	2015-09-15 10:20:33	
+[ view details ]	complete
+286798	Choi, Jinlyung	398767.9	Geobacter lovleyi SZ	1	3917761	2015-09-15 10:20:20	
+[ view details ]	complete
+286797	Choi, Jinlyung	395019.33	Burkholderia multivorans ATCC 17616	1	2473162	2015-09-15 10:20:01	
+[ view details ]	complete
+286796	Choi, Jinlyung	395019.34	Burkholderia multivorans ATCC 17616	1	3448421	2015-09-15 10:20:01	
+[ view details ]	complete
+286795	Choi, Jinlyung	441620.14	Methylobacterium populi BJ001	1	5800441	2015-09-15 10:19:48	
+[ view details ]	complete
+286794	Choi, Jinlyung	395019.32	Burkholderia multivorans ATCC 17616	1	919805	2015-09-15 10:19:40	
+[ view details ]	complete
+286793	Choi, Jinlyung	481448.15	Methylacidiphilum infernorum V4	1	2287145	2015-09-15 10:19:35	
+[ view details ]	complete
+286792	Choi, Jinlyung	436114.6	Sulfurihydrogenibium sp. YO3AOP1	1	1838442	2015-09-15 10:19:32	
+[ view details ]	complete
+286791	Choi, Jinlyung	465817.19	Erwinia tasmaniensis Et1/99	1	3883467	2015-09-15 10:19:24	
+[ view details ]	complete
+286790	Choi, Jinlyung	340.14	Xanthomonas campestris pv. campestris	1	5079002	2015-09-15 10:19:11	
+[ view details ]	complete
+286789	Choi, Jinlyung	402626.16	Ralstonia pickettii 12J	1	3942557	2015-09-15 10:19:09	
+[ view details ]	complete
+286788	Choi, Jinlyung	398527.19	Burkholderia phytofirmans PsJN	1	4467537	2015-09-15 10:19:09	
+[ view details ]	complete
+286787	Choi, Jinlyung	402626.15	Ralstonia pickettii 12J	1	1302238	2015-09-15 10:18:51	
+[ view details ]	complete
+286786	Choi, Jinlyung	441952.8	Francisella tularensis subsp. mediasiatica FSC147	1	1893886	2015-09-15 10:18:34	
+[ view details ]	complete
+286785	Choi, Jinlyung	63737.23	Nostoc punctiforme PCC 73102	1	8234322	2015-09-15 10:18:35	
+[ view details ]	complete
+286784	Choi, Jinlyung	398527.18	Burkholderia phytofirmans PsJN	1	3625999	2015-09-15 10:18:33	
+[ view details ]	complete
+286783	Choi, Jinlyung	502801.9	Yersinia pseudotuberculosis PB1/+	1	4695619	2015-09-15 10:18:24	
+[ view details ]	complete
+286782	Choi, Jinlyung	391038.23	Burkholderia phymatum STM815	1	2697374	2015-09-15 10:18:07	
+[ view details ]	complete
+286781	Choi, Jinlyung	391038.22	Burkholderia phymatum STM815	1	3479187	2015-09-15 10:18:02	
+[ view details ]	complete
+286780	Choi, Jinlyung	378753.11	Kocuria rhizophila DC2201	1	2697540	2015-09-15 10:17:52	
+[ view details ]	complete
+286779	Choi, Jinlyung	395963.19	Beijerinckia indica subsp. indica ATCC 9039	1	4170153	2015-09-15 10:17:41	
+[ view details ]	complete
+286778	Choi, Jinlyung	455632.18	Streptomyces griseus subsp. griseus NBRC 13350	1	8545929	2015-09-15 10:17:43	
+[ view details ]	complete
+286777	Choi, Jinlyung	452637.12	Opitutus terrae PB90-1	1	5957605	2015-09-15 10:17:33	
+[ view details ]	complete
+286776	Choi, Jinlyung	405441.16	Xylella fastidiosa M23	1	2535690	2015-09-15 10:17:27	
+[ view details ]	complete
+286775	Choi, Jinlyung	398577.18	Burkholderia ambifaria MC40-6	1	1127947	2015-09-15 10:17:09	
+[ view details ]	complete
+286774	Choi, Jinlyung	262543.25	Exiguobacterium sibiricum 255-15	1	3034136	2015-09-15 10:17:01	
+[ view details ]	complete
+286773	Choi, Jinlyung	529507.15	Proteus mirabilis HI4320	1	4063606	2015-09-15 10:16:49	
+[ view details ]	complete
+286772	Choi, Jinlyung	398577.17	Burkholderia ambifaria MC40-6	1	2769414	2015-09-15 10:16:46	
+[ view details ]	complete
+286771	Choi, Jinlyung	398577.16	Burkholderia ambifaria MC40-6	1	3443583	2015-09-15 10:16:38	
+[ view details ]	complete
+286770	Choi, Jinlyung	977880.15	Cupriavidus taiwanensis LMG 19424	1	2502411	2015-09-15 10:16:26	
+[ view details ]	complete
+286769	Choi, Jinlyung	977880.14	Cupriavidus taiwanensis LMG 19424	1	3416911	2015-09-15 10:16:12	
+[ view details ]	complete
+286768	Choi, Jinlyung	395495.8	Leptothrix cholodnii SP-6	1	4909403	2015-09-15 10:16:10	
+[ view details ]	complete
+286767	Choi, Jinlyung	498214.15	Clostridium botulinum A3 str. Loch Maree	1	3992906	2015-09-15 10:16:03	
+[ view details ]	complete
+286766	Choi, Jinlyung	498213.14	Clostridium botulinum B1 str. Okra	1	3958233	2015-09-15 10:15:53	
+[ view details ]	complete
+286765	Choi, Jinlyung	406425.15	Burkholderia cenocepacia MC0-3	1	3213911	2015-09-15 10:15:43	
+[ view details ]	complete
+286764	Choi, Jinlyung	426117.11	Methylobacterium sp. 4-46	1	7659055	2015-09-15 10:15:32	
+[ view details ]	complete
+286763	Choi, Jinlyung	406425.14	Burkholderia cenocepacia MC0-3	1	1224595	2015-09-15 10:15:22	
+[ view details ]	complete
+286762	Choi, Jinlyung	406425.13	Burkholderia cenocepacia MC0-3	1	3532883	2015-09-15 10:15:16	
+[ view details ]	complete
+286761	Choi, Jinlyung	426355.32	Methylobacterium radiotolerans JCM 2831	1	6077833	2015-09-15 10:15:13	
+[ view details ]	complete
+286759	Choi, Jinlyung	390235.10	Pseudomonas putida W619	1	5774330	2015-09-15 10:14:47	
+[ view details ]	complete
+286758	Choi, Jinlyung	316385.37	Escherichia coli str. K-12 substr. DH10B	1	4686137	2015-09-15 10:14:31	
+[ view details ]	complete
+286757	Choi, Jinlyung	481805.13	Escherichia coli ATCC 8739	1	4746218	2015-09-15 10:14:30	
+[ view details ]	complete
+286756	Choi, Jinlyung	502800.10	Yersinia pseudotuberculosis YPIII	1	4689441	2015-09-15 10:14:20	
+[ view details ]	complete
+286755	Choi, Jinlyung	477974.12	Candidatus Desulforudis audaxviator MP104C	1	2349476	2015-09-15 10:13:57	
+[ view details ]	complete
+286754	Choi, Jinlyung	444177.19	Lysinibacillus sphaericus C3-41	1	4639821	2015-09-15 10:13:51	
+[ view details ]	complete
+286753	Choi, Jinlyung	366602.11	Caulobacter sp. K31	1	5477872	2015-09-15 10:13:37	
+[ view details ]	complete
+286752	Choi, Jinlyung	498761.9	Heliobacterium modesticaldum Ice1	1	3075407	2015-09-15 10:13:25	
+[ view details ]	complete
+286751	Choi, Jinlyung	76869.14	Pseudomonas putida GB-1	1	6078430	2015-09-15 10:13:26	
+[ view details ]	complete
+286750	Choi, Jinlyung	484022.13	Francisella philomiragia subsp. philomiragia ATCC 25017	1	2045775	2015-09-15 10:13:10	
+[ view details ]	complete
+286749	Choi, Jinlyung	340099.10	Thermoanaerobacter pseudethanolicus ATCC 33223	1	2362816	2015-09-15 10:12:57	
+[ view details ]	complete
+286748	Choi, Jinlyung	315730.83	Bacillus weihenstephanensis KBAB4	1	5262775	2015-09-15 10:12:52	
+[ view details ]	complete
+286747	Choi, Jinlyung	399726.10	Thermoanaerobacter sp. X514	1	2457259	2015-09-15 10:12:42	
+[ view details ]	complete
+286746	Choi, Jinlyung	94624.11	Bordetella petrii	1	5287950	2015-09-15 10:12:34	
+[ view details ]	complete
+286745	Choi, Jinlyung	419610.14	Methylobacterium extorquens PA1	1	5471154	2015-09-15 10:12:33	
+[ view details ]	complete
+286744	Choi, Jinlyung	288705.19	Renibacterium salmoninarum ATCC 33209	1	3155250	2015-09-15 10:11:47	
+[ view details ]	complete
+286743	Choi, Jinlyung	470137.9	Brucella suis ATCC 23445	1	1923763	2015-09-15 10:11:39	
+[ view details ]	complete
+286742	Choi, Jinlyung	470137.8	Brucella suis ATCC 23445	1	1400844	2015-09-15 10:11:39	
+[ view details ]	complete
+286740	Choi, Jinlyung	441768.22	Acholeplasma laidlawii PG-8A	1	1496992	2015-09-15 10:11:01	
+[ view details ]	complete
+286739	Choi, Jinlyung	4959.3	Debaryomyces hansenii	1	29462	2015-09-15 10:11:00	
+[ view details ]	complete
+286738	Choi, Jinlyung	272568.26	Gluconacetobacter diazotrophicus PA1 5	1	3944163	2015-09-15 10:10:51	
+[ view details ]	complete
+286737	Choi, Jinlyung	483179.10	Brucella canis ATCC 23365	1	2105969	2015-09-15 10:10:39	
+[ view details ]	complete
+286736	Choi, Jinlyung	483179.9	Brucella canis ATCC 23365	1	1206800	2015-09-15 10:10:33	
+[ view details ]	complete
+286735	Choi, Jinlyung	395019.31	Burkholderia multivorans ATCC 17616	1	919806	2015-09-15 10:10:23	
+[ view details ]	complete
+286734	Choi, Jinlyung	398578.10	Delftia acidovorans SPH-1	1	6767514	2015-09-15 10:10:11	
+[ view details ]	complete
+286733	Choi, Jinlyung	395019.30	Burkholderia multivorans ATCC 17616	1	3448466	2015-09-15 10:10:06	
+[ view details ]	complete
+286732	Choi, Jinlyung	395019.29	Burkholderia multivorans ATCC 17616	1	2472928	2015-09-15 10:10:05	
+[ view details ]	complete
+286731	Choi, Jinlyung	357809.16	Lachnoclostridium phytofermentans ISDg	1	4847594	2015-09-15 10:09:58	
+[ view details ]	complete
+286730	Choi, Jinlyung	316274.9	Herpetosiphon aurantiacus DSM 785	1	6346587	2015-09-15 10:09:31	
+[ view details ]	complete
+286729	Choi, Jinlyung	391037.11	Salinispora arenicola CNS-205	1	5786361	2015-09-15 10:09:31	
+[ view details ]	complete
+286728	Choi, Jinlyung	96561.7	Desulfococcus oleovorans Hxd3	1	3944167	2015-09-15 10:09:15	
+[ view details ]	complete
+286727	Choi, Jinlyung	298653.11	Frankia sp. EAN1pec	1	8982042	2015-09-15 10:09:08	
+[ view details ]	complete
+286726	Choi, Jinlyung	399741.14	Serratia proteamaculans 568	1	5448853	2015-09-15 10:08:49	
+[ view details ]	complete
+286725	Choi, Jinlyung	315750.14	Bacillus pumilus SAFR-032	1	3704465	2015-09-15 10:08:47	
+[ view details ]	complete
+286724	Choi, Jinlyung	360104.24	Campylobacter concisus 13826	1	2052007	2015-09-15 10:08:18	
+[ view details ]	complete
+286723	Choi, Jinlyung	78245.17	Xanthobacter autotrophicus Py2	1	5308934	2015-09-15 10:08:12	
+[ view details ]	complete
+286722	Choi, Jinlyung	290338.16	Citrobacter koseri ATCC BAA-895	1	4720462	2015-09-15 10:08:11	
+[ view details ]	complete
+286721	Choi, Jinlyung	326423.42	Bacillus methylotrophicus FZB42	1	3918589	2015-09-15 10:08:07	
+[ view details ]	complete
+286720	Choi, Jinlyung	360105.13	Campylobacter curvus 525.92	1	1971264	2015-09-15 10:07:50	
+[ view details ]	complete
+286719	Choi, Jinlyung	456442.24	Methanoregula boonei 6A8	1	2542943	2015-09-15 10:07:33	
+[ view details ]	complete
+286718	Choi, Jinlyung	404589.14	Anaeromyxobacter sp. Fw109-5	1	5277990	2015-09-15 10:07:32	
+[ view details ]	complete
+286717	Choi, Jinlyung	431943.12	Clostridium kluyveri DSM 555	1	3964618	2015-09-15 10:07:27	
+[ view details ]	complete
+286716	Choi, Jinlyung	441771.11	Clostridium botulinum A str. Hall	1	3760560	2015-09-15 10:07:22	
+[ view details ]	complete
+286714	Choi, Jinlyung	315749.15	Bacillus cytotoxicus NVH 391-98	1	4087024	2015-09-15 10:06:47	
+[ view details ]	complete
+286713	Choi, Jinlyung	439375.39	Ochrobactrum anthropi ATCC 49188	1	1895911	2015-09-15 10:06:31	
+[ view details ]	complete
+286712	Choi, Jinlyung	439375.38	Ochrobactrum anthropi ATCC 49188	1	2887297	2015-09-15 10:06:31	
+[ view details ]	complete
+286711	Choi, Jinlyung	266940.18	Kineococcus radiotolerans SRS30216 = ATCC BAA-149	1	4761183	2015-09-15 10:06:21	
+[ view details ]	complete
+286710	Choi, Jinlyung	381754.16	Pseudomonas aeruginosa PA7	1	6588339	2015-09-15 10:06:01	
+[ view details ]	complete
+286709	Choi, Jinlyung	375286.12	Janthinobacterium sp. Marseille	1	4110251	2015-09-15 10:05:50	
+[ view details ]	complete
+286708	Choi, Jinlyung	400668.11	Marinomonas sp. MWYL1	1	5100344	2015-09-15 10:05:39	
+[ view details ]	complete
+286707	Choi, Jinlyung	272620.34	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	1	5315120	2015-09-15 10:05:40	
+[ view details ]	complete
+286706	Choi, Jinlyung	290402.61	Clostridium beijerinckii NCIMB 8052	1	6000632	2015-09-15 10:05:09	
+[ view details ]	complete
+286705	Choi, Jinlyung	366394.17	Sinorhizobium medicae WSM419	1	3781904	2015-09-15 10:05:05	
+[ view details ]	complete
+286704	Choi, Jinlyung	336982.14	Mycobacterium tuberculosis F11	1	4424435	2015-09-15 10:04:56	
+[ view details ]	complete
+286702	Choi, Jinlyung	402612.12	Flavobacterium psychrophilum JIP02/86	1	2860382	2015-09-15 10:04:52	
+[ view details ]	complete
+286701	Choi, Jinlyung	351746.16	Pseudomonas putida F1	1	5959964	2015-09-15 10:04:15	
+[ view details ]	complete
+286700	Choi, Jinlyung	349106.13	Psychrobacter sp. PRwf-1	1	2978976	2015-09-15 10:04:06	
+[ view details ]	complete
+286699	Choi, Jinlyung	392499.32	Sphingomonas wittichii RW1	1	5382261	2015-09-15 10:04:02	
+[ view details ]	complete
+286698	Choi, Jinlyung	420247.31	Methanobrevibacter smithii ATCC 35061	1	1853160	2015-09-15 10:04:02	
+[ view details ]	complete
+286697	Choi, Jinlyung	413999.18	Clostridium botulinum A str. ATCC 3502	1	3886916	2015-09-15 10:03:32	
+[ view details ]	complete
+286696	Choi, Jinlyung	444178.11	Brucella ovis ATCC 25840	1	2111370	2015-09-15 10:03:32	
+[ view details ]	complete
+286695	Choi, Jinlyung	444178.10	Brucella ovis ATCC 25840	1	1164220	2015-09-15 10:03:20	
+[ view details ]	complete
+286694	Choi, Jinlyung	288000.15	Bradyrhizobium sp. BTAi1	1	8264687	2015-09-15 10:03:25	
+[ view details ]	complete
+286693	Choi, Jinlyung	400673.14	Legionella pneumophila str. Corby	1	3576470	2015-09-15 10:02:57	
+[ view details ]	complete
+286692	Choi, Jinlyung	349163.22	Acidiphilium cryptum JF-5	1	3389227	2015-09-15 10:02:48	
+[ view details ]	complete
+286691	Choi, Jinlyung	351605.10	Geobacter uraniireducens Rf4	1	5136364	2015-09-15 10:02:38	
+[ view details ]	complete
+286690	Choi, Jinlyung	443906.33	Clavibacter michiganensis subsp. michiganensis NCPPB 382	1	3297891	2015-09-15 10:02:21	
+[ view details ]	complete
+286689	Choi, Jinlyung	351160.12	Methanocella arvoryzae MRE50	1	3179916	2015-09-15 10:02:19	
+[ view details ]	complete
+286688	Choi, Jinlyung	114615.10	Bradyrhizobium sp. ORS 278	1	7456587	2015-09-15 10:02:07	
+[ view details ]	complete
+286687	Choi, Jinlyung	376686.21	Flavobacterium johnsoniae UW101	1	6096872	2015-09-15 10:01:53	
+[ view details ]	complete
+286686	Choi, Jinlyung	399739.12	Pseudomonas mendocina ymp	1	5072807	2015-09-15 10:01:50	
+[ view details ]	complete
+286685	Choi, Jinlyung	216389.13	Dehalococcoides mccartyi BAV1	1	1341892	2015-09-15 10:01:27	
+[ view details ]	complete
+286683	Choi, Jinlyung	379731.19	Pseudomonas stutzeri A1501	1	4567418	2015-09-15 10:00:52	
+[ view details ]	complete
+286682	Choi, Jinlyung	319224.21	Shewanella putrefaciens CN-32	1	4659220	2015-09-15 10:00:52	
+[ view details ]	complete
+286681	Choi, Jinlyung	399742.16	Enterobacter sp. 638	1	4518712	2015-09-15 10:00:52	
+[ view details ]	complete
+286680	Choi, Jinlyung	349102.17	Rhodobacter sphaeroides ATCC 17025	1	3217726	2015-09-15 10:00:19	
+[ view details ]	complete
+286679	Choi, Jinlyung	369723.11	Salinispora tropica CNB-440	1	5183331	2015-09-15 10:00:03	
+[ view details ]	complete
+286678	Choi, Jinlyung	350054.23	Mycobacterium gilvum PYR-GCK	1	5619607	2015-09-15 09:59:57	
+[ view details ]	complete
+286677	Choi, Jinlyung	340322.11	Corynebacterium glutamicum R	1	3314179	2015-09-15 09:59:56	
+[ view details ]	complete
+286676	Choi, Jinlyung	417290.7	Saccharopolyspora erythraea prophage pSE211	1	8212805	2015-09-15 09:59:32	
+[ view details ]	complete
+286675	Choi, Jinlyung	420246.11	Geobacillus thermodenitrificans NG80-2	1	3550319	2015-09-15 09:59:26	
+[ view details ]	complete
+286674	Choi, Jinlyung	269482.31	Burkholderia vietnamiensis G4	1	3652814	2015-09-15 09:59:05	
+[ view details ]	complete
+286673	Choi, Jinlyung	269482.30	Burkholderia vietnamiensis G4	1	2411759	2015-09-15 09:59:05	
+[ view details ]	complete
+286672	Choi, Jinlyung	269482.29	Burkholderia vietnamiensis G4	1	1241007	2015-09-15 09:58:48	
+[ view details ]	complete
+286671	Choi, Jinlyung	357348.20	Burkholderia pseudomallei 1106a	1	3100794	2015-09-15 09:58:35	
+[ view details ]	complete
+286670	Choi, Jinlyung	164757.16	Mycobacterium sp. JLS	1	6048425	2015-09-15 09:58:34	
+[ view details ]	complete
+286669	Choi, Jinlyung	357348.19	Burkholderia pseudomallei 1106a	1	3988455	2015-09-15 09:58:21	
+[ view details ]	complete
+286668	Choi, Jinlyung	320373.12	Burkholderia pseudomallei 668	1	3127456	2015-09-15 09:58:18	
+[ view details ]	complete
+286667	Choi, Jinlyung	320373.11	Burkholderia pseudomallei 668	1	3912947	2015-09-15 09:57:57	
+[ view details ]	complete
+286666	Choi, Jinlyung	349101.12	Rhodobacter sphaeroides ATCC 17029	1	1219053	2015-09-15 09:57:44	
+[ view details ]	complete
+286665	Choi, Jinlyung	349101.11	Rhodobacter sphaeroides ATCC 17029	1	3147721	2015-09-15 09:57:44	
+[ view details ]	complete
+286664	Choi, Jinlyung	203119.25	Ruminiclostridium thermocellum ATCC 27405	1	3843301	2015-09-15 09:57:41	
+[ view details ]	complete
+286663	Choi, Jinlyung	393305.22	Yersinia enterocolitica subsp. enterocolitica 8081	1	4615899	2015-09-15 09:57:19	
+[ view details ]	complete
+286662	Choi, Jinlyung	420662.20	Methylibium petroleiphilum PM1	1	4044195	2015-09-15 09:57:18	
+[ view details ]	complete
+286661	Choi, Jinlyung	391735.12	Verminephrobacter eiseniae EF01-2	1	5566749	2015-09-15 09:56:58	
+[ view details ]	complete
+286660	Choi, Jinlyung	349124.15	Halorhodospira halophila SL1	1	2678452	2015-09-15 09:56:46	
+[ view details ]	complete
+286659	Choi, Jinlyung	232721.18	Acidovorax sp. JS42	1	4448856	2015-09-15 09:56:38	
+[ view details ]	complete
+286658	Choi, Jinlyung	365044.28	Polaromonas naphthalenivorans CJ2	1	4410291	2015-09-15 09:56:35	
+[ view details ]	complete
+286657	Choi, Jinlyung	397945.21	Acidovorax citrulli AAC00-1	1	5352772	2015-09-15 09:56:06	
+[ view details ]	complete
+286656	Choi, Jinlyung	290340.26	Arthrobacter aurescens TC1	1	4597686	2015-09-15 09:56:05	
+[ view details ]	complete
+286655	Choi, Jinlyung	351348.15	Marinobacter hydrocarbonoclasticus VT8	1	4326849	2015-09-15 09:56:01	
+[ view details ]	complete
+286654	Choi, Jinlyung	314724.7	Borrelia turicatae 91E135	1	917330	2015-09-15 09:55:51	
+[ view details ]	complete
+286653	Choi, Jinlyung	189918.21	Mycobacterium sp. KMS	1	5737227	2015-09-15 09:55:28	
+[ view details ]	complete
+286652	Choi, Jinlyung	62928.17	Azoarcus sp. BH72	1	4376040	2015-09-15 09:55:15	
+[ view details ]	complete
+286651	Choi, Jinlyung	196162.17	Nocardioides sp. JS614	1	4985871	2015-09-15 09:55:15	
+[ view details ]	complete
+286650	Choi, Jinlyung	326297.15	Shewanella amazonensis SB2B	1	4306142	2015-09-15 09:55:15	
+[ view details ]	complete
+286649	Choi, Jinlyung	318586.14	Paracoccus denitrificans PD1222	1	1730097	2015-09-15 09:54:40	
+[ view details ]	complete
+286648	Choi, Jinlyung	318586.13	Paracoccus denitrificans PD1222	1	2852282	2015-09-15 09:54:25	
+[ view details ]	complete
+286646	Choi, Jinlyung	290317.13	Chlorobium phaeobacteroides DSM 266	1	3133902	2015-09-15 09:54:18	
+[ view details ]	complete
+286645	Choi, Jinlyung	362242.38	Mycobacterium ulcerans Agy99	1	5631606	2015-09-15 09:54:15	
+[ view details ]	complete
+286644	Choi, Jinlyung	246196.50	Mycobacterium smegmatis str. MC2 155	1	6988209	2015-09-15 09:54:11	
+[ view details ]	complete
+286643	Choi, Jinlyung	338966.13	Pelobacter propionicus DSM 2379	1	4008000	2015-09-15 09:53:49	
+[ view details ]	complete
+286641	Choi, Jinlyung	243243.20	Mycobacterium avium 104	1	5475491	2015-09-15 09:53:34	
+[ view details ]	complete
+286640	Choi, Jinlyung	94122.11	Shewanella sp. ANA-3	1	4972204	2015-09-15 09:53:20	
+[ view details ]	complete
+286639	Choi, Jinlyung	386415.11	Clostridium novyi NT	1	2547720	2015-09-15 09:53:14	
+[ view details ]	complete
+286638	Choi, Jinlyung	386043.11	Listeria welshimeri serovar 6b str. SLCC5334	1	2814130	2015-09-15 09:53:13	
+[ view details ]	complete
+286637	Choi, Jinlyung	331272.27	Burkholderia cenocepacia HI2424	1	1055417	2015-09-15 09:52:53	
+[ view details ]	complete
+286636	Choi, Jinlyung	290399.28	Arthrobacter sp. FB24	1	4698945	2015-09-15 09:52:43	
+[ view details ]	complete
+286635	Choi, Jinlyung	331272.26	Burkholderia cenocepacia HI2424	1	2998664	2015-09-15 09:52:43	
+[ view details ]	complete
+286634	Choi, Jinlyung	331272.25	Burkholderia cenocepacia HI2424	1	3483902	2015-09-15 09:52:43	
+[ view details ]	complete
+286632	Choi, Jinlyung	355277.21	Leptospira borgpetersenii serovar Hardjo-bovis str. JB197	1	3576473	2015-09-15 09:51:58	
+[ view details ]	complete
+286631	Choi, Jinlyung	355276.25	Leptospira borgpetersenii serovar Hardjo-bovis str. L550	1	317336	2015-09-15 09:51:51	
+[ view details ]	complete
+286630	Choi, Jinlyung	355277.20	Leptospira borgpetersenii serovar Hardjo-bovis str. JB197	1	299762	2015-09-15 09:51:36	
+[ view details ]	complete
+286629	Choi, Jinlyung	387344.21	Lactobacillus brevis ATCC 367	1	2291220	2015-09-15 09:51:17	
+[ view details ]	complete
+286628	Choi, Jinlyung	355276.24	Leptospira borgpetersenii serovar Hardjo-bovis str. L550	1	3614446	2015-09-15 09:51:17	
+[ view details ]	complete
+286627	Choi, Jinlyung	208963.20	Pseudomonas aeruginosa UCBPP-PA14	1	6537648	2015-09-15 09:51:10	
+[ view details ]	complete
+286626	Choi, Jinlyung	316055.20	Rhodopseudomonas palustris BisA53	1	5505494	2015-09-15 09:51:10	
+[ view details ]	complete
+286625	Choi, Jinlyung	339670.20	Burkholderia ambifaria AMMD	1	1281472	2015-09-15 09:50:17	
+[ view details ]	complete
+286624	Choi, Jinlyung	339670.19	Burkholderia ambifaria AMMD	1	3556545	2015-09-15 09:50:11	
+[ view details ]	complete
+286623	Choi, Jinlyung	339670.18	Burkholderia ambifaria AMMD	1	2646969	2015-09-15 09:50:03	
+[ view details ]	complete
+286622	Choi, Jinlyung	216596.34	Rhizobium leguminosarum bv. viciae 3841	1	5057142	2015-09-15 09:50:05	
+[ view details ]	complete
+286621	Choi, Jinlyung	391165.11	Granulibacter bethesdensis CGDNIH1	1	2708355	2015-09-15 09:49:41	
+[ view details ]	complete
+286620	Choi, Jinlyung	326424.17	Frankia alni ACN14a	1	7497934	2015-09-15 09:49:16	
+[ view details ]	complete
+286619	Choi, Jinlyung	101510.34	Rhodococcus jostii RHA1	1	7804765	2015-09-15 09:49:15	
+[ view details ]	complete
+286618	Choi, Jinlyung	381666.24	Ralstonia eutropha H16	1	2912490	2015-09-15 09:49:05	
+[ view details ]	complete
+286617	Choi, Jinlyung	381666.23	Ralstonia eutropha H16	1	4052032	2015-09-15 09:49:05	
+[ view details ]	complete
+286615	Choi, Jinlyung	396359.6	Clostridium phage phiSM101	1	38092	2015-09-15 09:48:27	
+[ view details ]	complete
+286614	Choi, Jinlyung	266779.14	Chelativorans sp. BNC1	1	4412446	2015-09-15 09:48:24	
+[ view details ]	complete
+286613	Choi, Jinlyung	195103.17	Clostridium perfringens ATCC 13124	1	3256683	2015-09-15 09:48:23	
+[ view details ]	complete
+286612	Choi, Jinlyung	289380.20	Clostridium perfringens SM101	1	2897393	2015-09-15 09:48:16	
+[ view details ]	complete
+286611	Choi, Jinlyung	269798.22	Cytophaga hutchinsonii ATCC 33406	1	4433218	2015-09-15 09:48:02	
+[ view details ]	complete
+286610	Choi, Jinlyung	360102.14	Yersinia pestis Antiqua	1	4702289	2015-09-15 09:47:49	
+[ view details ]	complete
+286609	Choi, Jinlyung	393115.16	Francisella tularensis subsp. tularensis FSC198	1	1892616	2015-09-15 09:47:37	
+[ view details ]	complete
+286608	Choi, Jinlyung	377628.15	Yersinia pestis Nepal516	1	4534590	2015-09-15 09:47:19	
+[ view details ]	complete
+286607	Choi, Jinlyung	266117.15	Rubrobacter xylanophilus DSM 9941	1	3225748	2015-09-15 09:47:10	
+[ view details ]	complete
+286605	Choi, Jinlyung	246197.42	Myxococcus xanthus DK 1622	1	9139763	2015-09-15 09:46:55	
+[ view details ]	complete
+286604	Choi, Jinlyung	384676.19	Pseudomonas entomophila L48	1	5888780	2015-09-15 09:46:40	
+[ view details ]	complete
+286603	Choi, Jinlyung	204669.17	Candidatus Koribacter versatilis Ellin345	1	5650368	2015-09-15 09:46:27	
+[ view details ]	complete
+286602	Choi, Jinlyung	266264.28	Cupriavidus metallidurans CH34	1	3928089	2015-09-15 09:46:11	
+[ view details ]	complete
+286601	Choi, Jinlyung	335284.11	Psychrobacter cryohalolentis K5	1	3059876	2015-09-15 09:45:53	
+[ view details ]	complete
+286600	Choi, Jinlyung	323097.14	Nitrobacter hamburgensis X14	1	4406967	2015-09-15 09:45:47	
+[ view details ]	complete
+286599	Choi, Jinlyung	290398.18	Chromohalobacter salexigens DSM 3043	1	3696649	2015-09-15 09:45:47	
+[ view details ]	complete
+286598	Choi, Jinlyung	316057.10	Rhodopseudomonas palustris BisB5	1	4892717	2015-09-15 09:45:35	
+[ view details ]	complete
+286597	Choi, Jinlyung	266265.21	Burkholderia xenovorans LB400	1	1471779	2015-09-15 09:45:21	
+[ view details ]	complete
+286596	Choi, Jinlyung	266265.20	Burkholderia xenovorans LB400	1	4895836	2015-09-15 09:45:12	
+[ view details ]	complete
+286595	Choi, Jinlyung	266265.19	Burkholderia xenovorans LB400	1	3363523	2015-09-15 09:45:10	
+[ view details ]	complete
+286594	Choi, Jinlyung	296591.15	Polaromonas sp. JS666	1	5200264	2015-09-15 09:44:49	
+[ view details ]	complete
+286593	Choi, Jinlyung	316056.20	Rhodopseudomonas palustris BisB18	1	5513844	2015-09-15 09:44:29	
+[ view details ]	complete
+286592	Choi, Jinlyung	265072.14	Methylobacillus flagellatus KT	1	2971517	2015-09-15 09:44:27	
+[ view details ]	complete
+286591	Choi, Jinlyung	138119.48	Desulfitobacterium hafniense Y51	1	5727534	2015-09-15 09:44:28	
+[ view details ]	complete
+286590	Choi, Jinlyung	279238.25	Novosphingobium aromaticivorans DSM 12444	1	3561584	2015-09-15 09:43:54	
+[ view details ]	complete
+286589	Choi, Jinlyung	376619.11	Francisella tularensis subsp. holarctica LVS	1	1895994	2015-09-15 09:43:53	
+[ view details ]	complete
+286588	Choi, Jinlyung	222891.11	Neorickettsia sennetsu str. Miyayama	1	859006	2015-09-15 09:43:45	
+[ view details ]	complete
+286587	Choi, Jinlyung	316058.15	Rhodopseudomonas palustris HaA2	1	5331656	2015-09-15 09:43:42	
+[ view details ]	complete
+286586	Choi, Jinlyung	106370.19	Frankia sp. CcI3	1	5433628	2015-09-15 09:43:23	
+[ view details ]	complete
+286585	Choi, Jinlyung	321327.29	Synechococcus sp. JA-3-3Ab	1	2932766	2015-09-15 09:43:20	
+[ view details ]	complete
+286584	Choi, Jinlyung	347834.46	Rhizobium etli CFN 42	1	4381608	2015-09-15 09:43:20	
+[ view details ]	complete
+286583	Choi, Jinlyung	290397.29	Anaeromyxobacter dehalogenans 2CP-C	1	5013479	2015-09-15 09:42:57	
+[ view details ]	complete
+286582	Choi, Jinlyung	271848.38	Burkholderia thailandensis E264	1	2914771	2015-09-15 09:42:34	
+[ view details ]	complete
+286581	Choi, Jinlyung	271848.37	Burkholderia thailandensis E264	1	3809201	2015-09-15 09:42:17	
+[ view details ]	complete
+286580	Choi, Jinlyung	339860.21	Methanosphaera stadtmanae DSM 3091	1	1767403	2015-09-15 09:42:07	
+[ view details ]	complete
+286579	Choi, Jinlyung	39073.3	Moorella thermoacetica ATCC 39073	1	2628784	2015-09-15 09:41:46	
+[ view details ]	complete
+286578	Choi, Jinlyung	11170.3	Rhodospirillum rubrum ATCC 11170	1	4352825	2015-09-15 09:41:44	
+[ view details ]	complete
+286577	Choi, Jinlyung	359391.17	Brucella abortus 2308	1	1156948	2015-09-15 09:41:43	
+[ view details ]	complete
+286576	Choi, Jinlyung	323848.8	Nitrosospira multiformis ATCC 25196	1	3184243	2015-09-15 09:41:20	
+[ view details ]	complete
+286575	Choi, Jinlyung	300268.15	Shigella boydii Sb227	1	4519823	2015-09-15 09:41:14	
+[ view details ]	complete
+286574	Choi, Jinlyung	261594.61	Bacillus anthracis str. Ames	1	5227419	2015-09-15 09:41:14	
+[ view details ]	complete
+286573	Choi, Jinlyung	207559.17	Desulfovibrio alaskensis G20	1	3730232	2015-09-15 09:41:01	
+[ view details ]	complete
+286572	Choi, Jinlyung	269799.14	Geobacter metallireducens GS-15	1	3997420	2015-09-15 09:40:36	
+[ view details ]	complete
+286571	Choi, Jinlyung	340177.14	Chlorobium chlorochromatii CaD3	1	2572079	2015-09-15 09:40:12	
+[ view details ]	complete
+286569	Choi, Jinlyung	319225.13	Chlorobium luteolum DSM 273	1	2364842	2015-09-15 09:40:02	
+[ view details ]	complete
+286567	Choi, Jinlyung	316273.13	Xanthomonas campestris pv. vesicatoria str. 85-10	1	5178466	2015-09-15 09:39:38	
+[ view details ]	complete
+286565	Choi, Jinlyung	338963.12	Pelobacter carbinolicus DSM 2380	1	3665893	2015-09-15 09:39:31	
+[ view details ]	complete
+286564	Choi, Jinlyung	205922.21	Pseudomonas fluorescens Pf0-1	1	6438405	2015-09-15 09:39:27	
+[ view details ]	complete
+286563	Choi, Jinlyung	240292.34	Anabaena variabilis ATCC 29413	1	6365727	2015-09-15 09:39:08	
+[ view details ]	complete
+286562	Choi, Jinlyung	320372.11	Burkholderia pseudomallei 1710b	1	3181762	2015-09-15 09:39:01	
+[ view details ]	complete
+286561	Choi, Jinlyung	320372.10	Burkholderia pseudomallei 1710b	1	4126292	2015-09-15 09:38:59	
+[ view details ]	complete
+286560	Choi, Jinlyung	292415.12	Thiobacillus denitrificans ATCC 25259	1	2909809	2015-09-15 09:38:32	
+[ view details ]	complete
+286559	Choi, Jinlyung	323098.9	Nitrobacter winogradskyi Nb-255	1	3402093	2015-09-15 09:38:32	
+[ view details ]	complete
+286558	Choi, Jinlyung	255470.13	Dehalococcoides mccartyi CBDB1	1	1395502	2015-09-15 09:38:25	
+[ view details ]	complete
+286557	Choi, Jinlyung	159087.12	Dechloromonas aromatica RCB	1	4501104	2015-09-15 09:38:13	
+[ view details ]	complete
+286556	Choi, Jinlyung	269797.21	Methanosarcina barkeri str. Fusaro	1	4837408	2015-09-15 09:37:56	
+[ view details ]	complete
+286555	Choi, Jinlyung	264198.14	Ralstonia eutropha JMP134	1	2726152	2015-09-15 09:37:54	
+[ view details ]	complete
+286554	Choi, Jinlyung	342451.25	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305	1	2516575	2015-09-15 09:37:54	
+[ view details ]	complete
+286553	Choi, Jinlyung	264198.13	Ralstonia eutropha JMP134	1	3806533	2015-09-15 09:37:20	
+[ view details ]	complete
+286552	Choi, Jinlyung	259536.24	Psychrobacter arcticus 273-4	1	2650701	2015-09-15 09:37:14	
+[ view details ]	complete
+286551	Choi, Jinlyung	269800.9	Thermobifida fusca YX	1	3642249	2015-09-15 09:37:14	
+[ view details ]	complete
+286550	Choi, Jinlyung	279808.13	Staphylococcus haemolyticus JCSC1435	1	2685015	2015-09-15 09:36:54	
+[ view details ]	complete
+286549	Choi, Jinlyung	314565.10	Xanthomonas campestris pv. campestris str. 8004	1	5148708	2015-09-15 09:36:49	
+[ view details ]	complete
+286548	Choi, Jinlyung	306537.14	Corynebacterium jeikeium K411	1	2462499	2015-09-15 09:36:49	
+[ view details ]	complete
+286547	Choi, Jinlyung	205918.48	Pseudomonas syringae pv. syringae B728a	1	6093698	2015-09-15 09:36:46	
+[ view details ]	complete
+286546	Choi, Jinlyung	196627.34	Corynebacterium glutamicum ATCC 13032	1	3282708	2015-09-15 09:36:35	
+[ view details ]	complete
+286545	Choi, Jinlyung	262698.10	Brucella abortus bv. 1 str. 9-941	1	1162204	2015-09-15 09:36:28	
+[ view details ]	complete
+286544	Choi, Jinlyung	129861.6	Phage Gifsy-1	1	4755700	2015-09-15 09:36:21	
+[ view details ]	complete
+286543	Choi, Jinlyung	262698.9	Brucella abortus bv. 1 str. 9-941	1	2124241	2015-09-15 09:36:11	
+[ view details ]	complete
+286542	Choi, Jinlyung	291331.14	Xanthomonas oryzae pv. oryzae KACC 10331	1	4941439	2015-09-15 09:36:11	
+[ view details ]	complete
+286541	Choi, Jinlyung	302409.7	Ehrlichia ruminantium str. Gardel	1	1499920	2015-09-15 09:36:07	
+[ view details ]	complete
+286540	Choi, Jinlyung	214684.17	Cryptococcus neoformans var. neoformans JEC21	1	1347793	2015-09-15 09:35:50	
+[ view details ]	complete
+286539	Choi, Jinlyung	214684.16	Cryptococcus neoformans var. neoformans JEC21	1	1194300	2015-09-15 09:35:49	
+[ view details ]	complete
+286538	Choi, Jinlyung	214684.15	Cryptococcus neoformans var. neoformans JEC21	1	1178688	2015-09-15 09:35:40	
+[ view details ]	complete
+286537	Choi, Jinlyung	214684.14	Cryptococcus neoformans var. neoformans JEC21	1	2105742	2015-09-15 09:35:40	
+[ view details ]	complete
+286536	Choi, Jinlyung	214684.13	Cryptococcus neoformans var. neoformans JEC21	1	1438950	2015-09-15 09:35:27	
+[ view details ]	complete
+286535	Choi, Jinlyung	214684.12	Cryptococcus neoformans var. neoformans JEC21	1	1507550	2015-09-15 09:35:26	
+[ view details ]	complete
+286534	Choi, Jinlyung	214684.11	Cryptococcus neoformans var. neoformans JEC21	1	1783081	2015-09-15 09:35:14	
+[ view details ]	complete
+286533	Choi, Jinlyung	214684.10	Cryptococcus neoformans var. neoformans JEC21	1	1632307	2015-09-15 09:35:08	
+[ view details ]	complete
+286532	Choi, Jinlyung	214684.9	Cryptococcus neoformans var. neoformans JEC21	1	762694	2015-09-15 09:35:03	
+[ view details ]	complete
+286531	Choi, Jinlyung	214684.8	Cryptococcus neoformans var. neoformans JEC21	1	787999	2015-09-15 09:34:57	
+[ view details ]	complete
+286530	Choi, Jinlyung	69014.19	Thermococcus kodakarensis KOD1	1	2088737	2015-09-15 09:34:53	
+[ view details ]	complete
+286529	Choi, Jinlyung	214684.7	Cryptococcus neoformans var. neoformans JEC21	1	906719	2015-09-15 09:34:51	
+[ view details ]	complete
+286528	Choi, Jinlyung	214684.6	Cryptococcus neoformans var. neoformans JEC21	1	1019846	2015-09-15 09:34:49	
+[ view details ]	complete
+286527	Choi, Jinlyung	214684.5	Cryptococcus neoformans var. neoformans JEC21	1	1085720	2015-09-15 09:34:43	
+[ view details ]	complete
+286526	Choi, Jinlyung	66692.10	Bacillus clausii KSM-K16	1	4303871	2015-09-15 09:34:34	
+[ view details ]	complete
+286525	Choi, Jinlyung	214684.4	Cryptococcus neoformans var. neoformans JEC21	1	2300533	2015-09-15 09:34:33	
+[ view details ]	complete
+286524	Choi, Jinlyung	76114.20	Aromatoleum aromaticum EbN1	1	4296230	2015-09-15 09:34:27	
+[ view details ]	complete
+286523	Choi, Jinlyung	295319.23	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150	1	4585229	2015-09-15 09:34:11	
+[ view details ]	complete
+286522	Choi, Jinlyung	297246.19	Legionella pneumophila str. Paris	1	3503610	2015-09-15 09:34:07	
+[ view details ]	complete
+286521	Choi, Jinlyung	297245.15	Legionella pneumophila str. Lens	1	3345687	2015-09-15 09:34:07	
+[ view details ]	complete
+286520	Choi, Jinlyung	247156.12	Nocardia farcinica IFM 10152	1	6021225	2015-09-15 09:33:58	
+[ view details ]	complete
+286519	Choi, Jinlyung	272560.48	Burkholderia pseudomallei K96243	1	3173005	2015-09-15 09:33:39	
+[ view details ]	complete
+286518	Choi, Jinlyung	1230652.4	Bacillus phage BLi_Pp3	1	4222645	2015-09-15 09:33:39	
+[ view details ]	complete
+286517	Choi, Jinlyung	272560.47	Burkholderia pseudomallei K96243	1	4074542	2015-09-15 09:33:39	
+[ view details ]	complete
+286516	Choi, Jinlyung	288681.21	Bacillus cereus E33L	1	5300915	2015-09-15 09:33:23	
+[ view details ]	complete
+286515	Choi, Jinlyung	279010.39	Bacillus licheniformis DSM 13 = ATCC 14580	1	4222597	2015-09-15 09:33:09	
+[ view details ]	complete
+286514	Choi, Jinlyung	273123.13	Yersinia pseudotuberculosis IP 32953	1	4744671	2015-09-15 09:33:04	
+[ view details ]	complete
+286513	Choi, Jinlyung	292459.8	Symbiobacterium thermophilum IAM 14863	1	3566135	2015-09-15 09:33:03	
+[ view details ]	complete
+286512	Choi, Jinlyung	28985.3	Kluyveromyces lactis	1	40291	2015-09-15 09:32:43	
+[ view details ]	complete
+286511	Choi, Jinlyung	284592.10	Debaryomyces hansenii CBS767	1	2051050	2015-09-15 09:32:41	
+[ view details ]	complete
+286509	Choi, Jinlyung	284592.9	Debaryomyces hansenii CBS767	1	2007515	2015-09-15 09:32:35	
+[ view details ]	complete
+286508	Choi, Jinlyung	284592.8	Debaryomyces hansenii CBS767	1	2305761	2015-09-15 09:32:32	
+[ view details ]	complete
+286507	Choi, Jinlyung	284592.7	Debaryomyces hansenii CBS767	1	1606296	2015-09-15 09:32:28	
+[ view details ]	complete
+286506	Choi, Jinlyung	284592.6	Debaryomyces hansenii CBS767	1	1587442	2015-09-15 09:32:20	
+[ view details ]	complete
+286505	Choi, Jinlyung	284592.5	Debaryomyces hansenii CBS767	1	1249940	2015-09-15 09:32:09	
+[ view details ]	complete
+286504	Choi, Jinlyung	284592.4	Debaryomyces hansenii CBS767	1	1344482	2015-09-15 09:32:10	
+[ view details ]	complete
+286503	Choi, Jinlyung	284590.9	Kluyveromyces lactis NRRL Y-1140	1	2602197	2015-09-15 09:32:06	
+[ view details ]	complete
+286502	Choi, Jinlyung	284590.8	Kluyveromyces lactis NRRL Y-1140	1	2234072	2015-09-15 09:31:58	
+[ view details ]	complete
+286501	Choi, Jinlyung	284590.7	Kluyveromyces lactis NRRL Y-1140	1	1715506	2015-09-15 09:31:52	
+[ view details ]	complete
+286500	Choi, Jinlyung	284590.6	Kluyveromyces lactis NRRL Y-1140	1	1753957	2015-09-15 09:31:52	
+[ view details ]	complete
+286498	Choi, Jinlyung	284590.5	Kluyveromyces lactis NRRL Y-1140	1	1320834	2015-09-15 09:31:47	
+[ view details ]	complete
+286497	Choi, Jinlyung	284590.4	Kluyveromyces lactis NRRL Y-1140	1	1062590	2015-09-15 09:31:40	
+[ view details ]	complete
+286496	Choi, Jinlyung	284593.17	Candida glabrata CBS 138	1	1402899	2015-09-15 09:31:34	
+[ view details ]	complete
+286495	Choi, Jinlyung	284593.16	Candida glabrata CBS 138	1	1455689	2015-09-15 09:31:32	
+[ view details ]	complete
+286493	Choi, Jinlyung	284593.15	Candida glabrata CBS 138	1	1302831	2015-09-15 09:31:29	
+[ view details ]	complete
+286492	Choi, Jinlyung	284593.14	Candida glabrata CBS 138	1	1195132	2015-09-15 09:31:19	
+[ view details ]	complete
+286491	Choi, Jinlyung	284593.13	Candida glabrata CBS 138	1	1100349	2015-09-15 09:31:18	
+[ view details ]	complete
+286489	Choi, Jinlyung	284593.12	Candida glabrata CBS 138	1	1050361	2015-09-15 09:31:13	
+[ view details ]	complete
+286488	Choi, Jinlyung	284593.11	Candida glabrata CBS 138	1	992211	2015-09-15 09:31:13	
+[ view details ]	complete
+286487	Choi, Jinlyung	284593.10	Candida glabrata CBS 138	1	927101	2015-09-15 09:31:05	
+[ view details ]	complete
+286486	Choi, Jinlyung	284593.9	Candida glabrata CBS 138	1	687738	2015-09-15 09:31:03	
+[ view details ]	complete
+286485	Choi, Jinlyung	284593.8	Candida glabrata CBS 138	1	558804	2015-09-15 09:30:57	
+[ view details ]	complete
+286484	Choi, Jinlyung	284593.7	Candida glabrata CBS 138	1	651701	2015-09-15 09:30:57	
+[ view details ]	complete
+286482	Choi, Jinlyung	284593.6	Candida glabrata CBS 138	1	502101	2015-09-15 09:30:49	
+[ view details ]	complete
+286481	Choi, Jinlyung	62977.15	Acinetobacter sp. ADP1	1	3598621	2015-09-15 09:30:52	
+[ view details ]	complete
+286480	Choi, Jinlyung	284593.5	Candida glabrata CBS 138	1	491328	2015-09-15 09:30:42	
+[ view details ]	complete
+286479	Choi, Jinlyung	281309.15	Bacillus thuringiensis serovar konkukian str. 97-27	1	5237682	2015-09-15 09:30:39	
+[ view details ]	complete
+286478	Choi, Jinlyung	260799.39	Bacillus anthracis str. Sterne	1	5228663	2015-09-15 09:30:35	
+[ view details ]	complete
+286477	Choi, Jinlyung	264201.24	Candidatus Protochlamydia amoebophila UWE25	1	2414465	2015-09-15 09:30:25	
+[ view details ]	complete
+286476	Choi, Jinlyung	263820.11	Picrophilus torridus DSM 9790	1	1545895	2015-09-15 09:30:25	
+[ view details ]	complete
+286475	Choi, Jinlyung	267671.16	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	1	350181	2015-09-15 09:30:06	
+[ view details ]	complete
+286473	Choi, Jinlyung	267671.15	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	1	4277185	2015-09-15 09:30:03	
+[ view details ]	complete
+286472	Choi, Jinlyung	264462.22	Bdellovibrio bacteriovorus HD100	1	3782950	2015-09-15 09:30:03	
+[ view details ]	complete
+286471	Choi, Jinlyung	264730.27	Pseudomonas savastanoi pv. phaseolicola 1448A	1	5928787	2015-09-15 09:30:00	
+[ view details ]	complete
+286470	Choi, Jinlyung	258594.20	Rhodopseudomonas palustris CGA009	1	5459213	2015-09-15 09:29:54	
+[ view details ]	complete
+286468	Choi, Jinlyung	243265.10	Photorhabdus luminescens subsp. laumondii TTO1	1	5688987	2015-09-15 09:29:38	
+[ view details ]	complete
+286466	Choi, Jinlyung	251221.9	Gloeobacter violaceus PCC 7421	1	4659019	2015-09-15 09:29:29	
+[ view details ]	complete
+286465	Choi, Jinlyung	243365.18	Chromobacterium violaceum ATCC 12472	1	4751080	2015-09-15 09:29:26	
+[ view details ]	complete
+286463	Choi, Jinlyung	14579.3	Bacillus cereus ATCC 14579	1	5411809	2015-09-15 09:29:15	
+[ view details ]	complete
+286462	Choi, Jinlyung	228410.10	Nitrosomonas europaea ATCC 19718	1	2812094	2015-09-15 09:29:06	
+[ view details ]	complete
+286461	Choi, Jinlyung	226186.41	Bacteroides thetaiotaomicron VPI-5482	1	6260361	2015-09-15 09:28:51	
+[ view details ]	complete
+286460	Choi, Jinlyung	223283.20	Pseudomonas syringae pv. tomato str. DC3000	1	6397126	2015-09-15 09:28:48	
+[ view details ]	complete
+286459	Choi, Jinlyung	209261.21	Salmonella enterica subsp. enterica serovar Typhi str. Ty2	1	4791961	2015-09-15 09:28:42	
+[ view details ]	complete
+286458	Choi, Jinlyung	284593.4	Candida glabrata CBS 138	1	20063	2015-09-15 09:28:37	
+[ view details ]	complete
+286457	Choi, Jinlyung	203267.10	Tropheryma whipplei str. Twist	1	927303	2015-09-15 09:28:22	
+[ view details ]	complete
+286456	Choi, Jinlyung	212717.17	Clostridium tetani E88	1	2799251	2015-09-15 09:28:18	
+[ view details ]	complete
+286455	Choi, Jinlyung	183190.12	Xylella fastidiosa Temecula1	1	2519802	2015-09-15 09:28:12	
+[ view details ]	complete
+286454	Choi, Jinlyung	218496.7	Tropheryma whipplei TW08/27	1	925938	2015-09-15 09:28:04	
+[ view details ]	complete
+286453	Choi, Jinlyung	224911.34	Bradyrhizobium diazoefficiens USDA 110	1	9105828	2015-09-15 09:28:10	
+[ view details ]	complete
+286452	Choi, Jinlyung	218491.18	Pectobacterium atrosepticum SCRI1043	1	5064019	2015-09-15 09:27:56	
+[ view details ]	complete
+286451	Choi, Jinlyung	211586.24	Shewanella oneidensis MR-1	1	4969811	2015-09-15 09:27:50	
+[ view details ]	complete
+286450	Choi, Jinlyung	196164.15	Corynebacterium efficiens YS-314	1	3147090	2015-09-15 09:27:45	
+[ view details ]	complete
+286449	Choi, Jinlyung	189518.22	Leptospira interrogans serovar Lai str. 56601	1	4338762	2015-09-15 09:27:23	
+[ view details ]	complete
+286448	Choi, Jinlyung	189518.21	Leptospira interrogans serovar Lai str. 56601	1	359372	2015-09-15 09:27:20	
+[ view details ]	complete
+286447	Choi, Jinlyung	221109.11	Oceanobacillus iheyensis HTE831	1	3630528	2015-09-15 09:27:20	
+[ view details ]	complete
+286446	Choi, Jinlyung	220664.34	Pseudomonas protegens Pf-5	1	7074893	2015-09-15 09:27:20	
+[ view details ]	complete
+286445	Choi, Jinlyung	198094.23	Bacillus anthracis str. Ames	1	5227293	2015-09-15 09:27:06	
+[ view details ]	complete
+286444	Choi, Jinlyung	222523.24	Bacillus cereus ATCC 10987	1	5224283	2015-09-15 09:26:55	
+[ view details ]	complete
+286443	Choi, Jinlyung	33913.3	Xanthomonas campestris pv. campestris str. ATCC 33913	1	5076188	2015-09-15 09:26:51	
+[ view details ]	complete
+286442	Choi, Jinlyung	100226.62	Streptomyces coelicolor A3(2)	1	8667507	2015-09-15 09:26:37	
+[ view details ]	complete
+286441	Choi, Jinlyung	192952.24	Methanosarcina mazei Go1	1	4096345	2015-09-15 09:26:29	
+[ view details ]	complete
+286440	Choi, Jinlyung	195102.21	Clostridium perfringens str. 13	1	3031430	2015-09-15 09:26:19	
+[ view details ]	complete
+286439	Choi, Jinlyung	188937.27	Methanosarcina acetivorans C2A	1	5751492	2015-09-15 09:26:17	
+[ view details ]	complete
+286438	Choi, Jinlyung	196627.33	Corynebacterium glutamicum ATCC 13032	1	3309401	2015-09-15 09:26:00	
+[ view details ]	complete
+286437	Choi, Jinlyung	227941.12	Chlamydophila caviae GPIC	1	1173390	2015-09-15 09:25:40	
+[ view details ]	complete
+286436	Choi, Jinlyung	103690.23	Nostoc sp. PCC 7120	1	6413771	2015-09-15 09:25:40	
+[ view details ]	complete
+286435	Choi, Jinlyung	224914.45	Brucella melitensis bv. 1 str. 16M	1	1177787	2015-09-15 09:25:35	
+[ view details ]	complete
+286434	Choi, Jinlyung	267608.20	Ralstonia solanacearum GMI1000	1	3716413	2015-09-15 09:25:36	
+[ view details ]	complete
+286432	Choi, Jinlyung	224914.44	Brucella melitensis bv. 1 str. 16M	1	2117144	2015-09-15 09:25:24	
+[ view details ]	complete
+286431	Choi, Jinlyung	272626.16	Listeria innocua Clip11262	1	3011208	2015-09-15 09:25:15	
+[ view details ]	complete
+286430	Choi, Jinlyung	169963.27	Listeria monocytogenes EGD-e	1	2944528	2015-09-15 09:25:05	
+[ view details ]	complete
+286429	Choi, Jinlyung	227882.29	Streptomyces avermitilis MA-4680 = NBRC 14893	1	9025608	2015-09-15 09:25:05	
+[ view details ]	complete
+286428	Choi, Jinlyung	220341.37	Salmonella enterica subsp. enterica serovar Typhi str. CT18	1	4809037	2015-09-15 09:25:00	
+[ view details ]	complete
+286427	Choi, Jinlyung	700720.3	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	1	4857432	2015-09-15 09:24:52	
+[ view details ]	complete
+286426	Choi, Jinlyung	214092.177	Yersinia pestis CO92	1	4653728	2015-09-15 09:24:42	
+[ view details ]	complete
+286425	Choi, Jinlyung	176299.20	Agrobacterium fabrum str. C58	1	2075577	2015-09-15 09:24:30	
+[ view details ]	complete
+286424	Choi, Jinlyung	176299.19	Agrobacterium fabrum str. C58	1	2841580	2015-09-15 09:24:20	
+[ view details ]	complete
+286423	Choi, Jinlyung	243231.18	Geobacter sulfurreducens PCA	1	3814128	2015-09-15 09:24:19	
+[ view details ]	complete
+286422	Choi, Jinlyung	266834.27	Sinorhizobium meliloti 1021	1	3654135	2015-09-15 09:24:13	
+[ view details ]	complete
+286421	Choi, Jinlyung	824.3	Clostridium acetobutylicum ATCC 824	1	3940880	2015-09-15 09:24:12	
+[ view details ]	complete
+286420	Choi, Jinlyung	265669.18	Listeria monocytogenes serotype 4b str. F2365	1	2905187	2015-09-15 09:24:02	
+[ view details ]	complete
+286418	Choi, Jinlyung	227377.13	Coxiella burnetii RSA 493	1	1995281	2015-09-15 09:23:50	
+[ view details ]	complete
+286417	Choi, Jinlyung	160488.28	Pseudomonas putida KT2440	1	6181863	2015-09-15 09:23:48	
+[ view details ]	complete
+286416	Choi, Jinlyung	262316.27	Mycobacterium avium subsp. paratuberculosis K-10	1	4829781	2015-09-15 09:23:40	
+[ view details ]	complete
+286415	Choi, Jinlyung	272624.19	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	1	3397754	2015-09-15 09:23:33	
+[ view details ]	complete
+286414	Choi, Jinlyung	882.21	Desulfovibrio vulgaris str. Hildenborough	1	3570858	2015-09-15 09:23:15	
+[ view details ]	complete
+286413	Choi, Jinlyung	257310.19	Bordetella bronchiseptica RB50	1	5339179	2015-09-15 09:23:11	
+[ view details ]	complete
+286412	Choi, Jinlyung	243164.17	Dehalococcoides mccartyi 195	1	1469720	2015-09-15 09:23:08	
+[ view details ]	complete
+286411	Choi, Jinlyung	190650.11	Caulobacter crescentus CB15	1	4016947	2015-09-15 09:23:06	
+[ view details ]	complete
+286410	Choi, Jinlyung	273116.10	Thermoplasma volcanium GSS1	1	1584804	2015-09-15 09:22:49	
+[ view details ]	complete
+286409	Choi, Jinlyung	386585.36	Escherichia coli O157:H7 str. Sakai	1	5498450	2015-09-15 09:22:47	
+[ view details ]	complete
+286408	Choi, Jinlyung	266835.22	Mesorhizobium loti MAFF303099	1	7036071	2015-09-15 09:22:38	
+[ view details ]	complete
+286407	Choi, Jinlyung	155864.36	Escherichia coli O157:H7 str. EDL933	1	5528445	2015-09-15 09:22:37	
+[ view details ]	complete
+286406	Choi, Jinlyung	272558.14	Bacillus halodurans C-125	1	4202352	2015-09-15 09:22:17	
+[ view details ]	complete
+286405	Choi, Jinlyung	208964.73	Pseudomonas aeruginosa PAO1	1	6264404	2015-09-15 09:22:09	
+[ view details ]	complete
+286404	Choi, Jinlyung	273075.12	Thermoplasma acidophilum DSM 1728	1	1564906	2015-09-15 09:21:59	
+[ view details ]	complete
+286403	Choi, Jinlyung	160492.32	Xylella fastidiosa 9a5c	1	2679306	2015-09-15 09:21:58	
+[ view details ]	complete
+286402	Choi, Jinlyung	243230.47	Deinococcus radiodurans R1	1	412348	2015-09-15 09:21:39	
+[ view details ]	complete
+286401	Choi, Jinlyung	511145.160	Escherichia coli str. K-12 substr. MG1655	1	4641652	2015-09-15 09:21:36	
+[ view details ]	complete
+286400	Choi, Jinlyung	224308.168	Bacillus subtilis subsp. subtilis str. 168	1	4215606	2015-09-15 09:21:31	
+[ view details ]	complete
+286399	Choi, Jinlyung	272947.11	Rickettsia prowazekii str. Madrid E	1	1111523	2015-09-15 09:21:29	
+[ view details ]	complete
+286398	Choi, Jinlyung	243230.46	Deinococcus radiodurans R1	1	2648638	2015-09-15 09:21:30	
+[ view details ]	complete
