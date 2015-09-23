@@ -31,3 +31,12 @@ cat jobAdd.sh | parallel
 ```
 
 Note: This tutorial use parallel. To install; sudo apt-get install parallel
+
+## svr_subsystem_classification
+
+to use those file it shold be place in appropriate folder
+sas/bin/svr_subsystem_classification
+sas/plbin/svr_subsystem_classification.pl
+
+change permission
+chmod 755 svr_subsystem_classification
