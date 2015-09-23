@@ -7,3 +7,24 @@ for line in $(cat completeJobID.txt);
 do
     echo "~ubuntu/sas/bin/svr_retrieve_RAST_job $1 $2 $line rast_tarball > $line.tar.gz";
 done > RASTdownloadCommand.sh
+
+
+cat completeList.txt | cut -f3 -s | sed -n "p;N;" > completeTaxonID.txt
+
+for line in $(cat completeTaxonID.txt);
+do
+    echo "~ubuntu/sas/bin/svr_subsystem_classification --c=1 < $line/Subsystems/bindings > $line/Subsystems/bindings.plus.SS_categories";
+done > RASTclassification.sh
+
+
+cat RASTdownloadCommand.sh | parallel
+
+tar -xvf *.tar.gz
+
+cat RASTclassification.sh | parallel
+
+for line in $(cat completeTaxonID.txt);
+do
+    cat $line/EC_numbers >> allEC_numbers;
+done
+
