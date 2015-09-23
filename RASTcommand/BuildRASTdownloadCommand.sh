@@ -19,7 +19,9 @@ done > RASTclassification.sh
 
 cat RASTdownloadCommand.sh | parallel
 
-tar -xvf *.tar.gz
+for x in *.gar.gz;
+do tar -xvf $x;
+done
 
 cat RASTclassification.sh | parallel
 
