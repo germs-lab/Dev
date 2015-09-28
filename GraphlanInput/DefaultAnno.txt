@@ -1,0 +1,13 @@
+title	RefSoil (tree of reference soil, 807 genomes)
+title_font_size	25
+total_plotted_degrees	350
+start_rotation	90
+class_legend_font_size	12
+annotation_legend_font_size	11
+branch_bracket_depth	0.0
+clade_marker_size	3.0
+annotation_background_separation	-.24
+annotation_background_offset	-0.21
+annotation_background_width	0.03
+
+
