@@ -1,11 +1,11 @@
 #python
-#python MakeAnno.py rep_set_tax_assignments.txt anno.txt
+#python MakeAnno.py rep_set_tax_assignments.txt anno.txt DefaultAnno.txt
 import sys
 filein = sys.argv[1]
 fileout = sys.argv[2]
-
+filedefault = sys.argv[3]
 fread = open(filein,'r')
-deread = open("DefaultAnno.txt",'r')
+deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 lewrite = open("Legends.txt",'w')
 #write default
