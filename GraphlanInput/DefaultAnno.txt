@@ -9,5 +9,10 @@ clade_marker_size	3.0
 annotation_background_separation	-.24
 annotation_background_offset	-0.21
 annotation_background_width	0.03
-
-
+ring_internal_separator_thickness	1	0.5
+ring_internal_separator_thickness	2	1.0
+ring_internal_separator_thickness	3	0.5
+ring_internal_separator_thickness	4	0.5
+ring_internal_separator_thickness	5	1.0
+ring_width	2	0.5
+ring_height	2	0.75
