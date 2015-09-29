@@ -1,9 +1,9 @@
 #python
-#python MakeAnno.py rep_set_tax_assignments.txt anno.txt DefaultAnno.txt
+#python MakeAnno.py rep_set_tax_assignments.txt DefaultAnno.txt Annotation.txt
 import sys
 filein = sys.argv[1]
-fileout = sys.argv[2]
-filedefault = sys.argv[3]
+fileout = sys.argv[3]
+filedefault = sys.argv[2]
 fread = open(filein,'r')
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
