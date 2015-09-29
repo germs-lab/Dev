@@ -90,7 +90,7 @@ for i in range(len(AbunTable)):
     if (float(AbunTable[i][2])>bignumber):
         bignumber = float(AbunTable[i][2])
 for i in range(len(AbunTable)):
-    AbunTable[i][2] = str(float(AbunTable[i][2])/bignumber)
+    AbunTable[i][2] = str(format(float(AbunTable[i][2])/bignumber,'f'))
 #print Tax
 uniqPhylum = list(set(phylum))
 uniqFamily = list(set(Family))
