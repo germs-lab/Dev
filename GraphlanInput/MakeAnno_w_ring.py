@@ -86,7 +86,7 @@ for line in AbunRead:
     tempAbunTable = [tempcol[0],tempcol[1],tempcol[2]]
     AbunTable.append(tempAbunTable)
 bignumber = 0
-heightLim = 32760
+heightLim = 327
 for i in range(len(AbunTable)):
     if (float(AbunTable[i][2])>bignumber):
         bignumber = float(AbunTable[i][2])
