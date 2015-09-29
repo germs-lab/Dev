@@ -89,8 +89,8 @@ bignumber = 0
 for i in range(len(AbunTable)):
     if (float(AbunTable[i][2])>bignumber):
         bignumber = float(AbunTable[i][2])
-for i in range(len(AbunTable)):
-    AbunTable[i][2] = str(format(float(AbunTable[i][2])/bignumber,'f'))
+#for i in range(len(AbunTable)):
+#    AbunTable[i][2] = str(format(float(AbunTable[i][2])/bignumber,'f'))
 #print Tax
 uniqPhylum = list(set(phylum))
 uniqFamily = list(set(Family))
@@ -131,7 +131,7 @@ for i in range(len(Tax)):
         for k in range(len(AbunTable)):
             if (Tax[i][7] == AbunTable[k][0]):
                 fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"2"+'\t'+tempColor+'\n')
-                fwrite.write(Tax[i][7]+'\t'+"ring_alpha"+'\t'+"2"+'\t'+AbunTable[k][2]+'\n')
+                fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"2"+'\t'+AbunTable[k][2]+'\n')
         
 #print Legends
 for i in range(len(KingdomColor)):
