@@ -85,7 +85,12 @@ for line in AbunRead:
     tempcol =  line.split('\t')
     tempAbunTable = [tempcol[0],tempcol[1],tempcol[2]]
     AbunTable.append(tempAbunTable)
-
+bignumber = 0
+for i in range(len(AbunTable)):
+    if (float(AbunTable[i][2])>bignumber):
+        bignumber = float(AbunTable[i][2])
+for i in range(len(AbunTable)):
+    AbunTable[i][2] = str(float(AbunTable[i][2])/bignumber)
 #print Tax
 uniqPhylum = list(set(phylum))
 uniqFamily = list(set(Family))
