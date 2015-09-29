@@ -9,7 +9,7 @@ python TaxonToGuide.py rep_set_tax_assignments.txt output.txt
 
 ## MakeAnno.py
 ```
-python MakeAnno.py rep_set_tax_assignments.txt anno.txt
+python MakeAnno.py rep_set_tax_assignments.txt Default.txt anno.txt
 ```
 
 ## MakeAnnoXML.py
