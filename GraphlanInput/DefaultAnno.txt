@@ -17,8 +17,7 @@ ring_height	2	1
 ring_height	3	1
 ring_height	4	10
 ring_height	5	1
-gi|754146419    ring_width      1       4
-gi|754146419    ring_height     1       0.35
-gi|754146419    ring_color      1       #EE6A50
-
-_	ring_height	1	10
+ring_internal_separator_thickness	1	0.5
+ring_separator_color	1	#888888
+ring_label	1	Stool (prevalence)
+ring_label_color	1	#0000FF
