@@ -1,6 +1,6 @@
 title	RefSoil (tree of reference soil, around 1000 genomes)
 title_font_size	25
-total_plotted_degrees	350
+total_plotted_degrees	340
 start_rotation	270
 class_legend_font_size	12
 annotation_legend_font_size	11
@@ -13,7 +13,7 @@ annotation_background_separation	-0.03
 annotation_background_offset	0.0
 annotation_background_width	0.07
 annotation_background_alpha	0.1
-ring_height	1	1
+ring_height	1	0.5
 ring_height	2	1
 
 ring_label_font_size	1	10
@@ -24,8 +24,7 @@ ring_separator_color	1	#888888
 ring_label	1	Kingdom
 ring_label_color	1	#0000FF
 
-ring_internal_separator_thickness	2	0.5
-ring_separator_color	2	#888888
+
 ring_label	2	EMP Abundance
 ring_label_color	2	#FFA500
 

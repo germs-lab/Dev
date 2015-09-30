@@ -127,7 +127,7 @@ for i in range(len(Tax)):
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_width"+'\t'+"1"+'\t'+"3"+'\n')
-        fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"1"+'\t'+"1"+'\n')
+        fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.34"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"1"+'\t'+kingColor+'\n')
         for k in range(len(AbunTable)):
             if (Tax[i][7] == AbunTable[k][0]):
