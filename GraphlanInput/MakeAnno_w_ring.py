@@ -98,7 +98,7 @@ uniqFamily = list(set(Family))
 uniqClass = list(set(Class))
 uniqGenus = list(set(genus))
 
-color = ['r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#800080','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
+color = ['r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#800080','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','#D15FEE','#FFC0CB','#800000','#808080','#B0171F','r','g','b','#FFC0CB','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1']
@@ -108,16 +108,7 @@ for i in range(len(uniqClass)):
     tempClassColor = [uniqClass[i],color[i]]
     classColor.append(tempClassColor)
 KingdomColor = [["Bacteria",'#EE6A50'],["Archaea",'#9ACD32']]
-#fwrite.write("ring_internal_separator_thickness"+'\t'+"1"+'\t'+"0.5"+'\n')
-#fwrite.write("ring_internal_separator_thickness"+'\t'+"2"+'\t'+"0.5"+'\n')
-#fwrite.write("ring_internal_separator_thickness"+'\t'+"3"+'\t'+"0.5"+'\n')
-#fwrite.write("ring_internal_separator_thickness"+'\t'+"4"+'\t'+"0.5"+'\n')
-#fwrite.write("ring_internal_separator_thickness"+'\t'+"5"+'\t'+"0.5"+'\n')
-#fwrite.write("ring_height"+'\t'+"1"+'\t'+"4.0"+'\n')
-#fwrite.write("ring_height"+'\t'+"2"+'\t'+"4.0"+'\n')
-#fwrite.write("ring_height"+'\t'+"3"+'\t'+"1.0"+'\n')
-#fwrite.write("ring_height"+'\t'+"4"+'\t'+"1.0"+'\n')
-#fwrite.write("ring_height"+'\t'+"5"+'\t'+"1.0"+'\n')
+
 #print classColor
 for i in range(len(Tax)):
     tempColor = "k"
@@ -135,9 +126,12 @@ for i in range(len(Tax)):
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
+        fwrite.write(Tax[i][7]+'\t'+"ring_width"+'\t'+"1"+'\t'+"4"+'\n')
+        fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.1"+'\n')
+        fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"1"+'\t'+w+'\n')
+        fwrite.write(Tax[i][7]+'\t'+"ring_alpha"+'\t'+"1"+'\t'+"0"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_width"+'\t'+"3"+'\t'+"4"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"3"+'\t'+"0.35"+'\n')
-        #fwrite.write(Tax[i][5]+'\t'+"ring_shape"+'\t'+"1"+'\t'+"v"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"3"+'\t'+kingColor+'\n')
         for k in range(len(AbunTable)):
             if (Tax[i][7] == AbunTable[k][0]):
