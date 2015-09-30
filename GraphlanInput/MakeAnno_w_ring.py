@@ -133,7 +133,7 @@ for i in range(len(Tax)):
             if (Tax[i][7] == AbunTable[k][0]):
                 fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"2"+'\t'+tempColor+'\n')
                 fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"2"+'\t'+AbunTable[k][2]+'\n')
-        
+fwrite.write("gi|556503834"+'\t'+"clade_marker_label"+'\t'+"65")        
 #print Legends
 for i in range(len(KingdomColor)):
     lewrite.write(KingdomColor[i][0]+":"+KingdomColor[i][1]+'\n')
