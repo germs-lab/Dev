@@ -62,6 +62,13 @@ bash grepbash.sh
 python AbundanceCounting.py blastResultFile.txt out abunTable.txt
 ```
 
+### MakeAnno_w_ring.py
+This script make annotation file with abundance
+
+```
+python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt DefaultAnno.txt AbunTable.txt Annotation.txt
+```
+
 Tip,
 
 you can blast in this way:
