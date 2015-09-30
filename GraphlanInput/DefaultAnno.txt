@@ -20,3 +20,9 @@ ring_height	4	1
 ring_height	5	1
 ring_internal_separator_thickness	3	0.5
 ring_internal_separator_thickness	4	0.5
+
+gi|754146419    ring_width      1       4
+gi|754146419    ring_height     1       3
+gi|754146419    ring_color      1       #FFFFFF
+gi|754146419    ring_alpha      1       0
+
