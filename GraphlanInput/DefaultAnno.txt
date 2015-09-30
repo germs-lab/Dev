@@ -13,9 +13,10 @@ annotation_background_separation	-.24
 annotation_background_offset	-0.21
 annotation_background_width	0.03
 
-ring_height	1	10
+ring_height	1	5
 ring_height	2	1
 ring_height	3	1
 ring_height	4	1
 ring_height	5	1
-
+ring_internal_separator_thickness	1	0.5
+ring_internal_separator_thickness	2	0.5
