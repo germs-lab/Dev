@@ -113,11 +113,11 @@ KingdomColor = [["Bacteria",'#EE6A50'],["Archaea",'#9ACD32']]
 #fwrite.write("ring_internal_separator_thickness"+'\t'+"3"+'\t'+"0.5"+'\n')
 #fwrite.write("ring_internal_separator_thickness"+'\t'+"4"+'\t'+"0.5"+'\n')
 #fwrite.write("ring_internal_separator_thickness"+'\t'+"5"+'\t'+"0.5"+'\n')
-fwrite.write("ring_height"+'\t'+"1"+'\t'+"1"+'\n')
-fwrite.write("ring_height"+'\t'+"2"+'\t'+"1"+'\n')
-fwrite.write("ring_height"+'\t'+"3"+'\t'+"1"+'\n')
-fwrite.write("ring_height"+'\t'+"4"+'\t'+"1"+'\n')
-fwrite.write("ring_height"+'\t'+"5"+'\t'+"1"+'\n')
+fwrite.write("ring_height"+'\t'+"1"+'\t'+"4.0"+'\n')
+fwrite.write("ring_height"+'\t'+"2"+'\t'+"4.0"+'\n')
+fwrite.write("ring_height"+'\t'+"3"+'\t'+"1.0"+'\n')
+fwrite.write("ring_height"+'\t'+"4"+'\t'+"1.0"+'\n')
+fwrite.write("ring_height"+'\t'+"5"+'\t'+"1.0"+'\n')
 #print classColor
 for i in range(len(Tax)):
     tempColor = "k"
