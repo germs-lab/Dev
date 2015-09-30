@@ -10,7 +10,7 @@ clade_separation	0.5
 branch_bracket_depth	0.8
 branch_bracket_width	0.25
 annotation_background_separation	-.24
-annotation_background_offset	-0.21
+
 annotation_background_width	0.03
 annotation_background_alpha	0.1
 ring_height	1	3
