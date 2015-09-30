@@ -19,4 +19,4 @@ ring_height	3	1
 ring_height	4	1
 ring_height	5	1
 ring_internal_separator_thickness	1	0.5
-ring_internal_separator_thickness	2	0.5
+ring_internal_separator_thickness	4	0.5
