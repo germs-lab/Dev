@@ -153,4 +153,4 @@ lewrite.write('\n')
 for i in range(len(classColor)):
     lewrite.write(classColor[i][0]+":"+classColor[i][1]+'\n')
     fwrite.write(classColor[i][0]+'\t'+"annotation"+'\t'+classColor[i][0]+'\n')
-    fwrite.write(classColor[i][0]+'\t'+"annotation_background_color"+'\t'+classColor[i][1]+'\n')
+    fwrite.write(classColor[i][0]+'\t'+"clade_marker_color"+'\t'+classColor[i][1]+'\n')
