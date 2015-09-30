@@ -18,7 +18,14 @@ ring_height	2	1
 ring_height	3	1
 ring_height	4	1
 ring_height	5	1
-ring_internal_separator_thickness	3	0.5
-ring_internal_separator_thickness	4	0.5
 
+ring_internal_separator_thickness	3	0.5
+ring_separator_color	3	#888888
+ring_label	3	Kingdom
+ring_label_color	3	#0000FF
+
+ring_internal_separator_thickness	4	0.5
+ring_separator_color	4	#888888
+ring_label	4	EMP Abundance
+ring_label_color	4	#FFA500
 
