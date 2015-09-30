@@ -17,3 +17,4 @@ ring_height	2	10
 ring_height	3	10
 ring_height	4	10
 ring_height	5	10
+_	ring_height	1	10
