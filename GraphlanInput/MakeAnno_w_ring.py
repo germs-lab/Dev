@@ -129,7 +129,7 @@ for i in range(len(Tax)):
 #        fwrite.write(Tax[i][7]+'\t'+"ring_width"+'\t'+"1"+'\t'+"4"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"1"+'\t'+"3"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"1"+'\t'+tempColor+'\n')
-        fwrite.write(Tax[i][7]+'\t'+"ring_alpha"+'\t'+"1"+'\t'+"0.5"+'\n')
+        fwrite.write(Tax[i][7]+'\t'+"ring_alpha"+'\t'+"1"+'\t'+"0.1"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_width"+'\t'+"3"+'\t'+"4"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"3"+'\t'+"0.35"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"3"+'\t'+kingColor+'\n')
