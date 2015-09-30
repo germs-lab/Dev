@@ -18,6 +18,11 @@ ring_height	2	1
 ring_height	3	1
 ring_height	4	1
 ring_height	5	1
+ring_label_font_size	1	10
+ring_label_font_size	2	10
+ring_label_font_size	3	10
+ring_label_font_size	4	10
+ring_label_font_size	5	10
 
 ring_internal_separator_thickness	3	0.5
 ring_separator_color	3	#888888
