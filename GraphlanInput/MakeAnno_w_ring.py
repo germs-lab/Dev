@@ -52,7 +52,7 @@ for line in fread:
                 phylum.append(tempcol[1])
                 tempPhylum = tempcol[1]
         elif (tempcol[0]==" c"):
-graphlan.py RefSoilHMM.xml RefSoilHMM.png --external_legends            incase = tempcol[1].split('\t')
+            incase = tempcol[1].split('\t')
             if(len(incase)==1):
                 Class.append(tempcol[1])
                 tempClass = tempcol[1]
