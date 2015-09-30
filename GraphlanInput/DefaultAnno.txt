@@ -13,8 +13,12 @@ annotation_background_separation	-.24
 annotation_background_offset	-0.21
 annotation_background_width	0.03
 ring_height	1	10
-ring_height	2	10
-ring_height	3	10
+ring_height	2	1
+ring_height	3	1
 ring_height	4	10
-ring_height	5	10
+ring_height	5	1
+gi|754146419    ring_width      1       4
+gi|754146419    ring_height     1       0.35
+gi|754146419    ring_color      1       #EE6A50
+
 _	ring_height	1	10
