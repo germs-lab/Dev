@@ -12,12 +12,10 @@ branch_bracket_width	0.25
 annotation_background_separation	-.24
 annotation_background_offset	-0.21
 annotation_background_width	0.03
-ring_height	1	10
+
+ring_height	1	1
 ring_height	2	1
 ring_height	3	1
-ring_height	4	10
+ring_height	4	1
 ring_height	5	1
 
-ring_separator_color	1	#888888
-ring_label	1	Stool (prevalence)
-ring_label_color	1	#0000FF
