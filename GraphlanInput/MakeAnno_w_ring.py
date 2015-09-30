@@ -108,6 +108,11 @@ for i in range(len(uniqClass)):
     tempClassColor = [uniqClass[i],color[i]]
     classColor.append(tempClassColor)
 KingdomColor = [["Bacteria",'#EE6A50'],["Archaea",'#9ACD32']]
+fwrite.write("ring_internal_separator_thickness"+'\t'+"1"+'\t'+"0.5"+'\n')
+fwrite.write("ring_internal_separator_thickness"+'\t'+"2"+'\t'+"0.5"+'\n')
+fwrite.write("ring_internal_separator_thickness"+'\t'+"3"+'\t'+"0.5"+'\n')
+fwrite.write("ring_internal_separator_thickness"+'\t'+"4"+'\t'+"0.5"+'\n')
+fwrite.write("ring_internal_separator_thickness"+'\t'+"5"+'\t'+"0.5"+'\n')
 #print classColor
 for i in range(len(Tax)):
     tempColor = "k"
