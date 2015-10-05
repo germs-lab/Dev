@@ -35,6 +35,6 @@ for i in range(len(table)):
 for i in range(len(table)):
     tempNum = labelNumStart
     for j in range(2,len(table[i])):
-        tempAlpha = math.log(float(table[i][j]),10)
+        tempAlpha = math.log(float(table[i][j]),10)/lar[j]
         fwrite.write(table[i][0]+'\t'+"ring_alpha"+'\t'+str(tempNum)+'\t'+str(tempAlpha)+'\n')
         tempNum = tempNum + 1
