@@ -131,8 +131,8 @@ for i in range(len(Tax)):
         fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"1"+'\t'+kingColor+'\n')
         for k in range(len(AbunTable)):
             if (Tax[i][7] == AbunTable[k][0]):
-                fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"2"+'\t'+tempColor+'\n')
-                fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"2"+'\t'+AbunTable[k][2]+'\n')
+                fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"9"+'\t'+tempColor+'\n')
+                fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"9"+'\t'+AbunTable[k][2]+'\n')
 
 #print Legends
 for i in range(len(KingdomColor)):
