@@ -19,6 +19,6 @@ for line in fread:
     tempcol = line.strip().split('\t')
     tempNum = labelNumStart
     for i in range(2,len(tempcol)):
-        tempAlpha = math.log(float(tempcol[i]),10)
+        tempAlpha = math.log(float(tempcol[i]),2)
         fwrite.write(tempcol[0]+'\t'+"ring_alpha"+'\t'+str(tempNum)+'\t'+str(tempAlpha)+'\n')
         tempNum = tempNum + 1
