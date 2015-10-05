@@ -69,6 +69,12 @@ This script make annotation file with abundance
 python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt DefaultAnno.txt AbunTable.txt Annotation.txt
 ```
 
+### log transformation
+
+```
+python LogTransform.py abunTable.txt abunTable.log.txt
+```
+
 Tip,
 
 you can blast in this way:
@@ -96,3 +102,16 @@ Tools for visualizing a tree
 3. MEGA
 
 4. FigTree
+
+
+```
+graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
+graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
+
+### Finally, make a tree
+```
+export PATH=~/graphlan:$PATH
+graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
+graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
