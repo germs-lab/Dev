@@ -11,7 +11,7 @@
 #include <dirent.h>
 #include <vector>
 #include <sstream>
-
+#include <algorithm>
 using namespace std;
 
 int main(int argc, char *argv[])
