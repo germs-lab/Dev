@@ -54,9 +54,9 @@ int main(int argc, char *argv[])
 	}
       char const* ca = record[0].substr(1,record[0].size()).c_str();
       if (find(data1.begin(),data1.end(),ca)!= data1.end()){
-	  cout<<table<<endl<<flush;
+	  myfile<<table<<endl<<flush;
 	  getline(inputTable,table);
-	  cout<<table<<endl<<flush;
+	  myfile<<table<<endl<<flush;
       }else{
 	getline(inputTable,table);
       }
