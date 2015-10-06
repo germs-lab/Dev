@@ -52,8 +52,8 @@ int main(int argc, char *argv[])
 	    record.push_back(s1);
 	  }
 	}
-      
-      if (find(data1.begin(),data1.end(),record[0].substr(1,record[0].size()))!= data1.end()){
+      char const* ca = record[0].substr(1,record[0].size()).c_str();
+      if (find(data1.begin(),data1.end(),ca)!= data1.end()){
 	  cout<<table<<endl<<flush;
 	  getline(inputTable,table);
 	  cout<<table<<endl<<flush;
