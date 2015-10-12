@@ -1,12 +1,12 @@
 #python
 # python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt DefaultAnno.txt AbunTable.txt Annotation.txt
 import sys
+import modules
 filein = sys.argv[1]
 filedefault = sys.argv[2]
 fileAbun = sys.argv[3]
 fileout = sys.argv[4]
 
-fread = open(filein,'r')
 deread = open(filedefault,'r')
 AbunRead = open(fileAbun,'r')
 fwrite = open(fileout,'w')
@@ -17,68 +17,7 @@ for line in deread:
 fwrite.write('\n')
 
 #Make Tax table
-Kingdom = []
-phylum = []
-Class = []
-Order = []
-Family = []
-genus = []
-Sp = []
-Tax = []
-ID = []
-for line in fread:
-    tempLine = line.split(';')
-    tempTax = []
-    tempKingdom = ""
-    tempPhylum = ""
-    tempClass = ""
-    tempOrder = ""
-    tempFamily = ""
-    tempGenus = ""
-    tempSp = ""
-    tempID = ""
-    for i in range(len(tempLine)):
-        tempcol = tempLine[i].split('__')
-        if (tempcol[0][-1:]=="k"):
-            incase = tempcol[1].split('\t')
-            fortempID = tempcol[0].split('\t')
-            if(len(incase)==1):
-                Kingdom.append(tempcol[1])
-                tempKingdom = tempcol[1]
-                tempID = fortempID[0]
-        elif (tempcol[0]==" p"):
-            incase = tempcol[1].split('\t')
-            if(len(incase)==1):
-                phylum.append(tempcol[1])
-                tempPhylum = tempcol[1]
-        elif (tempcol[0]==" c"):
-            incase = tempcol[1].split('\t')
-            if(len(incase)==1):
-                Class.append(tempcol[1])
-                tempClass = tempcol[1]
-        elif (tempcol[0]==" o"):
-            incase = tempcol[1].split('\t')
-            if(len(incase)==1):
-                Order.append(tempcol[1])
-                tempOrder = tempcol[1]
-        elif (tempcol[0]==" f"):
-            incase = tempcol[1].split('\t')
-            if(len(incase)==1):
-                Family.append(tempcol[1])
-                tempFamily = tempcol[1]
-        elif (tempcol[0]==" g"):
-            incase = tempcol[1].split('\t')
-            if(len(incase)==1):
-                genus.append(tempcol[1])
-                tempGenus = tempcol[1]
-        elif (tempcol[0]==" s"):
-            incase = tempcol[1].split('\t')
-            if(len(incase)==3):
-                
-                Sp.append(incase[0])
-                tempSp = incase[0]
-    tempTax = [tempKingdom,tempPhylum,tempClass,tempOrder,tempFamily,tempGenus,tempSp,tempID]
-    Tax.append(tempTax)
+Tax = modules.TaxTable(filein)
 #Make abundance table
 AbunTable = []
 for line in AbunRead:
@@ -93,6 +32,16 @@ for i in range(len(AbunTable)):
 for i in range(len(AbunTable)):
     AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
 #print Tax
+phylum = []
+Family = []
+Class = []
+genus = []
+for i in range(len(Tax)):
+	phylum.append(Tax[i][1])
+	Family.append(Tax[i][4])
+	Class.append(Tax[i][2])
+	genus.append(Tax[i][5])
+	
 uniqPhylum = list(set(phylum))
 uniqFamily = list(set(Family))
 uniqClass = list(set(Class))
