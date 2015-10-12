@@ -1,6 +1,13 @@
 # Graplan
 
-Graplan is a program that help you draw a tree. [Here is the Graplan website](http://segatalab.cibio.unitn.it/tools/graphlan/)
+Graplan is a program that help you draw a tree. [Here is the Graplan website](http://segatalab.cibio.unitn.it/tools/graphlan/).
+You can download the program [here](https://bitbucket.org/nsegata/graphlan/src/c93d0d3739e6?at=default). To download and install
+
+```
+$ hg clone https://hg@bitbucket.org/nsegata/graphlan
+$ export PATH='pwd'/graphlan/:$PATH
+```
+Note: 'pwd' mean where you download the program.
 
 # Graplan Input
 
