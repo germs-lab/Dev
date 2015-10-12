@@ -77,7 +77,7 @@ python AbundanceCounting.py blastResultFile.txt out abunTable.txt
 This script make annotation file with abundance
 
 ```
-python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt DefaultAnno.txt Annotation.txt
+python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt AbunTable.txt Annotation.txt
 ```
 
 ### log transformation
