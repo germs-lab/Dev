@@ -18,10 +18,14 @@ This repository have scripts can generate input file for Graplan
 To draw a tree with Graplan, you will need following:
 
 * Tree file (.dnd, .xml or guide) - Requied
+
+Using [ClustalO](http://www.clustal.org)
 ```
 $ clustalo -i fasta.fa --guidetree-out=treefilename.dnd
 ```
 * (option) Taxonomy assignment to generage annotation file - This option make tree more informative.
+
+Using [Qiime](http://qiime.org)
 ```
 $ assign_taxonomy.py -i fasta.fa
 ```
@@ -31,11 +35,12 @@ The scripts below help you to write annotation file that add taxomony informatio
 
 
 
-
-
-
 ## Make tree with tree file (.dnd or .xml)
 
+If you have a tree file, you can draw the tree with following: 
+```
+graphlan.py RefSoil16sHMMFastaNS.dnd RefSoilPlan.png 
+```
 ### MakeAnno.py
 This script make an annotation file that is colored by 'class'
 ```
