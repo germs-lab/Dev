@@ -1,11 +1,11 @@
 #python
-# python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt DefaultAnno.txt AbunTable.txt Annotation.txt
+# python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt AbunTable.txt Annotation.txt
 import sys
 import modules
 filein = sys.argv[1]
-filedefault = sys.argv[2]
-fileAbun = sys.argv[3]
-fileout = sys.argv[4]
+filedefault = "DefaultAnno.txt"
+fileAbun = sys.argv[2]
+fileout = sys.argv[3]
 
 deread = open(filedefault,'r')
 AbunRead = open(fileAbun,'r')
@@ -34,31 +34,8 @@ for i in range(len(AbunTable)):
 for i in range(len(AbunTable)):
     AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
 
-#class color assignment
-phylum = []
-Family = []
-Class = []
-genus = []
-for i in range(len(Tax)):
-	phylum.append(Tax[i][1])
-	Family.append(Tax[i][4])
-	Class.append(Tax[i][2])
-	genus.append(Tax[i][5])
-	
-uniqPhylum = list(set(phylum))
-uniqFamily = list(set(Family))
-uniqClass = list(set(Class))
-uniqGenus = list(set(genus))
-
-color = ['r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#800080','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','#D15FEE','#FFC0CB','#800000','#808080','#B0171F','r','g','b','#FFC0CB','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
-80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
-80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
-80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1']
-classColor = []
-
-for i in range(len(uniqClass)):
-    tempClassColor = [uniqClass[i],color[i]]
-    classColor.append(tempClassColor)
+# class color assignment
+classColor = modules.AssignColor(Tax)
 KingdomColor = [["Bacteria",'#EE6A50'],["Archaea",'#9ACD32']]
 
 # Write annotation
