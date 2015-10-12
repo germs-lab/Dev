@@ -34,13 +34,15 @@ $ assign_taxonomy.py -i fasta.fa
 The scripts below help you to write annotation file that add taxomony information and abundance on the tree.
 
 ## Make tree with tree file (.dnd or .xml)
-
+#### Step 1: Make tree with plain tree file
 If you have a tree file, you can draw the tree with following: 
 ```
 graphlan.py RefSoil16sHMMFastaNS.dnd RefSoilPlain.png 
 ```
 
 Now, let's add more information on the tree. We can add taxonomy information. Let's put color by class.
+
+#### Step 2: Add color of taxonomy
 ### MakeAnno.py
 This script make an annotation file that is colored by 'class'
 ```
@@ -54,7 +56,7 @@ This script make annotation file for each end of clade with ID
 ```
 python MakeAnnoXML.py rep_set_tax_assignments.txt annoXML.txt
 ```
-
+#### Step 3: Add ring
 ### AbundanceCounting.py
 This script make aboundance file from blast result and Abundance of OTU
 
