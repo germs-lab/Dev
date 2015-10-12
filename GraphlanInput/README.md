@@ -1,6 +1,6 @@
 # Graplan
 
-Graplan is a program that help you draw a tree. [Here is the Graplan website](http://segatalab.cibio.unitn.it/tools/graphlan/).
+Graplan is a program that help you to draw a tree. [Here is the Graplan website](http://segatalab.cibio.unitn.it/tools/graphlan/).
 You can download the program [here](https://bitbucket.org/nsegata/graphlan/src/c93d0d3739e6?at=default). To download and install
 
 ```
@@ -9,21 +9,25 @@ $ export PATH='pwd'/graphlan/:$PATH
 ```
 Note: 'pwd' mean where you download the program.
 
-# Graplan Input
+There is the [tutorial](https://bitbucket.org/nsegata/graphlan/wiki/Home).
 
-This script generate input file for Graplan
+This repository have scripts can generate input file for Graplan
+
+## Basic of Graplan
 
 To draw a tree with Graplan, you will need following:
 
-1. Tree file (.dnd, .xml or guide)
+1. Tree file (.dnd, .xml or guide) - Requied
 ```
 $ clustalo -i fasta.fa --guidetree-out=treefilename.dnd
 ```
-2. Taxonomy assignment to generage annotation file
+2. (option) Taxonomy assignment to generage annotation file - This option make tree more informative.
 ```
 $ assign_taxonomy.py -i fasta.fa
 ```
 3. (option) Abundance file
+
+The scripts below help you to write annotation file that add taxomony information and abundance on the tree.
 
 ##Makee tree with guide file
 
