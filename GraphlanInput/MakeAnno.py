@@ -6,7 +6,6 @@ filein = sys.argv[1]
 filedefault =  sys.argv[2]
 fileout = sys.argv[3]
 
-fread = open(filein,'r')
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
@@ -18,7 +17,7 @@ fwrite.write('\n')
 #Make Tax table
 Tax = modules.TaxTable(filein)
 
-#print Tax
+# class color assignment
 phylum = []
 Family = []
 Class = []
@@ -37,23 +36,24 @@ color = ['r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400'
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1']
+
 classColor = []
-#class color assignment
 for i in range(len(uniqClass)):
     tempClassColor = [uniqClass[i],color[i]]
     classColor.append(tempClassColor)
+KingdomColor = [["Bacteria",'#EE6A50'],["Archaea",'#9ACD32']]
 
-#print classColor
+# Write annotation
 for i in range(len(Tax)):
     tempColor = "k"
     kingColor = "k"
     for j in range(len(classColor)):
         if (classColor[j][0]==Tax[i][2]):
             tempColor = classColor[j][1]
-    if (Tax[i][0] == "Bacteria"):
-        kingColor = '#EE6A50'
-    elif(Tax[i][0] == "Archaea"):
-        kingColor = '#9ACD32'
+    if (Tax[i][0] == KingdomColor[0][0]):
+        kingColor = KingdomColor[0][1]
+    elif(Tax[i][0] == KingdomColor[1][0]):
+        kingColor = KingdomColor[1][1]
     if (Tax[i][5] != ""):
         fwrite.write(Tax[i][2]+'\t'+"annotation"+'\t'+"*:"+Tax[i][2]+'\n')
         fwrite.write(Tax[i][2]+'\t'+"annotation_background_color"+'\t'+tempColor+'\n')

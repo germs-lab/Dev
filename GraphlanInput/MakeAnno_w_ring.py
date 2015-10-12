@@ -11,6 +11,7 @@ deread = open(filedefault,'r')
 AbunRead = open(fileAbun,'r')
 fwrite = open(fileout,'w')
 lewrite = open("Legends.txt",'w')
+
 #write default
 for line in deread:
     fwrite.write(line)
@@ -18,6 +19,7 @@ fwrite.write('\n')
 
 #Make Tax table
 Tax = modules.TaxTable(filein)
+
 #Make abundance table
 AbunTable = []
 for line in AbunRead:
@@ -31,7 +33,8 @@ for i in range(len(AbunTable)):
         bignumber = float(AbunTable[i][2])
 for i in range(len(AbunTable)):
     AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
-#print Tax
+
+#class color assignment
 phylum = []
 Family = []
 Class = []
@@ -52,13 +55,13 @@ color = ['r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400'
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
 80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1']
 classColor = []
-#class color assignment
+
 for i in range(len(uniqClass)):
     tempClassColor = [uniqClass[i],color[i]]
     classColor.append(tempClassColor)
 KingdomColor = [["Bacteria",'#EE6A50'],["Archaea",'#9ACD32']]
 
-#print classColor
+# Write annotation
 for i in range(len(Tax)):
     tempColor = "k"
     kingColor = "k"
