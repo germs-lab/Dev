@@ -7,7 +7,7 @@ You can download the program [here](https://bitbucket.org/nsegata/graphlan/src/c
 $ hg clone https://hg@bitbucket.org/nsegata/graphlan
 $ export PATH='pwd'/graphlan/:$PATH
 ```
-Note: 'pwd' mean where you download the program.
+Note: 'pwd' means where you download the program.
 
 There is the [tutorial](https://bitbucket.org/nsegata/graphlan/wiki/Home).
 
@@ -17,15 +17,15 @@ This repository have scripts can generate input file for Graplan
 
 To draw a tree with Graplan, you will need following:
 
-1. Tree file (.dnd, .xml or guide) - Requied
+* Tree file (.dnd, .xml or guide) - Requied
 ```
 $ clustalo -i fasta.fa --guidetree-out=treefilename.dnd
 ```
-2. (option) Taxonomy assignment to generage annotation file - This option make tree more informative.
+* (option) Taxonomy assignment to generage annotation file - This option make tree more informative.
 ```
 $ assign_taxonomy.py -i fasta.fa
 ```
-3. (option) Abundance file
+* (option) Abundance file
 
 The scripts below help you to write annotation file that add taxomony information and abundance on the tree.
 
