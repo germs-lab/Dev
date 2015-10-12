@@ -1,3 +1,7 @@
+# Graplan
+
+Graplan is a program that help you draw a tree. [Here is the Graplan website](http://segatalab.cibio.unitn.it/tools/graphlan/)
+
 # Graplan Input
 
 This script generate input file for Graplan
