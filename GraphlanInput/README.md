@@ -29,19 +29,10 @@ $ assign_taxonomy.py -i fasta.fa
 
 The scripts below help you to write annotation file that add taxomony information and abundance on the tree.
 
-##Makee tree with guide file
 
-### TaxonToGuide.py
-```
-python TaxonToGuide.py rep_set_tax_assignments.txt output.txt
-```
 
-After this, you can make a tree
 
-```
-graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
-graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6
-```
+
 
 ## Make tree with tree file (.dnd or .xml)
 
@@ -130,3 +121,16 @@ export PATH=~/graphlan:$PATH
 graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
 graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6 --external_legends
 ```
+
+##Makee tree with guide file
+
+### TaxonToGuide.py
+```
+python TaxonToGuide.py rep_set_tax_assignments.txt output.txt
+```
+
+After this, you can make a tree
+
+```
+graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
+graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6
