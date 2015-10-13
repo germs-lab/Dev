@@ -43,18 +43,16 @@ graphlan.py RefSoil16sHMMFastaNS.dnd RefSoilPlain.png
 Now, let's add more information on the tree. We can add taxonomy information. Let's put color by class.
 
 #### Step 2: Add color of taxonomy
-### MakeAnno.py
+### MakeAnno_no_ring.py
 This script make an annotation file that is colored by 'class'
-```
-python MakeAnno.py RefSoil16sHMMFastaNS_tax_assignments.txt anno.txt
-```
-
-### MakeAnnoXML.py
-
-This script make annotation file for each end of clade with ID
 
 ```
-python MakeAnnoXML.py rep_set_tax_assignments.txt annoXML.txt
+python MakeAnno_no_ring.py rep_set_tax_assignments.txt Annotation_no_ring.txt
+```
+To run Graphlan
+```
+graphlan_annotate.py --annot Annotation_no_ring.txt RefSoil16sHMMFastaNS.dnd RefSoil_no_ring.xml
+graphlan.py RefSoil_no_ring.xml RefSoil_no_ring.png --dpi 300 --size 15 --pad 0.6
 ```
 #### Step 3: Add ring
 ### AbundanceCounting.py
@@ -82,8 +80,15 @@ This script make annotation file with abundance
 python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt AbunTable.txt Annotation.txt
 ```
 
-### log transformation
+### (option) Add more rings
+You can add additional rings. 
 
+```
+python MakeAbunRing.py SoilAbundance.txt SoilAbunAnno.txt
+```
+
+### log transformation
+If you compare big numbers, it is resonable to use log scale.
 ```
 python LogTransform.py abunTable.txt abunTable.log.txt
 ```
