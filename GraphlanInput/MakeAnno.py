@@ -6,7 +6,7 @@ import modules
 filein = sys.argv[1]
 fileout = sys.argv[2]
 filedefault =  "DefaultAnno.txt"
-print os.getwcd()
+print os.getcwd()
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
