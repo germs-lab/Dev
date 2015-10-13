@@ -5,7 +5,7 @@ import modules
 filein = sys.argv[1]
 fileout = sys.argv[2]
 full_path = os.path.realpath(__file__)
-filedefault = os.path.dirname(full_path)+"/DefaultAnno.txt"
+filedefault = os.path.dirname(full_path)+"/DefaultAnnoNoRing.txt"
 
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
