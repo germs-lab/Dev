@@ -89,7 +89,12 @@ If you compare big numbers, it is resonable to use log scale.
 ```
 python LogTransform.py abunTable.txt abunTable.log.txt
 ```
-
+Then,
+```
+python MakeAnno_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt abunTable.log.txt Annotation_w_ring.log.txt
+graphlan_annotate.py --annot Annotation_w_ring.log.txt RefSoil16sHMMFastaNS.dnd RefSoil_w_ring.log.xml
+graphlan.py RefSoil_w_ring.log.xml RefSoil_w_ring.log.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
 Tip,
 
 you can blast in this way:
