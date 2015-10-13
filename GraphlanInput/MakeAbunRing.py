@@ -17,7 +17,7 @@ tempNum = labelNumStart
 for i in range(2,len(header)):
     fwrite.write("ring_label"+'\t'+str(tempNum)+'\t'+header[i]+'\n')
     fwrite.write("ring_label_color"+'\t'+str(tempNum)+'\t'+ringcolor[tempNum]+'\n')
-    #fwrite.write("ring_lebel_font_size"+'\t'+str(tempNum)+'\t'+"10"+'\n')
+    fwrite.write("ring_label_font_size"+'\t'+str(tempNum)+'\t'+"10"+'\n')
     fwrite.write("ring_color"+'\t'+str(tempNum)+'\t'+ringcolor[tempNum]+'\n')
     tempNum = tempNum+1
 tempNum = labelNumStart
