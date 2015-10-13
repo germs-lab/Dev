@@ -8,6 +8,7 @@ import math
 fread = open(sys.argv[1],'r')
 fwrite = open(sys.argv[2],'w')
 
+# read abundance file
 header = fread.readline().strip().split('\t')
 labelNumStart = 2
 tempNum = labelNumStart
@@ -23,6 +24,8 @@ for line in fread:
     for i in range(len(tempcol)):
         tempTable.append(tempcol[i])
     table.append(tempTable)
+
+# get large
 lar = []
 for i in range(len(header)):
     lar.append(0.0)
@@ -32,9 +35,10 @@ for i in range(len(table)):
         if (lar[j] < float(table[i][j])):
             lar[j]=float(table[i][j])
 
+# Write annotation file
 for i in range(len(table)):
     tempNum = labelNumStart
     for j in range(2,len(table[i])):
-        tempAlpha = math.log(float(table[i][j]),10)/lar[j]
+        tempAlpha = math.log(float(table[i][j]),10)/math.log(lar[j])
         fwrite.write(table[i][0]+'\t'+"ring_alpha"+'\t'+str(tempNum)+'\t'+str(tempAlpha)+'\n')
         tempNum = tempNum + 1
