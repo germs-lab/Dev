@@ -1,9 +1,10 @@
 #python
 # python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt AbunTable.txt Annotation.txt
-import sys
+import sys, os
 import modules
 filein = sys.argv[1]
-filedefault = "DefaultAnno.txt"
+full_path = os.path.realpath(__file__)
+filedefault = os.path.dirname(full_path)+"/DefaultAnnoNoRing.txt"
 fileAbun = sys.argv[2]
 fileout = sys.argv[3]
 
