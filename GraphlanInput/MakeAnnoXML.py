@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # This script make annotation file
-#python MakeAnno.py rep_set_tax_assignments.txt Annotation.txt
+#python MakeAnno_no_ring.py rep_set_tax_assignments.txt Annotation.txt
 # print Legends part may not useful
 import sys, os
 import modules
