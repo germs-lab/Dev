@@ -77,14 +77,23 @@ python AbundanceCounting.py blastResultFile.txt out abunTable.txt
 This script make annotation file with abundance
 
 ```
-python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt AbunTable.txt Annotation.txt
+python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt AbunTable.txt Annotation_w_ring.txt
 ```
-
+Then, run
+```
+graphlan_annotate.py --annot Annotation_w_ring.txt RefSoil16sHMMFastaNS.dnd RefSoil_w_ring.xml
+graphlan.py RefSoil_w_ring.xml RefSoil_w_ring.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
 ### (option) Add more rings
 You can add additional rings. 
 
 ```
 python MakeAbunRing.py SoilAbundance.txt SoilAbunAnno.txt
+```
+Then, you can add additional annotation into annotated XML file
+```
+graphlan_annotate.py --annot SoilAbunAnno.txt RefSoil_w_ring.xml RefSoil_w_additional_ring.xml
+graphlan.py RefSoil_w_additional_ring.xml RefSoil_w_add_ring.png --dpi 300 --size 15 --pad 0.6 --external_legends
 ```
 
 ### log transformation
