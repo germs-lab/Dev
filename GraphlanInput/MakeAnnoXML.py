@@ -1,6 +1,6 @@
 #python
 #python MakeAnno.py rep_set_tax_assignments.txt Annotation.txt
-import sys
+import sys, os
 import modules
 filein = sys.argv[1]
 fileout = sys.argv[2]
