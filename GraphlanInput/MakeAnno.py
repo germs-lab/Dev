@@ -5,8 +5,9 @@ import sys, os
 import modules
 filein = sys.argv[1]
 fileout = sys.argv[2]
-filedefault =  "DefaultAnno.txt"
-print os.getcwd()
+dir = os.getcwd()
+filedefault =  dir+"/DefaultAnno.txt"
+
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
