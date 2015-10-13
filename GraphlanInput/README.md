@@ -143,7 +143,7 @@ After this, you can make a tree
 ```
 graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
 graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6
-
+```
 
 ### AbundanceCounting.py
 This script make aboundance file from blast result and Abundance of OTU
