@@ -72,19 +72,9 @@ Then, run
 graphlan_annotate.py --annot Annotation_w_ring.txt RefSoil16sHMMFastaNS.dnd RefSoil_w_ring.xml
 graphlan.py RefSoil_w_ring.xml RefSoil_w_ring.png --dpi 300 --size 15 --pad 0.6 --external_legends
 ```
-### (option) Add more rings
-You can add additional rings. The script write additional annotation file from abundance file.
 
-```
-python MakeAbunRing.py SoilAbundance.txt SoilAbunAnno.txt
-```
-Then, you can add additional annotation into annotated XML file
-```
-graphlan_annotate.py --annot SoilAbunAnno.txt RefSoil_w_ring.xml RefSoil_w_additional_ring.xml
-graphlan.py RefSoil_w_additional_ring.xml RefSoil_w_add_ring.png --dpi 300 --size 15 --pad 0.6 --external_legends
-```
 
-### log transformation
+### (option) log transformation
 If you compare big numbers, it is resonable to use log scale.
 ```
 python LogTransform.py abunTable.txt abunTable.log.txt
@@ -95,6 +85,18 @@ python MakeAnno_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt abunTable.log
 graphlan_annotate.py --annot Annotation_w_ring.log.txt RefSoil16sHMMFastaNS.dnd RefSoil_w_ring.log.xml
 graphlan.py RefSoil_w_ring.log.xml RefSoil_w_ring.log.png --dpi 300 --size 15 --pad 0.6 --external_legends
 ```
+### (option) Add more rings
+You can add additional rings. The script write additional annotation file from abundance file.
+
+```
+python MakeAbunRing.py SoilAbundance.txt SoilAbunAnno.txt
+```
+Then, you can add additional annotation into annotated XML file
+```
+graphlan_annotate.py --annot SoilAbunAnno.txt RefSoil_w_ring.log.xml RefSoil_w_additional_ring.xml
+graphlan.py RefSoil_w_additional_ring.xml RefSoil_w_add_ring.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
+
 Tip,
 
 you can blast in this way:
