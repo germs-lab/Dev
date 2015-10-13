@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #this script make an abundance table from each soil type on RefSoil
 #python MakeAbunTable.py input output
-
+# python MakeAbunTable.py RefSoil16sHMMFastaNS_tax_assignments.txt SoilAbundance.txt
 import sys
 fread = open(sys.argv[1],'r')
 fwrite = open(sys.argv[2],'w')
