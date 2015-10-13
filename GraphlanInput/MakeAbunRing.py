@@ -34,7 +34,7 @@ for i in range(len(table)):
     for j in range(2,len(table[i])):
         if (lar[j] < float(table[i][j])):
             lar[j]=float(table[i][j])
-ringcolor = ['k','r','g','b','#0000FF','#696969','#FF0000','#FFA500']
+ringcolor = ['k','r','g','b','#0000FF','#696969','#FF0000','#FFA500','#0000FF','#696969','#FF0000','#FFA500']
 # Write annotation file
 for i in range(len(table)):
     tempNum = labelNumStart
