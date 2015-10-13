@@ -48,7 +48,7 @@ Now, let's add more information on the tree. We can add taxonomy information. Le
 
 #### Step 2: Add color of taxonomy
 ### MakeAnno_no_ring.py
-This script make an annotation file that is colored by 'class'
+This script make an annotation file that is colored by 'Phylum'
 
 ```
 python MakeAnno_no_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt Annotation_no_ring.txt
