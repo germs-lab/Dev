@@ -1,12 +1,12 @@
 #!/usr/bin/python
 #usage: python MakeAnno.py taxonomyFile outputFile
 #python MakeAnno.py rep_set_tax_assignments.txt anno.txt
-import sys
+import sys, os
 import modules
 filein = sys.argv[1]
 fileout = sys.argv[2]
 filedefault =  "DefaultAnno.txt"
-
+print os.getwcd()
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
