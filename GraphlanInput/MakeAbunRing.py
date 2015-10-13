@@ -16,6 +16,7 @@ labelNumStart = 2
 tempNum = labelNumStart
 for i in range(2,len(header)):
     fwrite.write("ring_label"+'\t'+str(tempNum)+'\t'+header[i]+'\n')
+    fwrite.write("ring_label_color"+'\t'+str(tempNum)+'\t'+ringcolor[tempNum]+'\n')
     fwrite.write("ring_color"+'\t'+str(tempNum)+'\t'+ringcolor[tempNum]+'\n')
     tempNum = tempNum+1
 tempNum = labelNumStart
