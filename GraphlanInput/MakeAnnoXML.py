@@ -1,5 +1,7 @@
-#python
+#!/usr/bin/python
+# This script make annotation file
 #python MakeAnno.py rep_set_tax_assignments.txt Annotation.txt
+# print Legends part may not useful
 import sys, os
 import modules
 filein = sys.argv[1]

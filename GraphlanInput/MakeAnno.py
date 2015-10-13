@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #usage: python MakeAnno.py taxonomyFile outputFile
 #python MakeAnno.py rep_set_tax_assignments.txt anno.txt
+# This script may not useful
 import sys, os
 import modules
 filein = sys.argv[1]
