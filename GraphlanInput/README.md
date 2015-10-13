@@ -9,6 +9,10 @@ $ export PATH='pwd'/graphlan/:$PATH
 ```
 Note: 'pwd' means where you download the program.
 
+For example, if I install graphlan on my home directory, path will be:
+```
+$ export PATH=~/graphlan/:$PATH
+```
 There is the [tutorial](https://bitbucket.org/nsegata/graphlan/wiki/Home).
 
 This repository have scripts can generate input file for Graplan
@@ -47,7 +51,7 @@ Now, let's add more information on the tree. We can add taxonomy information. Le
 This script make an annotation file that is colored by 'class'
 
 ```
-python MakeAnno_no_ring.py rep_set_tax_assignments.txt Annotation_no_ring.txt
+python MakeAnno_no_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt Annotation_no_ring.txt
 ```
 To run Graphlan
 ```
@@ -55,29 +59,13 @@ graphlan_annotate.py --annot Annotation_no_ring.txt RefSoil16sHMMFastaNS.dnd Ref
 graphlan.py RefSoil_no_ring.xml RefSoil_no_ring.png --dpi 300 --size 15 --pad 0.6
 ```
 #### Step 3: Add ring
-### AbundanceCounting.py
-This script make aboundance file from blast result and Abundance of OTU
-
-To run, you need 
-
-1. blast result
-```
-$ cat blastResultFile.txt | cut -f2 -s > otu.txt
-```
-2. otu count file (ex. full_emp_table_w_tax.hdf5.summary)
-
-then,
-```
-bash GrepFromFile.sh otu.txt full_emp_table_w_tax.hdf5.summary > grepbash.sh
-bash grepbash.sh
-python AbundanceCounting.py blastResultFile.txt out abunTable.txt
-```
+You need a file 'abuntTable.txt'. The file is provided here, but there is a description how I made this file bellow (AbundanceCounting.py)
 
 ### MakeAnno_w_ring.py
 This script make annotation file with abundance
 
 ```
-python MakeAnno_w_ring.py Refsoil16scompRe_tax_assignments.txt AbunTable.txt Annotation_w_ring.txt
+python MakeAnno_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt abunTable.txt Annotation_w_ring.txt
 ```
 Then, run
 ```
@@ -85,7 +73,7 @@ graphlan_annotate.py --annot Annotation_w_ring.txt RefSoil16sHMMFastaNS.dnd RefS
 graphlan.py RefSoil_w_ring.xml RefSoil_w_ring.png --dpi 300 --size 15 --pad 0.6 --external_legends
 ```
 ### (option) Add more rings
-You can add additional rings. 
+You can add additional rings. The script write additional annotation file from abundance file.
 
 ```
 python MakeAbunRing.py SoilAbundance.txt SoilAbunAnno.txt
@@ -155,3 +143,22 @@ After this, you can make a tree
 ```
 graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
 graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6
+
+
+### AbundanceCounting.py
+This script make aboundance file from blast result and Abundance of OTU
+
+To run, you need
+
+1. blast result
+```
+$ cat blastResultFile.txt | cut -f2 -s > otu.txt
+```
+2. otu count file (ex. full_emp_table_w_tax.hdf5.summary)
+
+then,
+```
+bash GrepFromFile.sh otu.txt full_emp_table_w_tax.hdf5.summary > grepbash.sh
+bash grepbash.sh
+python AbundanceCounting.py blastResultFile.txt out abunTable.txt
+```
