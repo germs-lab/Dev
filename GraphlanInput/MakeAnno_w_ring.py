@@ -1,4 +1,4 @@
-#python
+#!/usr/bin/python
 # python MakeAnno_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt abunTable.txt Annotation.txt
 import sys, os
 import modules
@@ -51,7 +51,6 @@ for i in range(len(Tax)):
     elif(Tax[i][0] == KingdomColor[1][0]):
         kingColor = KingdomColor[1][1]
     if (Tax[i][5] != ""):
-        #fwrite.write(Tax[i][7]+'\t'+"annotation"+'\t'+Tax[i][2]+'\n')
         fwrite.write(Tax[i][7]+'\t'+"annotation_background_color"+'\t'+tempColor+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
@@ -59,6 +58,10 @@ for i in range(len(Tax)):
         fwrite.write(Tax[i][7]+'\t'+"ring_width"+'\t'+"1"+'\t'+"3"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.34"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"1"+'\t'+kingColor+'\n')
+        if(Tax[i][6] != ""):
+            fwrite.write(Tax[i][7]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
+            fwrite.write(Tax[i][7]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
+            fwrite.write(Tax[i][7]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
         for k in range(len(AbunTable)):
             if (Tax[i][7] == AbunTable[k][0]):
                 fwrite.write(Tax[i][7]+'\t'+"ring_color"+'\t'+"9"+'\t'+tempColor+'\n')
