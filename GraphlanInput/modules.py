@@ -64,3 +64,28 @@ def TaxTable(filename):
         tempTax = [tempKingdom,tempPhylum,tempClass,tempOrder,tempFamily,tempGenus,tempSp,tempID]
         Tax.append(tempTax)
     return Tax
+
+def AssignColor(Tax):
+    phylum = []
+    Family = []
+    Class = []
+    genus = []
+    for i in range(len(Tax)):
+        phylum.append(Tax[i][1])
+        Family.append(Tax[i][4])
+        Class.append(Tax[i][2])
+        genus.append(Tax[i][5])
+    uniqPhylum = list(set(phylum))
+    uniqFamily = list(set(Family))
+    uniqClass = list(set(Class))
+    uniqGenus = list(set(genus))
+
+    color = ['r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#800080','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','#D15FEE','#FFC0CB','#800000','#808080','#B0171F','r','g','b','#FFC0CB','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
+80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
+80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1','r','g','b','#EE6A50','#9ACD32','#87CEFA','#FFC125','#8DEEEE','#006400','#8000\
+80','#191970','#7B68EE','#00CD00','#8B4513','#BC8F8F','#303030','#8E8E38','#CDCDC1']
+    classColor = []
+    for i in range(len(uniqClass)):
+        tempClassColor = [uniqClass[i],color[i]]
+        classColor.append(tempClassColor)
+    return classColor
