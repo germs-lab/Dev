@@ -126,8 +126,8 @@ def ReadSummaryAbun(AbunRead):
         bignumber = 0
     amp = 1
     for i in range(len(AbunTable)):
-        if (float(AbunTable[i][2])>bignumber):
-            bignumber = float(AbunTable[i][2])
+        if (float(AbunTable[i][1])>bignumber):
+            bignumber = float(AbunTable[i][1])
     for i in range(len(AbunTable)):
-        AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
+        AbunTable[i][1] = str(format(float(AbunTable[i][1])*amp/bignumber,'f'))
     return AbunTable
