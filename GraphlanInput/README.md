@@ -143,6 +143,7 @@ graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6 --ex
 ### TaxonToGuide.py
 ```
 python TaxonToGuide.py rep_set_tax_assignments.txt output.txt
+python MakeAnno.py RefSoil16sHMMFastaNS_tax_assignments.txt anno.guide.txt
 ```
 
 After this, you can make a tree
