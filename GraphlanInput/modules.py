@@ -116,3 +116,12 @@ def TaxToGuide(Tax):
         TempGuide = [Tax[i][7],tempName[1:]]
         guide.append(TempGuide)
     return guide
+
+def ReadSummaryAbun(file):
+    AbunTable = []
+    for line in AbunRead:
+        tempcol =  line.split('\t')
+        tempAbunTable = [tempcol[0],tempcol[1]]
+        AbunTable.append(tempAbunTable)
+        
+    return AbunTable
