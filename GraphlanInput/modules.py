@@ -123,5 +123,11 @@ def ReadSummaryAbun(file):
         tempcol =  line.split('\t')
         tempAbunTable = [tempcol[0],tempcol[1]]
         AbunTable.append(tempAbunTable)
-        
+        bignumber = 0
+    amp = 1
+    for i in range(len(AbunTable)):
+        if (float(AbunTable[i][2])>bignumber):
+            bignumber = float(AbunTable[i][2])
+    for i in range(len(AbunTable)):
+        AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
     return AbunTable

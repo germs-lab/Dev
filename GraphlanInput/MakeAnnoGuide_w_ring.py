@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #usage: python MakeAnnoGuide_w_ring.py taxonomyFile outputFile
-#python MakeAnnoGuide_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt abunTable.txt anno.txt
+#python MakeAnnoGuide_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt soil.abundance.txt anno.guide.ring.txt
 # This script may not useful
 import sys, os
 import modules
@@ -23,7 +23,7 @@ fwrite.write('\n')
 Tax = modules.TaxTable(filein)
 
 #Make abundance table
-AbunTable = modules.MakeAbunTable(AbunRead)
+AbunTable = modules.ReadSummaryAbun(AbunRead)
 
 # class color assignment
 classColor = modules.AssignColor(Tax)
@@ -56,4 +56,4 @@ for i in range(len(Tax)):
         for k in range(len(AbunTable)):
             if (Tax[i][7] == AbunTable[k][0]):
                 fwrite.write(Tax[i][5]+'\t'+"ring_color"+'\t'+"9"+'\t'+tempColor+'\n')
-                fwrite.write(Tax[i][5]+'\t'+"ring_height"+'\t'+"9"+'\t'+AbunTable[k][2]+'\n')
+                fwrite.write(Tax[i][5]+'\t'+"ring_height"+'\t'+"9"+'\t'+AbunTable[k][1]+'\n')
