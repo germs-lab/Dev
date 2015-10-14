@@ -117,7 +117,7 @@ def TaxToGuide(Tax):
         guide.append(TempGuide)
     return guide
 
-def ReadSummaryAbun(file):
+def ReadSummaryAbun(AbunRead):
     AbunTable = []
     for line in AbunRead:
         tempcol =  line.split('\t')
