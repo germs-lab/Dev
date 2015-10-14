@@ -105,3 +105,14 @@ def MakeAbunTable(AbunRead):
     for i in range(len(AbunTable)):
         AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
     return AbunTable
+
+def TaxToGuide(Tax):
+    guide = []
+    for i in range(len(Tax)):
+        tempName = ""
+        for j in range(len(Tax[i])-1):
+            if (Tax[i][j] != ""):
+                tempName = tempName+"."+Tax[i][j]
+        TempGuide = [Tax[i][7],tempName[1:]]
+        guide.append(TempGuide)
+    return guide
