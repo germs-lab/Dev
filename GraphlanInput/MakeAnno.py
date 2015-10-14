@@ -30,7 +30,7 @@ for i in range(len(Tax)):
     tempColor = "k"
     kingColor = "k"
     for j in range(len(classColor)):
-        if (classColor[j][0]==Tax[i][2]):
+        if (classColor[j][0]==Tax[i][1]):
             tempColor = classColor[j][1]
     if (Tax[i][0] == KingdomColor[0][0]):
         kingColor = KingdomColor[0][1]
