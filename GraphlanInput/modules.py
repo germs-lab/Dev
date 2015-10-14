@@ -90,3 +90,18 @@ EEE','#8E8E38','#9ACD32','#B0171F','#BC8F8F','#CDCDC1','#D15FEE','#EE6A50','#FFC
         tempClassColor = [uniqPhylum[i],color[i]]
         classColor.append(tempClassColor)
     return classColor
+
+def MakeAbunTable(AbunRead):
+    AbunTable = []
+    for line in AbunRead:
+        tempcol =  line.split('\t')
+        tempAbunTable = [tempcol[0],tempcol[1],tempcol[2]]
+        AbunTable.append(tempAbunTable)
+    bignumber = 0
+    amp = 1
+    for i in range(len(AbunTable)):
+        if (float(AbunTable[i][2])>bignumber):
+            bignumber = float(AbunTable[i][2])
+    for i in range(len(AbunTable)):
+        AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
+    return AbunTable
