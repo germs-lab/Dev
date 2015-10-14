@@ -1,15 +1,16 @@
 #!/usr/bin/python
-#usage: python MakeAnno.py taxonomyFile outputFile
-#python MakeAnno.py rep_set_tax_assignments.txt anno.txt
+#usage: python MakeAnnoGuide_w_ring.py taxonomyFile outputFile
+#python MakeAnnoGuide_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt abunTable.txt anno.txt
 # This script may not useful
 import sys, os
 import modules
 filein = sys.argv[1]
-fileout = sys.argv[2]
+fileAbun = sys.argv[2]
+fileout = sys.argv[3]
 
 full_path = os.path.realpath(__file__)
 filedefault = os.path.dirname(full_path)+"/DefaultAnnoNoRing.txt"
-
+AbunRead = open(fileAbun,'r')
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
@@ -20,6 +21,9 @@ fwrite.write('\n')
 
 #Make Tax table
 Tax = modules.TaxTable(filein)
+
+#Make abundance table
+AbunTable = modules.MakeAbunTable(AbunRead)
 
 # class color assignment
 classColor = modules.AssignColor(Tax)
@@ -49,3 +53,7 @@ for i in range(len(Tax)):
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
+        for k in range(len(AbunTable)):
+            if (Tax[i][7] == AbunTable[k][0]):
+                fwrite.write(Tax[i][5]+'\t'+"ring_color"+'\t'+"9"+'\t'+tempColor+'\n')
+                fwrite.write(Tax[i][5]+'\t'+"ring_height"+'\t'+"9"+'\t'+AbunTable[k][2]+'\n')
