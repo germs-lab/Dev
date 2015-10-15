@@ -22,6 +22,7 @@ fwrite.write('\n')
 Tax = modules.TaxTable(filein)
 
 #Make abundance table
+"""
 AbunTable = []
 for line in AbunRead:
     tempcol =  line.split('\t')
@@ -34,6 +35,8 @@ for i in range(len(AbunTable)):
         bignumber = float(AbunTable[i][2])
 for i in range(len(AbunTable)):
     AbunTable[i][2] = str(format(float(AbunTable[i][2])*amp/bignumber,'f'))
+"""
+AbunTable = modules.MakeAbunTable(AbunRead)
 
 # class color assignment
 classColor = modules.AssignColor(Tax)
