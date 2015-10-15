@@ -37,7 +37,7 @@ for i in range(len(Tax)):
         kingColor = KingdomColor[1][1]
     if (Tax[i][5] != ""):
         #fwrite.write(Tax[i][7]+'\t'+"annotation_background_color"+'\t'+tempColor+'\n')
-        fwrite.write(Tax[i][7]+'\t'+"annotation"+'\t'+tempColor+'\n')
+        #fwrite.write(Tax[i][7]+'\t'+"annotation"+'\t'+tempColor+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
