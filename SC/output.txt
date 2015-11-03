@@ -1,0 +1,109 @@
+AG-212-P17#_Cp_1.7	Bacteria;Acidobacteria;Acidobacteria_Gp1;Gp1;Gp1;Gp1;	79.86	98.03	new genus
+AG-212-J06#_Cp_1.8	Bacteria;Acidobacteria;Acidobacteria_Gp4;Gp4;Gp4;Gp4;	83.18	100.00	new genus
+AG-212-B14#_Cp_2.1	Bacteria;Acidobacteria;Acidobacteria_Gp5;Gp5;Gp5;Gp5;	79.88	null	new genus
+AG-212-D20#_Cp_2.1	Bacteria;Acidobacteria;Acidobacteria_Gp6;Gp6;Gp6;Gp6;	78.97	null	new genus
+AG-212-G05#_Cp_2.3	Bacteria;Acidobacteria;Acidobacteria_Gp6;Gp6;Gp6;Gp6;	84.50	null	new genus
+AG-212-K13#_Cp_2.9	Bacteria;Acidobacteria;Acidobacteria_Gp6;Gp6;Gp6;Gp6;	82.48	null	new genus
+AG-212-P03#_Cp_2.5	Bacteria;Acidobacteria;Acidobacteria_Gp7;Gp7;Gp7;Gp7;	81.43	99.32	new genus
+AG-212-B03#_Cp_2.4	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobiales;Acidimicrobineae_incertae_sedis;Aciditerrimonas;	86.60	98.68	new genus
+AG-212-B11#_Cp_3.7	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobiales;Acidimicrobineae_incertae_sedis;Aciditerrimonas;	86.52	98.67	new genus
+AG-212-C20#_Cp_2.6	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobiales;Acidimicrobineae_incertae_sedis;Aciditerrimonas;	86.58	98.68	new genus
+AG-212-G07#_Cp_3.1	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobiales;Acidimicrobineae_incertae_sedis;Aciditerrimonas;	85.75	97.35	new genus
+AG-212-O20#_Cp_2.8	Bacteria;Actinobacteria;Actinobacteria;Acidimicrobiales;Acidimicrobineae_incertae_sedis;Aciditerrimonas;	86.09	98.67	new genus
+AG-212-F05#_Cp_3.5	Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Intrasporangiaceae;Phycicoccus;	92.85	97.37	new genus
+AG-212-E03#_Cp_2.8	Bacteria;Actinobacteria;Actinobacteria;Actinomycetales;Nocardioidaceae;Nocardioides;	92.54	98.67	existed
+AG-212-C18#_Cp_2.6	Bacteria;Actinobacteria;Actinobacteria;Gaiellales;Gaiellaceae;Gaiella;	84.22	98.62	new genus
+AG-212-D13#_Cp_3.0	Bacteria;Actinobacteria;Actinobacteria;Gaiellales;Gaiellaceae;Gaiella;	83.57	98.62	new genus
+AG-212-L10#_Cp_4.0	Bacteria;Actinobacteria;Actinobacteria;Gaiellales;Gaiellaceae;Gaiella;	86.69	99.32	new genus
+AG-212-M14#_Cp_3.1	Bacteria;Actinobacteria;Actinobacteria;Gaiellales;Gaiellaceae;Gaiella;	83.06	98.67	new genus
+AG-212-P06#_Cp_2.6	Bacteria;Actinobacteria;Actinobacteria;Gaiellales;Gaiellaceae;Gaiella;	84.28	98.62	new genus
+AG-212-D09#_Cp_2.7	Bacteria;Actinobacteria;Actinobacteria;Solirubrobacterales;Conexibacteraceae;Conexibacter;	85.36	96.69	existed
+AG-212-G16#_Cp_1.7	Bacteria;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;	95.71	100.00	existed
+AG-212-C10#_Cp_2.3	Bacteria;Chloroflexi;Ardenticatenia;Ardenticatenales;Ardenticatenaceae;Ardenticatena;	82.55	97.83	new genus
+AG-212-M09#_Cp_2.8	Bacteria;Chloroflexi;Dehalococcoidetes;Dehalogenimonas;Dehalogenimonas;Dehalogenimonas;	82.94	97.97	existed
+AG-212-O11#_Cp_3.8	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae 2;Tuberibacillus;	95.93	97.92	new genus
+AG-212-P22#_Cp_1.8	Bacteria;Gemmatimonadetes;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonas;	96.80	98.00	existed
+AG-212-C14#_Cp_1.7	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;Nitrospiraceae;Nitrospira;	79.32	99.32	new genus
+AG-212-E16#_Cp_1.6	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;Nitrospiraceae;Nitrospira;	79.04	98.68	new genus
+AG-212-J14#_Cp_1.7	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;Nitrospiraceae;Nitrospira;	79.02	99.33	new genus
+AG-212-N08#_Cp_1.9	Bacteria;Nitrospirae;Nitrospira;Nitrospirales;Nitrospiraceae;Nitrospira;	79.30	99.32	new genus
+AG-212-C04#_Cp_1.9	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Blastopirellula;	79.19	97.33	new genus
+AG-212-I22#_Cp_2.1	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Blastopirellula;	81.50	98.00	new genus
+AG-212-E22#_Cp_1.6	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;	83.84	98.62	new genus
+AG-212-F19#_Cp_1.7	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;	81.35	98.00	new genus
+AG-212-G18#_Cp_2.2	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;	83.98	98.68	new genus
+AG-212-J16#_Cp_2.6	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;	80.68	100.00	new genus
+AG-212-K02#_Cp_1.7	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;	83.79	98.01	new genus
+AG-212-L16#_Cp_3.0	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;	83.33	98.00	new genus
+AG-212-N02#_Cp_2.3	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Gemmata;	82.16	99.33	new genus
+AG-212-M13#_Cp_2.4	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Pirellula;	80.00	98.67	new genus
+AG-212-G17#_Cp_1.9	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Planctomyces;	81.83	98.67	new genus
+AG-212-M04#_Cp_2.3	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Planctomyces;	82.15	100.00	new genus
+AG-212-N16#_Cp_2.0	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Planctomyces;	82.17	98.68	new genus
+AG-212-O22#_Cp_1.9	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Planctomyces;	82.00	98.00	new genus
+AG-212-I15#_Cp_2.1	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Schlesneria;	78.46	98.00	new genus
+AG-212-O03#_Cp_1.9	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Schlesneria;	81.29	99.32	new genus
+AG-212-D15#_Cp_1.9	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Zavarzinella;	82.31	100.00	new genus
+AG-212-K05#_Cp_1.9	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Zavarzinella;	83.89	98.68	new genus
+AG-212-N19#_Cp_1.9	Bacteria;Planctomycetes;Planctomycetia;Planctomycetales;Planctomycetaceae;Zavarzinella;	84.37	95.97	new genus
+AG-212-E05#_Cp_1.9	Bacteria;Proteobacteria;Alphaproteobacteria;Alphaproteobacteria_incertae_sedis;Rhizomicrobium;Rhizomicrobium;	89.27	98.66	new genus
+AG-212-G04#_Cp_2.1	Bacteria;Proteobacteria;Alphaproteobacteria;Alphaproteobacteria_incertae_sedis;Rhizomicrobium;Rhizomicrobium;	88.92	98.00	new genus
+AG-212-J08#_Cp_2.6	Bacteria;Proteobacteria;Alphaproteobacteria;Alphaproteobacteria_incertae_sedis;Rhizomicrobium;Rhizomicrobium;	88.62	98.68	new genus
+AG-212-F20#_Cp_2.4	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter;	93.36	98.67	existed
+AG-212-O05#_Cp_2.2	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Afipia;	96.43	98.00	new genus
+AG-212-M19#_Cp_2.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium;	98.76	100.00	existed
+AG-212-F22#_Cp_1.9	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Blastochloris;	93.37	97.33	new genus
+AG-212-B21#_Cp_1.8	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;	93.22	98.67	new genus
+AG-212-D19#_Cp_2.2	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;	93.33	98.66	new genus
+AG-212-K22#_Cp_2.4	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;	92.60	100.00	new genus
+AG-212-L06#_Cp_2.6	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;	92.73	97.33	new genus
+AG-212-P01#_Cp_1.8	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Rhodoplanes;	95.02	98.62	new genus
+AG-212-E10#_Cp_2.5	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Meganema;	89.06	97.35	new genus
+AG-212-G15#_Cp_2.5	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhodobiaceae;Roseospirillum;	88.11	96.69	new genus
+AG-212-A01#_Cp_1.7	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Stella;	88.30	97.35	new genus
+AG-212-I08#_Cp_2.2	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Dongia;	88.16	98.67	new genus
+AG-212-I19#_Cp_2.4	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Dongia;	87.99	99.32	new genus
+AG-212-N23#_Cp_1.8	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Dongia;	87.81	98.66	new genus
+AG-212-K11#_Cp_2.9	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;	96.17	99.33	existed
+AG-212-K14#_Cp_2.8	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;	97.40	98.67	existed
+AG-212-D23#_Cp_1.8	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Derxia;	90.40	98.68	new genus
+AG-212-F14#_Cp_2.3	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Derxia;	89.07	99.31	new genus
+AG-212-B15#_Cp_2.1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiales_incertae_sedis;Methylibium;	90.07	98.68	existed
+AG-212-O10#_Cp_2.4	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiales_incertae_sedis;Methylibium;	90.74	100.00	existed
+AG-212-B02#_Cp_2.4	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiales_incertae_sedis;Thiobacter;	89.04	97.35	new genus
+AG-212-E11#_Cp_2.2	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Polaromonas;	95.50	97.96	existed
+AG-212-B05#_Cp_2.7	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Schlegelella;	89.38	99.32	new genus
+AG-212-O14#_Cp_2.9	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Schlegelella;	89.61	99.32	new genus
+AG-212-J11#_Cp_2.5	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;	98.11	98.67	existed
+AG-212-M23#_Cp_1.9	Bacteria;Proteobacteria;Betaproteobacteria;Gallionellales;Gallionellaceae;Sideroxydans;	90.55	98.65	new genus
+AG-212-E17#_Cp_2.4	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Denitratisoma;	89.92	98.66	new genus
+AG-212-P18#_Cp_2.8	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Denitratisoma;	90.01	99.31	new genus
+AG-212-O21#_Cp_1.8	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Georgfuchsia;	91.89	97.33	new genus
+AG-212-A02#_Cp_2.2	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	88.56	97.35	new genus
+AG-212-B09#_Cp_2.7	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	89.17	99.32	new genus
+AG-212-C16#_Cp_2.6	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	90.35	97.33	new genus
+AG-212-D07#_Cp_2.5	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	88.62	98.00	new genus
+AG-212-G11#_Cp_2.2	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	90.50	98.68	new genus
+AG-212-I13#_Cp_3.0	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	90.50	98.68	new genus
+AG-212-I20#_Cp_2.5	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	88.51	98.00	new genus
+AG-212-J15#_Cp_2.3	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	88.64	100.00	new genus
+AG-212-J23#_Cp_1.9	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	89.21	99.32	new genus
+AG-212-L03#_Cp_2.5	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	90.58	98.68	new genus
+AG-212-N07#_Cp_3.1	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Sulfuritalea;	89.41	98.00	new genus
+AG-212-F16#_Cp_3.3	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Cystobacteraceae;Stigmatella;	85.28	98.68	existed
+AG-212-E07#_Cp_2.2	Bacteria;Proteobacteria;Deltaproteobacteria;Syntrophobacterales;Syntrophobacteraceae;Desulfosoma;	86.04	98.01	new genus
+AG-212-O08#_Cp_1.8	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus;	85.44	98.00	new genus
+AG-212-A09#_Cp_15.3	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Aquicella;	83.75	97.35	new genus
+AG-212-P11#_Cp_1.8	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Coxiella;	89.17	98.68	existed
+AG-212-F23#_Cp_1.4	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Diplorickettsia;	85.85	94.74	new genus
+AG-212-N18#_Cp_1.6	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;	93.91	96.67	existed
+AG-212-A21#_Cp_1.9	Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;	94.81	97.95	existed
+AG-212-B10#_Cp_2.2	Bacteria;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;Opitutus;	94.44	97.35	existed
+AG-212-E14#_Cp_2.0	Bacteria;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae;Coraliomargarita;	85.07	100.00	new genus
+AG-212-L18#_Cp_2.7	Bacteria;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae;Coraliomargarita;	83.52	98.67	new genus
+AG-212-C11#_Cp_2.1	Bacteria;Verrucomicrobia;Spartobacteria;Spartobacteria_genera_incertae_sedis;Spartobacteria_genera_incertae_sedis;Spartobacteria_genera_incertae_sedis;	80.30	100.00	new genus
+AG-212-E04#_Cp_2.0	Bacteria;Verrucomicrobia;Spartobacteria;Spartobacteria_genera_incertae_sedis;Spartobacteria_genera_incertae_sedis;Spartobacteria_genera_incertae_sedis;	82.27	99.32	new genus
+AG-212-K21#_Cp_1.9	Bacteria;Verrucomicrobia;Spartobacteria;Spartobacteria_genera_incertae_sedis;Spartobacteria_genera_incertae_sedis;Spartobacteria_genera_incertae_sedis;	78.37	96.69	new genus
+AG-212-D02#_Cp_1.7	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Roseimicrobium;	78.93	98.68	new genus
+AG-212-D22#_Cp_1.7	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Roseimicrobium;	78.27	98.67	new genus
+AG-212-N21#_Cp_1.9	Bacteria;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Roseimicrobium;	78.96	100.00	new genus

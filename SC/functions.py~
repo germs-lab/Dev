@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+def ReadSClin(filename):
+    fread = open(filename,'r')

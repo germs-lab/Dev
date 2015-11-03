@@ -1,0 +1,4 @@
+#!/usr/bin/python
+# python SC.py input1 input2 input3 output
+# python SC.py fixrank_RS_garden_AG-212_16S.fasta_classified.txt RS_blast.out.txt garden_soilEMP.out.txt output.txt
+
