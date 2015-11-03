@@ -142,15 +142,19 @@ graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6 --ex
 
 ### TaxonToGuide.py
 ```
-python TaxonToGuide.py rep_set_tax_assignments.txt output.txt
-python MakeAnno.py RefSoil16sHMMFastaNS_tax_assignments.txt anno.guide.txt
+python TaxonToGuide.py rep_set_tax_assignments.txt EMP_soil.guide.txt
+python MakeAnnoGuide_no_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt anno.guide.txt
+```
+If you want to add ring,
+```
+python MakeAnnoGuide_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt soil.abundance.txt anno.guide.ring.txt
 ```
 
 After this, you can make a tree
 
 ```
-graphlan_annotate.py --annot anno.txt guide.txt RefSoilGuide.xml
-graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6
+graphlan_annotate.py --annot anno.guide.txt EMP_soil.guide.txt RefSoilGuide.xml
+graphlan.py RefSoilGuide.xml RefSoilGuide.png --dpi 300 --size 15 --pad 0.6 --external_legends
 ```
 
 ### AbundanceCounting.py
