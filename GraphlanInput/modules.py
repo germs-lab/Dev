@@ -131,3 +131,14 @@ def ReadSummaryAbun(AbunRead):
     for i in range(len(AbunTable)):
         AbunTable[i][1] = str(format(float(AbunTable[i][1])*amp/bignumber,'f'))
     return AbunTable
+
+def ReadTableSep(filename,Sep):
+    fread = open(filename,'r')
+    Table = []
+    for line in fread:
+        tempcol = line.strip().split(Sep)
+        tempTable = []
+        for i in range(len(tempTable)):
+            tempTable.append(tempcol[i])
+        Table.append(tempTable)
+    return Table
