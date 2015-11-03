@@ -10,7 +10,7 @@ fileout = sys.argv[3]
 
 full_path = os.path.realpath(__file__)
 filedefault = os.path.dirname(full_path)+"/DefaultAnnoNoRing.txt"
-AbunRead = sys.argv[4]
+
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
@@ -23,7 +23,7 @@ fwrite.write('\n')
 Tax = modules.TaxTable(filein)
 
 #Make singlecell table
-AbunTable = modules.ReadTableSep(AbunRead,".")
+AbunTable = modules.ReadTableSep(fileAbun,".")
 
 # class color assignment
 classColor = modules.AssignColor(Tax)
