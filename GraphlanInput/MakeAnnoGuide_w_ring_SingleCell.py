@@ -54,3 +54,7 @@ for i in range(len(Tax)):
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
 
+for i in range(len(AbunTable)):
+    fwrite.write(AbunTable[i][12]+'\t'+"ring_width"+'\t'+"2"+'\t'+"2"+'\n')
+    fwrite.write(AbunTable[i][12]+'\t'+"ring_height"+'\t'+"2"+'\t'+"0.35"+'\n')
+    fwrite.write(AbunTable[i][12]+'\t'+"ring_color"+'\t'+"2"+'\t'+"b"+'\n')
