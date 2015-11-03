@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #usage: python MakeAnnoGuide_w_ring.py taxonomyFile outputFile
-#python MakeAnnoGuide_w_ringSingleCell.py RefSoil16sHMMFastaNS_tax_assignments.txt singlecell.txt anno.guide.ring.txt
+#python MakeAnnoGuide_w_ringSingleCell.py RefSoil16sHMMFastaNS_tax_assignments.txt singlecell.unix.txt anno.guide.ring.txt
 # This script may not useful
 import sys, os
 import modules
@@ -23,7 +23,9 @@ fwrite.write('\n')
 Tax = modules.TaxTable(filein)
 
 #Make singlecell table
-AbunTable = modules.ReadTableSep(fileAbun,".")
+AbunTable = []
+Sep = "."
+AbunTable = modules.ReadTableSep(fileAbun,Sep)
 
 # class color assignment
 classColor = modules.AssignColor(Tax)
@@ -53,8 +55,8 @@ for i in range(len(Tax)):
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
-
-for i in range(len(AbunTable)):
-    fwrite.write(AbunTable[i][12]+'\t'+"ring_width"+'\t'+"2"+'\t'+"2"+'\n')
-    fwrite.write(AbunTable[i][12]+'\t'+"ring_height"+'\t'+"2"+'\t'+"0.35"+'\n')
-    fwrite.write(AbunTable[i][12]+'\t'+"ring_color"+'\t'+"2"+'\t'+"b"+'\n')
+print AbunTable
+#for i in range(len(AbunTable)):
+#    fwrite.write(AbunTable[i][0]+'\t'+"ring_width"+'\t'+"2"+'\t'+"2"+'\n')
+#    fwrite.write(AbunTable[i][0]+'\t'+"ring_height"+'\t'+"2"+'\t'+"0.35"+'\n')
+#    fwrite.write(AbunTable[i][0]+'\t'+"ring_color"+'\t'+"2"+'\t'+"b"+'\n')
