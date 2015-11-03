@@ -10,7 +10,7 @@ fileout = sys.argv[3]
 
 full_path = os.path.realpath(__file__)
 filedefault = os.path.dirname(full_path)+"/DefaultAnnoNoRing.txt"
-AbunRead = open(fileAbun,'r')
+AbunRead = sys.argv[4]
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
