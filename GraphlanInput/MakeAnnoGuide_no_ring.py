@@ -1,6 +1,6 @@
 #!/usr/bin/python
-#usage: python MakeAnno.py taxonomyFile outputFile
-#python MakeAnno.py rep_set_tax_assignments.txt anno.txt
+#usage: python MakeAnnoGuide_no_ring.py taxonomyFile outputFile
+#python MakeAnnoGuide_no_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt anno.txt
 # This script may not useful
 import sys, os
 import modules
@@ -42,9 +42,9 @@ for i in range(len(Tax)):
         fwrite.write(Tax[i][5]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
         fwrite.write(Tax[i][5]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
         fwrite.write(Tax[i][5]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
-        fwrite.write(Tax[i][5]+'\t'+"ring_width"+'\t'+"1"+'\t'+"2"+'\n')
-        fwrite.write(Tax[i][5]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.35"+'\n')
-        fwrite.write(Tax[i][5]+'\t'+"ring_color"+'\t'+"1"+'\t'+kingColor+'\n')
+        #fwrite.write(Tax[i][5]+'\t'+"ring_width"+'\t'+"1"+'\t'+"2"+'\n')
+        #fwrite.write(Tax[i][5]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.35"+'\n')
+        #fwrite.write(Tax[i][5]+'\t'+"ring_color"+'\t'+"1"+'\t'+kingColor+'\n')
         if(Tax[i][6] != ""):
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
             fwrite.write(Tax[i][6]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
