@@ -136,7 +136,7 @@ def ReadTableSep(filename,Sep):
     fread = open(filename,'r')
     Table = []
     for line in fread:
-        tempcol = line.strip().split('\t')
+        tempcol = line.strip().split(Sep)
         tempTable = []
         for i in range(len(tempcol)):
             tempTable.append(tempcol[i])
