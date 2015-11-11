@@ -6,8 +6,8 @@ import modules
 import math
 Abunin = open(sys.argv[1],'r')
 fwrite = open(sys.argv[2],'w')
-log = 0
-checkHeight = 1
+log = 1
+checkHeight = 0
 for line in Abunin:
     tempCol = line.strip().split('\t')
     fwrite.write(tempCol[0]+'\t'+"ring_width"+'\t'+"9"+'\t'+"1"+'\n')
