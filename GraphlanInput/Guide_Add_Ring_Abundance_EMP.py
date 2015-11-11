@@ -6,7 +6,7 @@ import modules
 import math
 Abunin = open(sys.argv[1],'r')
 fwrite = open(sys.argv[2],'w')
-log = 1
+log = 0
 
 for line in Abunin:
     tempCol = line.strip().split('\t')
@@ -16,4 +16,4 @@ for line in Abunin:
         x = math.log(float(height),10)
         height = str(x)
     fwrite.write(tempCol[0]+'\t'+"ring_height"+'\t'+"9"+'\t'+height+'\n')
-    fwrite.write(tempCol[0]+'\t'+"ring_color"+'\t'+"2"+'\t'+"g"+'\n')
+    fwrite.write(tempCol[0]+'\t'+"ring_color"+'\t'+"9"+'\t'+"g"+'\n')
