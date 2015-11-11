@@ -51,5 +51,5 @@ for i in range(len(Tax)):
             #fwrite.write(Tax[i][6]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
             #fwrite.write(Tax[i][6]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
             fwrite.write(Tax[i][6]+'\t'+"ring_width"+'\t'+"1"+'\t'+"2"+'\n')
-        	fwrite.write(Tax[i][6]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.35"+'\n')
-        	fwrite.write(Tax[i][6]+'\t'+"ring_color"+'\t'+"1"+'\t'+kingColor+'\n')
+            fwrite.write(Tax[i][6]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.35"+'\n')
+            fwrite.write(Tax[i][6]+'\t'+"ring_color"+'\t'+"1"+'\t'+kingColor+'\n')
