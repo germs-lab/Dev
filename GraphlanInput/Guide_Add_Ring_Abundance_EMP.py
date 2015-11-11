@@ -8,7 +8,7 @@ Abunin = open(sys.argv[1],'r')
 fwrite = open(sys.argv[2],'w')
 log = 1
 
-for line in Guidein:
+for line in Abunin:
     tempCol = line.strip().split('\t')
     fwrite.write(tempCol[0]+'\t'+"ring_width"+'\t'+"9"+'\t'+"1"+'\n')
     height = tempCol[2]
