@@ -10,4 +10,4 @@ Abunin = sys.argv[2]
 fwrite = open(sys.argv[3],'w')
 
 #read table
-Table = ReadTableSep(Abunin,'\t')
+Table = modules.ReadTableSep(Abunin,'\t')
