@@ -20,6 +20,6 @@ for line in Abunin:
         x = math.log(float(height),10)
         height = str(x)
     if (div == 1):
-        height = str(float(height)/32000)
+        height = str(round(float(height)/32000))
     fwrite.write(tempCol[0]+'\t'+"ring_height"+'\t'+"9"+'\t'+height+'\n')
     fwrite.write(tempCol[0]+'\t'+"ring_color"+'\t'+"9"+'\t'+"g"+'\n')
