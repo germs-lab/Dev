@@ -27,5 +27,5 @@ for line in input_handle:
 for line in input_handle:
     if("taxon:" in line):
         tempcol = line.strip().split(":")
-        output_handle.write("svr_submit_RAST_job --user='%s' --passwd=%s --genbank=%s --taxon_ID=%s --bioname='%s'" %(yourID,yourPass,gbk_filename,tempcol[1][:-1],orga))
+        output_handle.write("svr_submit_RAST_job --user='%s' --passwd=%s --genbank=%s --taxon_ID=%s --bioname='%s'\n" %(yourID,yourPass,gbk_filename,tempcol[1][:-1],orga))
         break
