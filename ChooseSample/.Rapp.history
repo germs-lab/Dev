@@ -1,0 +1,486 @@
+barplot(freq)
+barplot(freq,log)
+barplot(freq,log=x)
+barplot(freq,log=y)
+barplot(freq,log="y")
+barplot(freq)
+barplot(freq,log="y")
+barplot(freq,log="y",ylim=c(0,110))
+barplot(freq,log="y",ylim=c(1,110))
+barplot(freq,log="y",ylim=c(1,150))
+barplot(freq,log="y")
+barplot(freq,log="xy")
+barplot(freq,log="xy",width=1)
+barplot(freq,log="y")
+barplot(freq,log="xy")
+barplot(freq,log="y")
+barplot(freq,log="y",xlab="abundance",ylab="frequency (log scale)")
+count
+barplot(count)
+barplot(count$V2)
+barplot(count$V2, log="x")
+barplot(count$V2, log="xy")
+count$V2
+barplot(count$V2, log="y")
+data<-count$V2[order()]
+data
+attach(mtcars)
+mtcars
+data<-count[order[V2]]
+data<-count[order(V2)]
+data<-count[order(V2),]
+data<-count[order($V2),]
+count
+sort(count$V2)
+sort(count$V2,decreasing=T)
+data<-sort(count$V2,decreasing=T)
+data
+barplot(count$V2, log="y")
+data<-sort(count$V2,decreasing=T)
+barplot(data)
+barplot(data,log="y")
+allCount <- read.table("RefsoilIendity.txt")
+allCount <- read.table("Refsoiliden.txt")
+soilCount <- read.table("Refsoiliden.txt")
+allCount <- read.table("refsoiltoAllidentity.txt")
+soilCount
+freq = table(soilCount)
+soilfreq = table(soilCount)
+allfreq = table(allCount)
+barplot(soilfreq)
+barplot(allfreq)
+soilfreq
+barplot(soilfreq,xlim=c(0,100))
+barplot(soilfreq,xlim=c(50,100))
+barplot(soilfreq)
+library(ggplot2)
+set.seed(5689)
+qplot(rating, data=movies, geom="histogram")
+movies <- movies[sample(nrow(movies), 1000), ]
+qplot(rating, data=movies, geom="histogram")
+movies
+qplot(rating, data=soilCount, geom="histogram")
+qplot(soilCount, geom="histogram")
+m <- ggplot(movies, aes(x=rating))
+m + geom_histogram()
+movies
+head(movies)
+soilCount
+m <- ggplot(soilCount, aes(x=V1))
+m + geom_histogram()
+m + facet_grid()
+ggplot(allCount,aes(x=V1))
+ggplot(allCount,aes(x=V1))+geom_histogram()
+ggplot(soilCount,aes(x=V1))+geom_histogram()
+ggplot(allCount,aes(x=V1))+geom_histogram()
+ggplot(soilCount,aes(x=V1))+geom_histogram()
+a = ggplot(soilCount,aes(x=V1))+geom_histogram()
+b = ggplot(allCount,aes(x=V1))+geom_histogram()
+facet_grid(a,b)
+grid.arrange(a,b,ncol=2)
+pdf("filename.pdf")
+grid.arrange(a,b,ncol=2)
+library(gridExtra)
+grid.arrange(a,b,ncol=2)
+a
+ggplot(soilCount,aes(x=V1))+geom_histogram()
+ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)
+b = ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)
+ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)
+ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)
+ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)
+soilCount <- read.table("Refsoiliden.txt")
+allCount <- read.table("refsoiltoAllidentity.txt")
+ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)
+library(ggplot2)
+ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)
+ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)
+a=ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)
+b=ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)
+library(gridExtra)
+grid.arrange(a,b,ncol=2)
+soilCount.colnames("Soil")
+colnames(soilCount,"Soil")
+colnames(soilCount)<-c("Soil")
+a=ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)
+grid.arrange(a,b,ncol=2)
+a=ggplot(soilCount,aes(x=Soil))+geom_histogram(binwidth=1)
+grid.arrange(a,b,ncol=2)
+colnames(soilCount)<-c("Identity in Soil-EMP")
+soilCount <- read.table("Refsoiliden.txt")
+allCount <- read.table("refsoiltoAllidentity.txt")
+a=ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)
+b=ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)
+a=ggplot(soilCount,aes(x=V1))+geom_histogram(binwidth=1)+labs(x="Identity in Soil-EMP")
+b=ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)
+grid.arrange(a,b,ncol=2)
+b=ggplot(allCount,aes(x=V1))+geom_histogram(binwidth=1)+labs(x="Identity in All-EMP")
+grid.arrange(a,b,ncol=2)
+setwd("~/")
+read.csv(file="data.txt",header=FLASE)
+dir()
+read.csv(file= "data.txt" ,header=FALSE)
+weight_kg <- 55
+weight
+weight_kg
+2.2 * weight_kg
+weight_kg <- 57.5
+weight_kg
+weight_lb <- 2.2 * weight_kg
+weight_kg
+dat <- read.csv(file= "data.txt" ,header=FALSE)
+dat
+head(hat)
+head(had)
+head(dat)
+class(dat)
+dim(dat)
+dat[1,1]
+dat[30,20]
+dat[1:4,1:10]
+dat[c(3,8,2),c(2,4,3)]
+dat[c(3,4,2),c(2,4,3)]
+dat[5,]
+dat[.16]
+dat[,16]
+patient_1 <- dat[,1]
+max(patient_1)
+dat[,1]
+dat[,16]
+patient_1 <- dat[,2]
+max(patient_1)
+max(dat[2,])
+max_day_inflammation <-apply(dat,2,max)
+plot(max_day_inflammation)
+ave_patient_inflammation <- apply(dat,1,mean)
+ave_patient_inflammation
+plot(ave_patient_inflammation)
+clear
+cl
+setwd("~/")
+read.csv(file= "data.txt" ,header=FALSE)
+weight_kg <- 55
+weight_kg
+2.2 * weight_kg
+weight_kg <- 57.5
+weight_kg
+dat <- read.csv(file= "data.txt" ,header=FALSE)
+head(dat)
+class(dat)
+dim(dat)
+dat[1,1]
+dat[30,20]
+dat[1:4,1:10]
+dat[c(3,4,2),c(2,4,3)]
+dat[5,]
+dat[,16]
+patient_1 <- dat[,2]
+max(patient_1)
+max(dat[2,])
+getwd
+getwd()
+setwd("~/")
+dir()
+setwd("~/	")
+setwd("~/")
+read.csv(file="data.txt",header=FALSE)
+dat <- read.csv(file="data.txt",header=FALSE)
+dat
+head(dat)
+class(dat)
+dim(dat)
+dat[1,1]
+dat[1:4,1:10]
+max(dat[2,])
+dir()
+setwd("~/")
+read.csv(file="data.txt",header=FALSE)
+dat <- read.csv(file="data.txt",header=FALSE)
+dat
+head(dat)
+class(dat)
+dim(dat)
+dat[1,1]
+dat[1:4,1:10]
+max(dat[2,])
+#read in data#
+ref_data<-read.csv("~/Downloads/CompareRefseqRefsoil.csv",header=T)#
+#
+# make sure these libraries are installed with install.library("..."), otherwise, make sure they are read in #
+#
+library(ggplot2)#
+library(reshape2)#
+library(plyr)#
+# We want the data organized in as long a form as possible.  We want a columns denoting phylum, the variables we want to plot (RefSeq.Rate, RefSoil.Rate), and the values represented by each variable.  To do that, we are going to melt the data...see below#
+#
+melted_ref_data<-melt(ref_data, id=c("phylum"))#
+#
+# look at the top of this dataframe#
+head(melted_ref_data)#
+# Note that the variable, phylum, which was passed as an argument to 'id' remains intact while all other columns were melted into a column now called 'variable'#
+#
+# first making a simple bar graph#
+# ggplot works like this...#
+	# 1. Pass your data object as an argument to ggplot(...)#
+	# 2. Add an aesthetic layer, in this case we are adding bars with geom_bar(aes(...))#
+	# 3. Within aes(...) we will tell ggplot what we want the x, y, and bar fill color #
+	# 4. We also want ggplot to recognize that the values we want plotted are the actual ones we provide, so we add stat="identity" outside of aes().  This is a weird issue with just geom_bar. We also want the bars to be next to each other (not stacked), so we add position="dodge" outside of the aes()#
+#
+ggplot(melted_ref_data)+geom_bar(aes(x=phylum,y=value,fill=variable),position="dodge",stat="identity")#
+#
+# This is great, but the names can't be read because they are stacked on top of each other.  We can flip it with coord_flip().  We also want to reorder them with the greatest value at the top.  We can do this by adding a reorder(...) statement.#
+#
+ggplot(melted_ref_data)+geom_bar(aes(x=reorder(phylum,value),y=value*100,fill=variable),position="dodge",stat="identity")+coord_flip()#
+#
+# This figure is super hard to read because so many are below 0.01.  I am going to add a variable that divides them into samples above 0.05 and below 0.05 for better resolution#
+#
+# calculating average value for each phylum#
+stats<-ddply(melted_ref_data, .(phylum), summarise, av_value=mean(value))#
+#
+# merging this new data back into the original data#
+melted_ref_data<-merge(melted_ref_data,stats,by="phylum")#
+#
+# divided data into high and low categories based on av_value and then putting them back together#
+melted_ref_data_hi<-subset(melted_ref_data, av_value >= 0.01)#
+melted_ref_data_hi$category<-"hi"#
+melted_ref_data_lo<-subset(melted_ref_data, av_value < 0.01)#
+melted_ref_data_lo$category<-"lo"#
+#
+melted_ref_data<-rbind(melted_ref_data_hi,melted_ref_data_lo)#
+#
+# now doing the sample plotting before but splitting it into two plots#
+ggplot(melted_ref_data)+geom_bar(aes(x=reorder(phylum,value),y=value*100,fill=variable),position="dodge",stat="identity")+facet_wrap(~category)+coord_flip()#
+# note that this plot doesnt work well because you can't facet it and have free axes.  Will produce both plots seperately.  Note that I added other parameters to play with.  Try commenting them out and playing with the values to see how it changes the plots #
+ggplot(melted_ref_data_hi)+geom_bar(aes(x=reorder(phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+theme_bw(base_size=12)+theme(aspect.ratio=1)+labs(x="Phylum",y="Relative Abundance")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))#
+ggplot(melted_ref_data_lo)+geom_bar(aes(x=reorder(phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+theme_bw(base_size=12)+theme(aspect.ratio=1)+labs(x="Phylum",y="Relative Abundance")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))#
+# There are several phylum that have no value for RefSoil, so the comparison is probably unnescessary (I may be wrong).  Below I remove those#
+#
+ref_data_soil<-subset(ref_data, RefSoil.Rate > 0)#
+melted_ref_data_soil<-melt(ref_data_soil, id=c("phylum"))#
+#
+ggplot(melted_ref_data_soil)+geom_bar(aes(x=reorder(phylum, value),y=(1+value*100),fill=variable),position="dodge",stat="identity")+coord_flip()+scale_y_log10()+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+labs(x="Phylum",y="Relative Abundance (% + 1)")
+#read in data
+ref_data<-read.csv("~/Downloads/CompareRefseqRefsoil.csv",header=T)
+melted_ref_data<-melt(ref_data, id=c("phylum"))
+head(melted_ref_data)
+ggplot(melted_ref_data)+geom_bar(aes(x=phylum,y=value,fill=variable),position="dodge",stat="identity")
+dif_data<-read.csv("~/Documents/Research/11November/RefSoil/RelativeDifference.csv",header=T)
+ggplot(melted_ref_data_soil)+geom_bar(aes(x=reorder(phylum, value),y=(1+value*100),fill=variable),position="dodge",stat="identity")+coord_flip()+scale_y_log10()+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+labs(x="Phylum",y="Relative Abundance (% + 1)")
+ggplot(melted_ref_data_lo)+geom_bar(aes(x=reorder(phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+theme_bw(base_size=12)+theme(aspect.ratio=1)+labs(x="Phylum",y="Relative Abundance")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))
+ggplot(melted_ref_data_soil)+geom_bar(aes(x=reorder(phylum, value),y=(1+value*100),fill=variable),position="dodge",stat="identity")+coord_flip()+scale_y_log10()+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+labs(x="Phylum",y="Relative Abundance (% + 1)")
+ggplot(melted_ref_data_lo)+geom_bar(aes(x=reorder(phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+theme_bw(base_size=12)+theme(aspect.ratio=1)+labs(x="Phylum",y="Relative Abundance")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))
+ggplot(melted_ref_data_hi)+geom_bar(aes(x=reorder(phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+theme_bw(base_size=12)+theme(aspect.ratio=1)+labs(x="Phylum",y="Relative Abundance")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))
+ggplot(melted_ref_data_lo)+geom_bar(aes(x=reorder(phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+theme_bw(base_size=12)+theme(aspect.ratio=1)+labs(x="Phylum",y="Relative Abundance")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))
+ggplot(melted_ref_data_hi)+geom_bar(aes(x=reorder(phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+theme_bw(base_size=12)+theme(aspect.ratio=1)+labs(x="Phylum",y="Relative Abundance")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))
+ggplot(melted_ref_data)+geom_bar(aes(x=reorder(phylum,value),y=value*100,fill=variable),position="dodge",stat="identity")+facet_wrap(~category)+coord_flip()
+melted_ref_data<-merge(melted_ref_data,stats,by="phylum")
+melted_ref_data_hi<-subset(melted_ref_data, av_value >= 0.01)#
+melted_ref_data_hi$category<-"hi"#
+melted_ref_data_lo<-subset(melted_ref_data, av_value < 0.01)#
+melted_ref_data_lo$category<-"lo"#
+#
+melted_ref_data<-rbind(melted_ref_data_hi,melted_ref_data_lo)
+ggplot(melted_ref_data)+geom_bar(aes(x=reorder(phylum,value),y=value*100,fill=variable),position="dodge",stat="identity")+facet_wrap(~category)+coord_flip()
+melted_ref_data<-merge(melted_ref_data,stats,by="phylum")
+ggplot(melted_ref_data)+geom_bar(aes(x=reorder(phylum,value),y=value*100,fill=variable),position="dodge",stat="identity")+facet_wrap(~category)+coord_flip()
+melted_diff_data<-melt(dif_data, id=c("phylum"))
+melted_diff_data<-melt(dif_data, id=c("Phylum"))
+head(melted_diff_data)
+ggplot(melted_ref_data)+geom_bar(aes(x=phylum,y=value,fill=variable),position="dodge",stat="identity")
+ggplot(melted_diff_data)+geom_bar(aes(x=Phylum,y=value,fill=variable),position="dodge",stat="identity")
+ggplot(melted_ref_data)+geom_bar(aes(x=reorder(phylum,value),y=value*100,fill=variable),position="dodge",stat="identity")+coord_flip()
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value*100,fill=variable),position="dodge",stat="identity")+coord_flip()
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+labs(x="Phylum",y="Relative Abundance (% + 1)")
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+coord_flip()+labs(x="Phylum",y="Relative Difference")
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+coord_flip()+labs(x="Phylum",y="Relative Difference")
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+coord_flip()+labs(x="Phylum",y="Relative Difference")
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+coord_flip()+labs(x="Phylum",y="Relative Difference")
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+coord_flip()+labs(x="Phylum",y="Relative Difference")
+ggplot(melted_ref_data_soil)+geom_bar(aes(x=reorder(phylum, value),y=(1+value*100),fill=variable),position="dodge",stat="identity")+coord_flip()+scale_y_log10()+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+labs(x="Phylum",y="Relative Abundance (% + 1)")
+dif_data<-read.csv("~/Documents/Research/11November/RefSoil/RelativeDifference.csv",header=T)
+melted_diff_data<-melt(dif_data, id=c("Phylum"))#
+head(melted_diff_data)#
+#
+ggplot(melted_diff_data)+geom_bar(aes(x=Phylum,y=value,fill=variable),position="dodge",stat="identity")#
+#
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+coord_flip()+labs(x="Phylum",y="Relative Difference")
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+coord_flip()+labs(x="Phylum",y="Relative ratio of abundance")
+melted_diff_data
+ggplot(melted_ref_data_soil)+geom_bar(aes(x=reorder(phylum, value),y=(1+value*100),fill=variable),position="dodge",stat="identity")+coord_flip()+scale_y_log10()+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+labs(x="Phylum",y="Relative Abundance (% + 1)")
+dif_data<-read.csv("~/Documents/Research/11November/RefSoil/RelativeDifference.csv",header=T)#
+#
+library(ggplot2)#
+library(reshape2)#
+library(plyr)#
+#
+melted_diff_data<-melt(dif_data, id=c("Phylum"))#
+head(melted_diff_data)#
+#
+ggplot(melted_diff_data)+geom_bar(aes(x=Phylum,y=value,fill=variable),position="dodge",stat="identity")#
+#
+ggplot(melted_diff_data)+geom_bar(aes(x=reorder(Phylum,value),y=value,fill=variable),position="dodge",stat="identity")+theme_bw(base_size=12)+theme(aspect.ratio=1)+scale_fill_discrete(name="Database",labels=c("RefSeq","RefSoil"))+coord_flip()+labs(x="Phylum",y="Relative ratio of abundance")
+rm(list=ls())#
+setwd("~/Documents/Github/Dev/ChooseSample")#
+#dir()#
+data <- read.csv("R2only.csv",header=T)#
+#head(data)#
+library(ggplot2)#
+dim(data)#
+#
+#con <- matrix(c(0,39,39,68,68,200,0,39,39,68,68,200),ncol=12)#
+#conTemp <- matrix(c(0.8,1,0.8,1,0.8,1,0,0.79,0,0.79,0,0.79),ncol=12)#
+#con <- rbind(con,conTemp)#
+#con#
+#
+#make Group1#
+Group1 = data[FALSE,]#
+for (i in 1:dim(data)[1]){	#
+	if ((data[i,16]>0.9)&(data[i,7]<16)){#
+		Group1 <-rbind(Group1,data[i,])#
+	}#
+}#
+dim(Group1)#
+#make Group2#
+Group2 = data[FALSE,]#
+for (i in 1:dim(data)[1]){	#
+	if ((data[i,16]>0.9)&(data[i,7]>16)&(data[i,7]<60)){#
+		Group2 <-rbind(Group2,data[i,])#
+	}#
+}#
+dim(Group2)#
+#
+#make Group3#
+Group3 = data[FALSE,]#
+for (i in 1:dim(data)[1]){	#
+	if ((data[i,16]>0.9)&(data[i,7]>60)){#
+		Group3 <-rbind(Group3,data[i,])#
+	}#
+}#
+dim(Group3)#
+#
+#make Group4#
+Group4 = data[FALSE,]#
+for (i in 1:dim(data)[1]){	#
+	if ((data[i,16]<0.9)&(data[i,7]<16)){#
+		Group4 <-rbind(Group4,data[i,])#
+	}#
+}#
+dim(Group4)#
+#
+#make Group5#
+Group5 = data[FALSE,]#
+for (i in 1:dim(data)[1]){	#
+	if ((data[i,16]<0.5)&(data[i,7]>16)&(data[i,7]<60)){#
+		Group5 <-rbind(Group5,data[i,])#
+	}#
+}#
+dim(Group5)#
+#make Group6#
+Group6 = data[FALSE,]#
+for (i in 1:dim(data)[1]){	#
+	if ((data[i,16]<0.5)&(data[i,7]>60)){#
+		Group6 <-rbind(Group6,data[i,])#
+	}#
+}#
+dim(Group6)#
+#df <- data.frame(matrix(ncol = 3, nrow = 0))#
+#colnames(df) <- paste0("hello", c(1:3))#
+#df#
+#paste0("group",1)#
+#
+#combin#
+#rm (plotdata)#
+#
+#gr = paste0("Group",1)#
+#ne = eval(parse(text = gr[1]))#
+#parse(text = gr[1])#
+#dim(ne)[1]#
+plotdata = data.frame(matrix(ncol=3,nrow = 0))#
+#rm(plotdata)#
+#x <- c()#
+#y <- c()#
+#group <- c()#
+#x <- c(x,ne[0,7])#
+for (j in 1:6){#
+	gr = paste0("Group",j)#
+	ne = eval(parse(text = gr[1]))#
+	for(i in 1:dim(ne)[1]){#
+		#x <- c(x,ne[i,7])#
+		#y <- c(y,ne[i,16])#
+		#group <- c(group,j)#
+		temp = c(ne[i,7], ne[i,16],j)#
+		plotdata = rbind(plotdata,temp)#
+	}#
+	#plotdata = #
+}#
+colnames(plotdata) <- c("x", "y","group")#
+plotdata#
+class(plotdata)#
+ggplot(plotdata)+geom_point(aes(x=x,y=y,color=group))+scale_x_continuous(name = "total N : total P ratio",limits=c(0,100))+scale_y_continuous(name = "Cyanobacteria relative abundance",limits=c(0,1))+geom_hline(yintercept = 0.9,linetype="longdash")+geom_hline(yintercept = 0.5,linetype="longdash")+geom_vline(xintercept = 16,linetype="longdash")+geom_vline(xintercept = 60,linetype="longdash")#
+#
+library(grid)#
+library(gridExtra)#
+#
+gr = paste0("Group",6)#
+ne = eval(parse(text = gr[1]))#
+p1 <- ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=cyanophyta.ra))#
+p2 <-ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=chla))#
+p3 <-ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=secchi))#
+p4 <-ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=total.carbon))#
+p5 <-ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=doc))#
+p6 <-ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=ph))#
+p7 <-ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=alkalinity))#
+p8 <-ggplot(ne)+geom_point(aes(x=tn.tp.atomic,y=total.bio))#
+multiplot(p1,p2,p3,p4,p5,p6,p7,p8,cols=3)#
+#
+#histogram#
+ggplot(data, aes(x=cyanophyta.ra))+geom_histogram(binwidth=0.01)+geom_density(fill="blue")#
+# Multiple plot function#
+##
+# ggplot objects can be passed in ..., or to plotlist (as a list of ggplot objects)#
+# - cols:   Number of columns in layout#
+# - layout: A matrix specifying the layout. If present, 'cols' is ignored.#
+##
+# If the layout is something like matrix(c(1,2,3,3), nrow=2, byrow=TRUE),#
+# then plot 1 will go in the upper left, 2 will go in the upper right, and#
+# 3 will go all the way across the bottom.#
+##
+multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {#
+  library(grid)#
+#
+  # Make a list from the ... arguments and plotlist#
+  plots <- c(list(...), plotlist)#
+#
+  numPlots = length(plots)#
+#
+  # If layout is NULL, then use 'cols' to determine layout#
+  if (is.null(layout)) {#
+    # Make the panel#
+    # ncol: Number of columns of plots#
+    # nrow: Number of rows needed, calculated from # of cols#
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)),#
+                    ncol = cols, nrow = ceiling(numPlots/cols))#
+  }#
+#
+ if (numPlots==1) {#
+    print(plots[[1]])#
+#
+  } else {#
+    # Set up the page#
+    grid.newpage()#
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout))))#
+#
+    # Make each plot, in the correct location#
+    for (i in 1:numPlots) {#
+      # Get the i,j matrix positions of the regions that contain this subplot#
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE))#
+#
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row,#
+                                      layout.pos.col = matchidx$col))#
+    }#
+  }#
+}
+ggplot(plotdata)+geom_point(aes(x=x,y=y,color=group))+scale_x_continuous(name = "total N : total P ratio",limits=c(0,100))+scale_y_continuous(name = "Cyanobacteria relative abundance",limits=c(0,1))+geom_hline(yintercept = 0.9,linetype="longdash")+geom_hline(yintercept = 0.5,linetype="longdash")+geom_vline(xintercept = 16,linetype="longdash")+geom_vline(xintercept = 60,linetype="longdash")
+plotdata
+class(plotdata)
