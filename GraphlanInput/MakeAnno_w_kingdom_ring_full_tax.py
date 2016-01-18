@@ -51,7 +51,8 @@ for i in range(len(Tax)):
         
 #print legend
 for i in classColor:
-    fwrite.write(i[0]+'\t'+"annotation"+'\t'+i[1]+'\n')
+    fwrite.write(i[0]+'\t'+"annotation"+'\t'+i[0]+'\n')
+    fwrite.write(i[0]+'\t'+"annotation_background_color"+'\t'+i[0]+'\n')
 
 #print Legends
 for i in range(len(KingdomColor)):
