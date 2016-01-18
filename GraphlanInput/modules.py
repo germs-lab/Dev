@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 def TaxTable_full_tax(filename):
+	Tax = []
 	fread = open(filename,'r')
 	for line in fread:
 		tempLine = line.strip().split('\t')
