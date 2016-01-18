@@ -38,6 +38,7 @@ for i in range(len(Tax)):
     if (Tax[i][5] != ""):
         fwrite.write(Tax[i][7]+'\t'+"annotation_background_color"+'\t'+tempColor+'\n')
         #fwrite.write(Tax[i][7]+'\t'+"annotation"+'\t'+tempColor+'\n')
+        fwrite.write(Tax[i][7]+'\t'+"annotation"+'\t'+Tax[i][1]+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
         fwrite.write(Tax[i][7]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
@@ -50,9 +51,9 @@ for i in range(len(Tax)):
             fwrite.write(Tax[i][7]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
         
 #print legend
-for i in classColor:
-    fwrite.write(i[0]+'\t'+"annotation"+'\t'+i[0]+'\n')
-    fwrite.write(i[0]+'\t'+"annotation_background_color"+'\t'+i[0]+'\n')
+#for i in classColor:
+#    fwrite.write(i[0]+'\t'+"annotation"+'\t'+i[0]+'\n')
+#    fwrite.write(i[0]+'\t'+"annotation_background_color"+'\t'+i[0]+'\n')
 
 #print Legends
 for i in range(len(KingdomColor)):
