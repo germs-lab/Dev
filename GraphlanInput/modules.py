@@ -2,28 +2,19 @@
 
 def TaxTable_full_tax(filename):
 	fread = open(filename,'r')
-    Kingdom = []
-    phylum = []
-    Class = []
-    Order = []
-    Family = []
-    genus = []
-    Sp = []
-    Tax = []
-    ID = []
-    for line in fread:
-    	tempLine = line.strip().split('\t')
+	for line in fread:
+		tempLine = line.strip().split('\t')
 		tempSubLine = tempLine[2].split(';')
-        tempKingdom = tempSubLine[0]
-        tempPhylum = tempSubLine[1]
-        tempClass = tempSubLine[2]
-        tempOrder = tempSubLine[3]
-        tempFamily = tempSubLine[4]
-        tempGenus = tempSubLine[5]
-        tempSp = tempSubLine[6]
-        tempID = tempLine[0]
-        tempTax = [tempKingdom,tempPhylum,tempClass,tempOrder,tempFamily,tempGenus,tempSp,tempID]
-        Tax.append(tempTax)
+		tempKingdom = tempSubLine[0]
+		tempPhylum = tempSubLine[1]
+		tempClass = tempSubLine[2]
+		tempOrder = tempSubLine[3]
+		tempFamily = tempSubLine[4]
+		tempGenus = tempSubLine[5]
+		tempSp = tempSubLine[6]
+		tempID = tempLine[0]
+		tempTax = [tempKingdom,tempPhylum,tempClass,tempOrder,tempFamily,tempGenus,tempSp,tempID]
+		Tax.append(tempTax)
 	return Tax
 
 def TaxTable(filename):
