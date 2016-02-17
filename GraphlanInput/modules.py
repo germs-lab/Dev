@@ -5,7 +5,7 @@ def TaxTable_from_RefSoil(filename):
 	fread = open(filename,'r')
 	fread.next()
 	for line in fread:
-		tempLien = line.strip().split('\t')
+		tempLine = line.strip().split('\t')
 		tempKingdom = tempLine[6]
                 tempPhylum = tempLine[7]
                 tempClass = tempLine[8]
