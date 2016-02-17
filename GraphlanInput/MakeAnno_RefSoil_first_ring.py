@@ -8,7 +8,6 @@ filein = sys.argv[1]
 fileout = sys.argv[2]
 full_path = os.path.realpath(__file__)
 
-deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
 
 #Make Tax table using RefSoil_v1
