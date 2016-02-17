@@ -15,7 +15,7 @@ def TaxTable_from_RefSoil(filename):
                 tempSp = tempLine[12]
                 tempID = tempLine[0]
 		tempTax = [tempKingdom,tempPhylum,tempClass,tempOrder,tempFamily,tempGenus,tempSp,tempID]
-                Tax.append(tempTax)
+                tax.append(tempTax)
 	return tax
 
 
