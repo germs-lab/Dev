@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # This script make annotation file
-#python MakeAnno_no_ring.py rep_set_tax_assignments.txt Annotation.txt
+#python MakeAnno_RefSoil_no_ring.py RefSoil_v1.txt Annotation.txt
 # print Legends part may not useful
 import sys, os
 import modules
@@ -11,14 +11,14 @@ filedefault = os.path.dirname(full_path)+"/DefaultAnnoNoRing.txt"
 
 deread = open(filedefault,'r')
 fwrite = open(fileout,'w')
-lewrite = open("Legends.txt",'w')
+
 #write default
 for line in deread:
     fwrite.write(line)
 fwrite.write('\n')
 
-#Make Tax table
-Tax = modules.TaxTable(filein)
+#Make Tax table using RefSoil_v1
+Tax = modules.TaxTable_from_RefSoil(filein)
 
 # class color assignment
 classColor = modules.AssignColor(Tax)
@@ -48,12 +48,4 @@ for i in range(len(Tax)):
             fwrite.write(Tax[i][7]+'\t'+"clade_marker_color"+'\t'+tempColor+'\n')
             fwrite.write(Tax[i][7]+'\t'+"clade_marker_size"+'\t'+"30"+'\n')
             fwrite.write(Tax[i][7]+'\t'+"clade_marker_edge_width"+'\t'+"0.1"+'\n')
-        
-#print Legends
-for i in range(len(KingdomColor)):
-    lewrite.write(KingdomColor[i][0]+":"+KingdomColor[i][1]+'\n')
-
-lewrite.write('\n')
-
-for i in range(len(classColor)):
-    lewrite.write(classColor[i][0]+":"+classColor[i][1]+'\n')
+ 

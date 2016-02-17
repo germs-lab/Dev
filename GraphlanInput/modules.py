@@ -1,5 +1,22 @@
 #!/usr/bin/python
 
+def TaxTable_from_RefSoil(filename):
+	tax = []
+	fread = open(filename,'r')
+	fread.next()
+	for line in fread:
+		tempLien = line.strip().split('\t')
+		tempKingdom = tempLine[6]
+                tempPhylum = tempLine[7]
+                tempClass = tempLine[8]
+                tempOrder = tempLine[9]
+                tempFamily = tempLine[10]
+                tempGenus = tempLine[11]
+                tempSp = tempLine[12]
+                tempID = tempLine[0]
+	return tax
+
+
 def TaxTable_full_tax(filename):
 	Tax = []
 	fread = open(filename,'r')
