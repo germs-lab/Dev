@@ -16,7 +16,7 @@ for line in sumread:
     dict[splt[0]]=splt[1]
 sumread.close()
 #read map
-ndict = {}
+#ndict = {}
 for line in mapread:
     splt = line.strip().split('\t')
     ids = splt[1].split(',')
@@ -24,5 +24,6 @@ for line in mapread:
     for x in ids:
         tnum = float(dict[x])
         tsum = tsum + tnum
-    print tsum
-    ndict[splt[0]]=str(tsum)
+    #ndict[splt[0]]=str(tsum)
+    print splt[0]+'\t'+str(tsum)
+
