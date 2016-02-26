@@ -6,7 +6,7 @@ sumread = open(sys.argv[1],'r')
 mapread = open(sys.argv[2],'r')
 dict = {}
 line = sumread.next()
-if not (line.strip() == 'Counts/sample detail:'):
+while (line.strip() != 'Counts/sample detail:'):
     line = sumread.next()
 print line
 #for line in sumread:
