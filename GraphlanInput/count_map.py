@@ -22,8 +22,9 @@ for line in mapread:
     ids = splt[1].split(',')
     tsum = 0.0
     for x in ids:
-        tnum = float(dict[x])
-        tsum = tsum + tnum
+        if(dict.has_key(x)):
+            tnum = float(dict[x])
+            tsum = tsum + tnum
     #ndict[splt[0]]=str(tsum)
     print splt[0]+'\t'+str(tsum)
 
