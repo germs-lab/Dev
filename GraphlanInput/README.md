@@ -147,7 +147,7 @@ python MakeAnnoGuide_no_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt anno.gu
 ```
 If you want to add ring,
 ```
-python MakeAnnoGuide_w_ring.py RefSoil16sHMMFastaNS_tax_assignments.txt soil.abundance.txt anno.guide.ring.txt
+python MakeAnnoGuide_w_ring_SingleCell.py RefSoil16sHMMFastaNS_tax_assignments.txt singlecell.txt anno.guide.ring.txt
 ```
 
 After this, you can make a tree
@@ -173,4 +173,41 @@ then,
 bash GrepFromFile.sh otu.txt full_emp_table_w_tax.hdf5.summary > grepbash.sh
 bash grepbash.sh
 python AbundanceCounting.py blastResultFile.txt out abunTable.txt
+```
+
+## If you use RDP claassifier
+Running RDP classifier
+```
+java -Xmx1g -jar ~/RDPTools/classifier.jar classify -o EMP_soil_RDP_taxonomy.txt -h EMP_soil_RDP_hier.txt JavaNewSoilRepSet.fna
+```
+You will have Taxonomy file
+
+Then, make guide file
+```
+python rdp_to_guide.py EMP_soil_RDP_taxonomy.txt > EMP_soil_guide_uniq.txt
+```
+You are ready to draw tree
+
+step1: plain tree
+```
+graphlan.py EMP_soil_guide_uniq.txt EMP.step1.png --dpi 300 --size 15 --pad 0.6
+```
+step2: add color for phylum
+Make annotation file
+```
+python MakeAnno_rdp_guide.py EMP_soil_guide_uniq.txt EMP_soil_anno.txt
+graphlan_annotate.py --annot EMP_soil_anno.txt EMP_soil_guide_uniq.txt EMP_step2.xml
+graphlan.py EMP_step2.xml EMP.step2.png --dpi 300 --size 15 --pad 0.6
+```
+step3: add refsoil ring
+```
+python ../Dev/GraphlanInput/add_refsoil_ring.py RefSoil_guide_ar_bac.txt anno_step3.txt
+graphlan_annotate.py --annot anno_step3.txt EMP_step2.xml EMP_step3.xml
+graphlan.py EMP_step3.xml EMP_step3.png --dpi 300 --size 15 --pad 0.6
+```
+step4: add single cell ring
+```
+python ../Dev/GraphlanInput/Guide_Add_Ring_SingleCell.py /mnt/data2/jin_emp/emp/Dev/GraphlanInput/singlecell.unix.txt anno_step4.txt
+graphlan_annotate.py --annot anno_step4.txt EMP_step3.xml EMP_step4.xml
+graphlan.py EMP_step4.xml EMP.step4.png --dpi 300 --size 15 --pad 0.6
 ```
