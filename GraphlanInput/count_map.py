@@ -8,6 +8,8 @@ dict = {}
 line = sumread.next()
 while (line.strip() != 'Counts/sample detail:'):
     line = sumread.next()
-print line
-#for line in sumread:
+line = sumread.next()
+for line in sumread:
+    splt = line.strip().split(': ')
+    print splt
     
