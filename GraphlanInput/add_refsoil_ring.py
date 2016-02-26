@@ -7,7 +7,7 @@ import modules
 filein = sys.argv[1]
 fileout = sys.argv[2]
 
-fread = open(fileAbun,'r')
+fread = open(filein,'r')
 fwrite = open(fileout,'w')
 
 for line in fread:
