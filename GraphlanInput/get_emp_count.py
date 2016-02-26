@@ -7,5 +7,5 @@ for line in open(sys.argv[1]):
     dict[splt[0]]=splt[1]
 
 for line in open(sys.argv[2]):
-    if(dict.has_key(line.strip()):
+    if(dict.has_key(line.strip())):
            print line.strip()+'\t'+dict[line.strip()]
