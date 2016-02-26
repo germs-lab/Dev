@@ -1,9 +1,10 @@
 #!/usr/bin/python
-#usage: python rdp_to_guide.py rdpfile > output
+#usage: python rdp_to_guide.py rdpfile mapoutput > output
 
 import sys
 import read_rdp_taxonomy
 filename = sys.argv[1]
+fwrite = open(sys.argv[2],'w')
 
 tax = read_rdp_taxonomy.get_tax(filename)
 dict = {}
@@ -18,4 +19,7 @@ for item in tax:
 
 for x in dict.keys():
     print x
+
+for x in dict.items():
+    fwrite.write(x[0]+'\t'+x[1]+'\n')
 #print len(dict)
