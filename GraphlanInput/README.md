@@ -245,3 +245,9 @@ python ../Dev/GraphlanInput/Guide_Add_Ring_SingleCell.py /mnt/data2/jin_emp/emp/
 graphlan_annotate.py --annot anno_step4.txt EMP_step3.xml EMP_step4.xml
 graphlan.py EMP_step4.xml EMP.step4.png --dpi 300 --size 15 --pad 0.6
 ```
+step5: add abundance ring
+```
+python ../Dev/GraphlanInput/MakeAnno_EMP_abundance.py EMP_count.txt anno.emp.count.txt
+graphlan_annotate.py --annot anno.emp.count.txt EMP_step4.xml EMP_step5.xml
+graphlan.py EMP_step5.xml EMP_step5.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
