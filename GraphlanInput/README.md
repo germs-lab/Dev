@@ -175,7 +175,41 @@ bash grepbash.sh
 python AbundanceCounting.py blastResultFile.txt out abunTable.txt
 ```
 
-## If you use RDP claassifier
+## Example1: RefSoil tree
+You need 16s file, here is the description how to get 16s sequences. https://github.com/germs-lab/ref_soil
+
+### step1: Alignment using infernal with RDP's bacterial model
+```
+$ ~/infernal-1.1.1-linux-intel-gcc/binaries/cmalign bacteria_model.cm RefSoil16sGenbank_HMM_clean.fa > RefSoil_bac_ali.sto
+$ ~/infernal-1.1.1-linux-intel-gcc/binaries/esl-reformat afa RefSoil_bac_ali.sto > RefSoil_bac_ali.afa
+```
+### step2: build tree using Fasttree
+```
+$ wget http://www.microbesonline.org/fasttree/FastTree
+$ chmod 655 FastTree
+$ ./FastTree -nt < RefSoil_bac_ali.afa > RefSoil_bac.tree
+```
+### step3: plot tree using Graphlan
+This step add color for phylum
+```
+python MakeAnno_RefSoil_no_ring.py RefSoil_v1.txt.split.bacteria.txt RefSoil_bacAnno.txt
+graphlan_annotate.py --annot RefSoil_bacAnno.txt RefSoil_bac.tree step2.xml
+```
+This step add first ring
+```
+python MakeAnno_RefSoil_first_ring.py RefSoil_v1.txt.split.bacteria.txt RefSoilAnno_ring1.txt
+graphlan_annotate.py --annot RefSoilAnno_ring1.txt step2.xml step3.xml
+```
+This step add legend
+```
+python MakeAnno_RefSoil_legend.py RefSoil_v1.txt.split.bacteria.txt legend_anno.txt
+graphlan_annotate.py --annot legend_anno.txt step3.xml step4.xml
+```
+Finally generate tree figure
+```
+graphlan.py step4.xml step4.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
+## Example2: If you use RDP claassifier
 Running RDP classifier
 ```
 java -Xmx1g -jar ~/RDPTools/classifier.jar classify -o EMP_soil_RDP_taxonomy.txt -h EMP_soil_RDP_hier.txt JavaNewSoilRepSet.fna
