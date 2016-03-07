@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#python add_ring_soil_type.py soil_type_count.txt anno.soiltype.txt
+#python add_ring_soil_type.py soil_type_abun.txt anno.soiltype.txt
 import sys,os
 import modules
 fread = open(sys.argv[1],'r')
@@ -15,6 +15,6 @@ color = ['r','g','b','#E80C7A','#006400','#00CD00','#191970','#303030','#7B68EE'
 
 for item in dict.items():
     for i in range(0,len(item[1])):
-        fwrite.write(item[0]+'\t'+"ring_width"+'\t'+"1"+'\t'+str(i+2)+'\n')
-        fwrite.write(item[0]+'\t'+"ring_height"+'\t'+"1"+'\t'+"0.34"+'\n')
-        fwrite.write(item[0]+'\t'+"ring_color"+'\t'+"1"+'\t'+color[i]+'\n')
+        fwrite.write(item[0]+'\t'+"ring_width"+'\t'+str(i+2)+'\t'+"1"+'\n')
+        fwrite.write(item[0]+'\t'+"ring_height"+'\t'+str(i+2)+'\t'+"0.34"+'\n')
+        fwrite.write(item[0]+'\t'+"ring_color"+'\t'+str(i+2)+'\t'+color[i]+'\n')
