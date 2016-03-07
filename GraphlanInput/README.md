@@ -40,7 +40,7 @@ The scripts below help you to write annotation file that add taxomony informatio
 ## Make tree with tree file (.dnd or .xml)
 #### Step 1: Make tree with plain tree file
 If you have a tree file, you can draw the tree with following: 
-```
+fwrite.write(item[0]```
 graphlan.py RefSoil16sHMMFastaNS.dnd RefSoilPlain.png 
 ```
 
@@ -192,22 +192,28 @@ $ ./FastTree -nt < RefSoil_bac_ali.afa > RefSoil_bac.tree
 ### step3: plot tree using Graphlan
 This step add color for phylum
 ```
-python MakeAnno_RefSoil_no_ring.py RefSoil_v1.txt.split.bacteria.txt RefSoil_bacAnno.txt
-graphlan_annotate.py --annot RefSoil_bacAnno.txt RefSoil_bac.tree step2.xml
+python ../../dev/GraphlanInput/make_anno_refsoil.py RefSoil_v1.txt.split.bacteria.txt anno.step2.txt
+graphlan_annotate.py --annot anno.step2.txt RefSoil_bac.tree step2.xml
 ```
 This step add first ring
 ```
-python MakeAnno_RefSoil_first_ring.py RefSoil_v1.txt.split.bacteria.txt RefSoilAnno_ring1.txt
-graphlan_annotate.py --annot RefSoilAnno_ring1.txt step2.xml step3.xml
+python ../../dev/GraphlanInput/add_kingdom.py RefSoil_v1.txt.split.bacteria.txt anno.step3.txt
+graphlan_annotate.py --annot anno.step3.txt step2.xml step3.xml
 ```
 This step add legend
 ```
-python MakeAnno_RefSoil_legend.py RefSoil_v1.txt.split.bacteria.txt legend_anno.txt
-graphlan_annotate.py --annot legend_anno.txt step3.xml step4.xml
+python ../../dev/GraphlanInput/add_legend.py RefSoil_v1.txt.split.bacteria.txt anno.step4.txt
+graphlan_annotate.py --annot anno.step4.txt step3.xml step4.xml
+```
+add soil type
+```
+python ../dev/emp_tools/make_abun_table.py soil_type_count.txt refsoil_emp_blast.out.txt > soil_type_abun.txt
+python ../../dev/GraphlanInput/add_ring_soil_type.py soil_type_abun.txt anno.step5.txt
+graphlan_annotate.py --annot anno.step5.txt step4.xml step5.xml
 ```
 Finally generate tree figure
 ```
-graphlan.py step4.xml step4.png --dpi 300 --size 15 --pad 0.6 --external_legends
+graphlan.py step5.xml step5.png --dpi 300 --size 15 --pad 0.6 --external_legends
 ```
 ## Example2: If you use RDP claassifier
 Running RDP classifier
@@ -218,7 +224,7 @@ You will have Taxonomy file
 
 Then, make guide file
 ```
-python rdp_to_guide.py EMP_soil_RDP_taxonomy.txt > EMP_soil_guide_uniq.txt
+python rdp_to_guide.py EMP_soil_RDP_taxonomy.txt EMP_soil_map.txt > EMP_soil_guide.txt
 ```
 You are ready to draw tree
 
@@ -246,8 +252,21 @@ graphlan_annotate.py --annot anno_step4.txt EMP_step3.xml EMP_step4.xml
 graphlan.py EMP_step4.xml EMP.step4.png --dpi 300 --size 15 --pad 0.6
 ```
 step5: add abundance ring
+count using map
+```
+python count_map.py summaryfile mapfile > output
+```
+get count for refsoil
+```
+python get_emp_count.py EMP_count.txt RefSoil_guide_ar_bac.txt > refsoil_count.txt
+```
+make annotation
 ```
 python ../Dev/GraphlanInput/MakeAnno_EMP_abundance.py EMP_count.txt anno.emp.count.txt
 graphlan_annotate.py --annot anno.emp.count.txt EMP_step4.xml EMP_step5.xml
 graphlan.py EMP_step5.xml EMP_step5.png --dpi 300 --size 15 --pad 0.6 --external_legends
+```
+to get count for singlecell
+```
+python /mnt/data2/jin_emp/emp/Dev/GraphlanInput/get_emp_count.py sc_guide_map.txt /mnt/data2/jin_emp/emp/soil_emp_rdp_tax/EMP_count.txt sc_guide.txt
 ```
