@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # This script make annotation file
-#python MakeAnno_RefSoil_no_ring.py RefSoil_v1.txt Annotation.txt
+#python add_kingdom.py RefSoil_v1.txt Annotation.txt
 # print Legends part may not useful
 import sys, os
 import modules
