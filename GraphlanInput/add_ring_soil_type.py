@@ -18,12 +18,15 @@ for item in dict.items():
     for x in item[1]:
         templist.append(float(x))
     tempsum = sum(list(templist))
+    #print tempsum
     for i in range(0,len(item[1])):
+        tempAlpha = 0.0
+        #print templist[i]
         if (tempsum == 0.0):
             tempAlpha = 0.0
         else:
-            tempAlpha = float(i)/tempsum
-        #print tempAlpha
+            tempAlpha = float(templist[i])/tempsum
+        #print item[0],tempAlpha
         fwrite.write(item[0]+'\t'+"ring_width"+'\t'+str(i+2)+'\t'+"1"+'\n')
         fwrite.write(item[0]+'\t'+"ring_height"+'\t'+str(i+2)+'\t'+"0.34"+'\n')
         fwrite.write(item[0]+'\t'+"ring_color"+'\t'+str(i+2)+'\t'+color[i]+'\n')
