@@ -1,4 +1,5 @@
 #!/usr/bin/python
+import sys
 
 def TaxTable_from_guide(filename):
 	tax = []
@@ -118,6 +119,24 @@ def TaxTable(filename):
         tempTax = [tempKingdom,tempPhylum,tempClass,tempOrder,tempFamily,tempGenus,tempSp,tempID]
         Tax.append(tempTax)
     return Tax
+
+def assigned_phylum_color(tax):
+	fread = open('refsoil_phylum_color.unix.txt')
+	class_color = []
+	dict = {}
+	for line in fread:
+		spl = line.strip().split('\t')
+		dict[spl[1]] = spl[2]
+	for i in range(len(tax)):
+		temp = []
+		if dict.has_key(tax[i][1]):
+			temp = [tax[i][1],dict[tax[i][1]]]
+		else:
+			temp = [tax[i][1],"#000000"]
+		class_color.append(temp)
+	return class_color
+
+
 
 def AssignColor(Tax):
     phylum = []

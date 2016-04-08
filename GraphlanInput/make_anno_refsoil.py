@@ -21,7 +21,8 @@ fwrite.write('\n')
 Tax = modules.TaxTable_from_RefSoil(filein)
 
 # class color assignment
-classColor = modules.AssignColor(Tax)
+#classColor = modules.AssignColor(Tax)
+classColor = modules.assigned_phylum_color(Tax)
 KingdomColor = [["Bacteria",'#EE6A50'],["Archaea",'#9ACD32']]
 
 # Write annotation
