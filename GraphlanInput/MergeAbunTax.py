@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# usage: python MergeAbunTax.py taxfile abundancefile outputfile
 # example: python MergeAbunTax.py Refsoil16scomp_tax_assignments.txt abunTable.txt abun_w_tax.txt
 import sys
 fread1 = open(sys.argv[1],'r')
