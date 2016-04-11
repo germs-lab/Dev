@@ -40,7 +40,8 @@ The scripts below help you to write annotation file that add taxomony informatio
 ## Make tree with tree file (.dnd or .xml)
 #### Step 1: Make tree with plain tree file
 If you have a tree file, you can draw the tree with following: 
-fwrite.write(item[0]```
+
+```
 graphlan.py RefSoil16sHMMFastaNS.dnd RefSoilPlain.png 
 ```
 
