@@ -12,7 +12,7 @@ spl = line.strip().split('\t')
 for i in range(2,len(spl)):
 	fwrite.write("ring_label"+'\t'+str(i)+'\t'+spl[i]+'\n')
 	fwrite.write("ring_label_color"+'\t'+str(i)+'\t'+color[i-2]+'\n')
-	fwrite.write("ring_label_font_size"+'\t'+str(i)+'\t'+"10"+'\n')
+	fwrite.write("ring_label_font_size"+'\t'+str(i)+'\t'+"20"+'\n')
 for line in fread:
     spl = line.strip().split('\t')
     temp = []
@@ -35,6 +35,6 @@ for item in dict.items():
             tempAlpha = float(templist[i])/tempsum
         #print item[0],tempAlpha
         fwrite.write(item[0]+'\t'+"ring_width"+'\t'+str(i+2)+'\t'+"1"+'\n')
-        fwrite.write(item[0]+'\t'+"ring_height"+'\t'+str(i+2)+'\t'+"0.34"+'\n')
+        fwrite.write(item[0]+'\t'+"ring_height"+'\t'+str(i+2)+'\t'+"1"+'\n')
         fwrite.write(item[0]+'\t'+"ring_color"+'\t'+str(i+2)+'\t'+color[i]+'\n')
         fwrite.write(item[0]+'\t'+"ring_alpha"+'\t'+str(i+2)+'\t'+str(tempAlpha)+'\n')
