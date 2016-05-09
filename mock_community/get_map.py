@@ -17,5 +17,5 @@ for record in gb_record.features:
                 ids = [">",record.qualifiers["locus_tag"][0]]
                 gene_name = "".join(ids)
                 genome = gb_file.split('.')[0].split('/')[1]
-                print '\t'.join([name[genome],gene_name])
+                print '\t'.join([name[genome],gene_name[1:]])
 
