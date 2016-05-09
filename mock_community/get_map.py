@@ -16,6 +16,6 @@ for record in gb_record.features:
             if (x == "translation"):
                 ids = [">",record.qualifiers["locus_tag"][0]]
                 gene_name = "".join(ids)
-                genome = gb_file.split('.')[0]
+                genome = gb_file.split('.')[0].split('/')[1]
                 print '\t'.join([name[genome],gene_name])
 
