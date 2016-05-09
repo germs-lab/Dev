@@ -1,0 +1,22 @@
+Acinetobacter baumannii, strain 5377 	NC_009085
+Actinomyces odontolyticus, strain 1A.21 	NZ_DS264586
+Bacillus cereus, strain NRS 248 	NC_003909
+Bacteroides vulgatus, strain ATCC® 8482 	NC_009614
+Clostridium beijerinckii, strain NCIMB 8052 	NC_009617
+Deinococcus radiodurans, strain R1 (smooth) 	NC_001263
+Deinococcus radiodurans, strain R1 (smooth) 	NC_001264
+Enterococcus faecalis, strain OG1RF 	NC_17316
+Escherichia coli, strain K12, substrain MG1655 	NC_000913
+Helicobacter pylori, strain 26695 	NC_000915
+Lactobacillus gasseri, strain 63 AM 	NC_008530
+Listeria monocytogenes, strain EGDe 	NC_003210
+Neisseria meningitidis, strain MC58 	NC_003112
+Propionibacterium acnes, strain KPA171202 	NC_006085
+Pseudomonas aeruginosa, strain PAO1-LAC 	NC_002516
+Rhodobacter sphaeroides, strain ATH 2.4.1 	NC_007493
+Rhodobacter sphaeroides, strain ATH 2.4.1 	NC_007494
+Staphylococcus aureus, strain TCH1516 	NC_010079
+Staphylococcus epidermidis, FDA strain PCI 1200 	NC_004461
+Streptococcus agalactiae, strain 2603 V/R 	NC_004116
+Streptococcus mutans, strain UA159 	NC_004350
+Streptococcus pneumoniae, strain TIGR4 	NC_003028
