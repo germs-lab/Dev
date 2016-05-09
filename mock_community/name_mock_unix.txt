@@ -5,7 +5,7 @@ Bacteroides vulgatus, strain ATCC® 8482 	NC_009614
 Clostridium beijerinckii, strain NCIMB 8052 	NC_009617
 Deinococcus radiodurans, strain R1 (smooth) 	NC_001263
 Deinococcus radiodurans, strain R1 (smooth) 	NC_001264
-Enterococcus faecalis, strain OG1RF 	NC_17316
+Enterococcus faecalis, strain OG1RF 	NC_017316
 Escherichia coli, strain K12, substrain MG1655 	NC_000913
 Helicobacter pylori, strain 26695 	NC_000915
 Lactobacillus gasseri, strain 63 AM 	NC_008530
