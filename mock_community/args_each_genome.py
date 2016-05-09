@@ -8,7 +8,7 @@ mapfile =open(sys.argv[1],'r')
 for line in mapfile:
     spl = line.rstrip().split('\t')
     #print spl[1][1:]
-    map[spl[1][1:]] = spl[0].split('/')[1]
+    map[spl[1]] = spl[0]
 #print len(map)
 genome = {}
 for f in sys.argv[2:]:
