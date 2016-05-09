@@ -34,4 +34,4 @@ for f in sys.argv[2:]:
 
 for item in genome.items():
     for res in item[1].items():
-        print '\t'.join([item[0],res[0],res[1]])
+        print '\t'.join([item[0],res[0],str(res[1])])
