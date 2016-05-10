@@ -1,0 +1,5 @@
+data <- read.table("bar_intput.txt",sep='\t')
+library(ggplot2)
+pdf("each_genome.pdf",width=30,height=8)
+ggplot(data,aes(x=V1, y=V3, fill=V2)) + geom_bar(stat="identity") + theme(axis.text.x = element_text(angle = 90, hjust = 1))+labs(y="number of ARGs-fungene family")
+dev.off()
