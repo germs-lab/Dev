@@ -12,5 +12,5 @@ for line in open(sys.argv[2],'r'):
         for keys in lis.keys():
             if(keys in line):
                 print line,
-    else:
-        print line,
+    #else:
+    #    print line,
